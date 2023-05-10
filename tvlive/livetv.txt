@@ -2115,7 +2115,6 @@ bili_蜡笔小新,http://epg.112114.xyz/bili/10375360
 虎牙_虹猫蓝兔,http://43.128.40.42:198/虎牙直播/huya.php?id=22592516
 虎牙_虹猫蓝兔,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=22592516
 虎牙_虹猫蓝兔,http://epg.112114.eu.org/huya/22592516
-虎牙_虹猫蓝兔,http://mmitv.top/pltv/huya.php?id=22592516
 虎牙_虹猫蓝兔,http://diyp.112114.xyz/huya/22592516
 虎牙_虹猫蓝兔,http://live.aptvapp.com/live/huya/22592516
 虎牙_虹猫蓝兔,http://epg.112114.xyz/huya/22592516
@@ -2682,7 +2681,8 @@ YY_欧美科幻,http://luotuo.ycchenrong.cn/dl/yy.php?id=37988782
 YY_欧美科幻,http://dl.zhoujie218.top/dl/yy.php?id=37988782
 YY_欧美电影,http://data.3g.yy.com/live/hls/24923327/24923327
 YY_欧美电影,http://106.53.212.251:80/daili/yy.php?id=24923327
-YY_欧美电影,http://maomao.kandiantv.cn/yy.php?id=http://mmitv.top/pltv/yy.php?id=24923327
+YY_欧美电影,http://maomao.kandiantv.cn/yy.php?id=24923327
+YY_欧美电影,http://mmitv.top/pltv/yy.php?id=24923327
 YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=24923327
 YY_欧美电影,http://luotuo.ycchenrong.cn/dl/yy.php?id=24923327
@@ -4325,7 +4325,6 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)Uzi,http://43.128.40.42:198/虎牙直播/huya.php?id=100
 虎牙_(LOL)Uzi,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=100
 虎牙_(LOL)Uzi,http://epg.112114.eu.org/huya/100
-虎牙_(LOL)Uzi,http://mmitv.top/pltv/huya.php?id=100
 虎牙_(LOL)Uzi,http://diyp.112114.xyz/huya/100
 虎牙_(LOL)Uzi,http://live.aptvapp.com/live/huya/100
 虎牙_(LOL)Uzi,http://epg.112114.xyz/huya/100
@@ -4339,7 +4338,6 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)AmazingJ,http://43.128.40.42:198/虎牙直播/huya.php?id=991108
 虎牙_(LOL)AmazingJ,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=991108
 虎牙_(LOL)AmazingJ,http://epg.112114.eu.org/huya/991108
-虎牙_(LOL)AmazingJ,http://mmitv.top/pltv/huya.php?id=991108
 虎牙_(LOL)AmazingJ,http://diyp.112114.xyz/huya/991108
 虎牙_(LOL)AmazingJ,http://live.aptvapp.com/live/huya/991108
 虎牙_(LOL)AmazingJ,http://epg.112114.xyz/huya/991108
@@ -4353,7 +4351,6 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)霸哥,http://43.128.40.42:198/虎牙直播/huya.php?id=189201
 虎牙_(LOL)霸哥,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=189201
 虎牙_(LOL)霸哥,http://epg.112114.eu.org/huya/189201
-虎牙_(LOL)霸哥,http://mmitv.top/pltv/huya.php?id=189201
 虎牙_(LOL)霸哥,http://diyp.112114.xyz/huya/189201
 虎牙_(LOL)霸哥,http://live.aptvapp.com/live/huya/189201
 虎牙_(LOL)霸哥,http://epg.112114.xyz/huya/189201
@@ -4367,7 +4364,6 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)kRYST4L,http://43.128.40.42:198/虎牙直播/huya.php?id=222523
 虎牙_(LOL)kRYST4L,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=222523
 虎牙_(LOL)kRYST4L,http://epg.112114.eu.org/huya/222523
-虎牙_(LOL)kRYST4L,http://mmitv.top/pltv/huya.php?id=222523
 虎牙_(LOL)kRYST4L,http://diyp.112114.xyz/huya/222523
 虎牙_(LOL)kRYST4L,http://live.aptvapp.com/live/huya/222523
 虎牙_(LOL)kRYST4L,http://epg.112114.xyz/huya/222523
@@ -4381,7 +4377,6 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(PUBG)godv,http://43.128.40.42:198/虎牙直播/huya.php?id=7911
 虎牙_(PUBG)godv,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=7911
 虎牙_(PUBG)godv,http://epg.112114.eu.org/huya/7911
-虎牙_(PUBG)godv,http://mmitv.top/pltv/huya.php?id=7911
 虎牙_(PUBG)godv,http://diyp.112114.xyz/huya/7911
 虎牙_(PUBG)godv,http://live.aptvapp.com/live/huya/7911
 虎牙_(PUBG)godv,http://epg.112114.xyz/huya/7911
@@ -4395,7 +4390,6 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_音悦台,http://43.128.40.42:198/虎牙直播/huya.php?id=880201
 虎牙_音悦台,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=880201
 虎牙_音悦台,http://epg.112114.eu.org/huya/880201
-虎牙_音悦台,http://mmitv.top/pltv/huya.php?id=880201
 虎牙_音悦台,http://diyp.112114.xyz/huya/880201
 虎牙_音悦台,http://live.aptvapp.com/live/huya/880201
 虎牙_音悦台,http://epg.112114.xyz/huya/880201
@@ -4409,7 +4403,6 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_快乐老家,http://43.128.40.42:198/虎牙直播/huya.php?id=880351
 虎牙_快乐老家,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=880351
 虎牙_快乐老家,http://epg.112114.eu.org/huya/880351
-虎牙_快乐老家,http://mmitv.top/pltv/huya.php?id=880351
 虎牙_快乐老家,http://diyp.112114.xyz/huya/880351
 虎牙_快乐老家,http://live.aptvapp.com/live/huya/880351
 虎牙_快乐老家,http://epg.112114.xyz/huya/880351
