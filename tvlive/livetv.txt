@@ -74,6 +74,7 @@ WHIZ Radio 海口音乐广播,http://starfish.sz.aliyun.005.qingting.fm:8000/hai
 CCTV1,http://hms224nc1972679579.live.aikan.miguvideo.com/wh7f454c46tw2147659171_-1321523306/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502021432&ContentId=265183188&timezone=UTC&mtv_session=18f89c8b17aeab3f0b4cd2bf5d41cf29&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9d6643c66e8c936a439ac248a60e2cb6
 
 CCTV1_标清,http://111.20.40.162/PLTV/88888893/224/3221226583/index.m3u8
+CCTV1_标清,http://42.49.129.136:808/hls/1/index.m3u8
 CCTV1_标清,https://cctvwbndtxy.liveplay.myqcloud.com/cctvwbnd/jzcctv1_2/index.m3u8
 CCTV1_标清,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV1_标清,http://111.20.40.163/PLTV/88888893/224/3221226583/index.m3u8
@@ -1093,6 +1094,32 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 青海卫视,http://jiexi.bulisite.top/ysp.php?id=qhws
 天津卫视,http://jiexi.bulisite.top/ysp.php?id=tjws
 
+湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
+江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
+广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
+四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
+浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
+东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
+天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
+安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
+湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
+山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
+江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
+河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
+河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
+甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
+重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
+
 湖南卫视,http://live.cooltv.top/tv/yqdtv.php?id=140
 浙江卫视,http://live.cooltv.top/tv/yqdtv.php?id=142
 东方卫视,http://live.cooltv.top/tv/yqdtv.php?id=135
@@ -1119,32 +1146,6 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 山西卫视,http://live.cooltv.top/tv/yqdtv.php?id=133
 辽宁卫视,http://live.cooltv.top/tv/yqdtv.php?id=145
 中国教育4台,http://live.cooltv.top/tv/yqdtv.php?id=179
-
-湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 
 湖南卫视,http://cntv.sbs/live?id=hunws
 北京卫视,http://cntv.sbs/live?id=bjws
@@ -1360,13 +1361,6 @@ CGTN,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240370_1/playlist.m3u8
 黑龙江卫视,http://117.169.124.149:8080/live/HD-8000k-1080P-heilongjiangstv/index.m3u8
 内蒙古卫视,http://117.169.124.149:8080/live/neimenggustv/index.m3u8
 CGTN纪实,http://117.169.124.149:8080/live/cctv-9/index.m3u8
-江苏城市,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jscs.m3u8
-江苏综艺,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jszy.m3u8
-江苏国际,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jsgj.m3u8
-江苏教育,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jsjy.m3u8
-江苏靓妆,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jslz.m3u8
-江苏新闻,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jsgg.m3u8
-江苏体育,https://xuyi-tv-replay.cm.jstv.com/lizhiapp/jsty.m3u8
 
 
 
@@ -1420,7 +1414,6 @@ CGTN纪实,http://117.169.124.149:8080/live/cctv-9/index.m3u8
 重庆卫视,http://39.134.115.221:8080/PLTV/88888910/224/3221225734/index.m3u8
 中国教育1台,http://39.134.115.221:8080/PLTV/88888910/224/3221225661/index.m3u8
 CGTN,http://39.134.115.221:8080/PLTV/88888910/224/3221225747/index.m3u8
-CGTN记录,http://39.134.115.221:8080/PLTV/88888910/224/3221225645/index.m3u8
 湖南卫视,http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://219.142.149.55:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTV,http://live.cgtn.com/500/prog_index.m3u8
@@ -1433,55 +1426,6 @@ CNC2,http://39.134.115.221:8080/PLTV/88888910/224/3221225694/index.m3u8
 16号,http://39.134.115.221:8080/PLTV/88888910/224/3221225712/index.m3u8
 20号,http://39.134.115.221:8080/PLTV/88888910/224/3221225716/index.m3u8
 爱上4K,http://39.134.115.221:8080/PLTV/88888910/224/3221225786/index.m3u8
-
-东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
-东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
-北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
-东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
-江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
-安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
-北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
-重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
-黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
-江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
-江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
-江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
-辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
-辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
-山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
-四川卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
-天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
-浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
-贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
-云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 
 湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
 东方卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225658/index.m3u8
@@ -1566,6 +1510,58 @@ CNC2,http://39.134.115.221:8080/PLTV/88888910/224/3221225694/index.m3u8
 云南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
 大湾区卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
 大湾区卫视,http://120.84.96.82:808/hls/67/index.m3u8
+大湾区卫视,http://42.49.129.136:808/hls/48/index.m3u8
+
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视,http://42.49.129.136:808/hls/51/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+广东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+山东卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+四川卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+天津卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+浙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
+云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+
 
 
 
@@ -1962,6 +1958,7 @@ CCTV14,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 金鹰卡通,http://117.169.124.149:8080/live/jinyingkaton/index.m3u8
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://cntv.sbs/live?id=jykt
+金鹰卡通,http://42.49.129.136:808/hls/57/index.m3u8
 金鹰卡通,http://php.cubs88.eu.org/cqyx.php?id=jinyingSD
 金鹰卡通,http://ainm.cc/c/tv/php/as.php?id=jykt
 金鹰卡通,http://live.cooltv.top/tv/aishang.php?id=jykt
@@ -2035,6 +2032,8 @@ i-Fun动漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u
 i-Fun动漫,https://epg.pw/stream/8689f3a4aaa41a290d04abab81f61fcfcfe95772b97610ea7f849fe6284ad534.m3u8
 靖天卡通台,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
 经典卡通台,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+斗鱼_柯南剧场版,http://huanqiuzhibo.cn/manifest/douyu.php?id=5377297
+斗鱼_柯南剧场版,http://maomao.kandiantv.cn/douyu1.php?id=5377297
 斗鱼_柯南剧场版,http://121.36.35.255:8686/douyu/5377297
 斗鱼_柯南剧场版,http://159.75.85.63:35455/douyu/5377297
 斗鱼_柯南剧场版,http://jiandjh.51vip.biz:35455/douyu/5377297
@@ -2095,6 +2094,7 @@ bili_蜡笔小新,http://epg.112114.eu.org/bili/10375360
 bili_蜡笔小新,http://diyp.112114.xyz/bili/10375360
 bili_蜡笔小新,http://epg.112114.xyz/bili/10375360
 虎牙_成龙历险记,https://aldirect.corp-hls.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_成龙历险记,http://huanqiuzhibo.cn/manifest/huya.php?id=11352946
 虎牙_成龙历险记,http://121.36.35.255:8686/huya/11352946
 虎牙_成龙历险记,http://159.75.85.63:35455/huya/11352946
 虎牙_成龙历险记,http://jiandjh.51vip.biz:35455/huya/11352946
@@ -2107,6 +2107,7 @@ bili_蜡笔小新,http://epg.112114.xyz/bili/10375360
 虎牙_成龙历险记,http://live.aptvapp.com/live/huya/11352946
 虎牙_成龙历险记,http://epg.112114.xyz/huya/11352946
 虎牙_虹猫蓝兔,http://aldirect.corp-hls.huya.com/src/1199544083295-1199544083295-5361011297360019456-2399088290046-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_虹猫蓝兔,http://huanqiuzhibo.cn/manifest/huya.php?id=22592516
 虎牙_虹猫蓝兔,http://121.36.35.255:8686/huya/22592516
 虎牙_虹猫蓝兔,http://159.75.85.63:35455/huya/22592516
 虎牙_虹猫蓝兔,http://jiandjh.51vip.biz:35455/huya/22592516
@@ -2119,6 +2120,7 @@ bili_蜡笔小新,http://epg.112114.xyz/bili/10375360
 虎牙_虹猫蓝兔,http://live.aptvapp.com/live/huya/22592516
 虎牙_虹猫蓝兔,http://epg.112114.xyz/huya/22592516
 虎牙_迪迦奥特曼,https://aldirect.corp-hls.huya.com/src/1524439835-1524439835-6547419236044636160-3049003126-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_迪迦奥特曼,http://huanqiuzhibo.cn/manifest/huya.php?id=11602074
 虎牙_迪迦奥特曼,http://121.36.35.255:8686/huya/11602074
 虎牙_迪迦奥特曼,http://159.75.85.63:35455/huya/11602074
 虎牙_迪迦奥特曼,http://jiandjh.51vip.biz:35455/huya/11602074
@@ -2167,9 +2169,11 @@ CCTV6,http://39.135.138.58:18890/TVOD/88888888/224/3221225650/index.m3u8
 CCTV6,http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 湖南电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://119.39.128.18:88/hls/30/index.m3u8
+湖南电影,http://42.49.129.136:808//hls/56/index.m3u8
 湖南电影,http://v2.91kds.cn/b9/hntv.m3u8?id=hndy&auth=rinimabi
 湖南电影,http://ainm.cc/itv/huntv/hnxl.php?id=hndy
 长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+长沙影视,http://42.49.129.136:808/hls/65/index.m3u8
 长沙影视,http://live.cooltv.top/tv/ady.php?id=csys
 黑莓电影,http://39.134.136.161:6610/000000001000/2000000003000000001/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=3$ITV
 黑莓电影,http://39.134.136.161:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$ITV
@@ -2259,6 +2263,7 @@ IPTV4K超清,http://219.142.149.55:9901/tsfile/live/1011_1.m3u8?key=txiptv&playl
 IPTV4K超清,http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
 
 东森电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=104
+东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
 东森电影,http://120.84.96.82:808/hls/32/index.m3u8
 东森电影,http://120.84.96.87:808/hls/32/index.m3u8
@@ -2399,6 +2404,8 @@ bili_电影轮播,http://epg.112114.eu.org/bili/21448296
 bili_电影轮播,http://diyp.112114.xyz/bili/21448296
 bili_电影轮播,http://epg.112114.xyz/bili/21448296
 
+斗鱼_电影轮播1,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+斗鱼_电影轮播1,http://maomao.kandiantv.cn/douyu1.php?id=85894
 斗鱼_电影轮播1,http://121.36.35.255:8686/douyu/85894
 斗鱼_电影轮播1,http://159.75.85.63:35455/douyu/85894
 斗鱼_电影轮播1,http://jiandjh.51vip.biz:35455/douyu/85894
@@ -2408,6 +2415,8 @@ bili_电影轮播,http://epg.112114.xyz/bili/21448296
 斗鱼_电影轮播1,http://live.aptvapp.com/live/douyu/85894
 斗鱼_电影轮播1,http://epg.112114.xyz/douyu/85894
 
+斗鱼_电影轮播2,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+斗鱼_电影轮播2,http://maomao.kandiantv.cn/douyu1.php?id=122402
 斗鱼_电影轮播2,http://121.36.35.255:8686/douyu/122402
 斗鱼_电影轮播2,http://159.75.85.63:35455/douyu/122402
 斗鱼_电影轮播2,http://jiandjh.51vip.biz:35455/douyu/122402
@@ -2417,6 +2426,7 @@ bili_电影轮播,http://epg.112114.xyz/bili/21448296
 斗鱼_电影轮播2,http://live.aptvapp.com/live/douyu/122402
 斗鱼_电影轮播2,http://epg.112114.xyz/douyu/122402
 
+虎牙_港片轮播,http://huanqiuzhibo.cn/manifest/huya.php?id=11602058
 虎牙_港片轮播,http://121.36.35.255:8686/huya/11602058
 虎牙_港片轮播,http://159.75.85.63:35455/huya/11602058
 虎牙_港片轮播,http://jiandjh.51vip.biz:35455/huya/11602058
@@ -2430,6 +2440,7 @@ bili_电影轮播,http://epg.112114.xyz/bili/21448296
 虎牙_港片轮播,http://epg.112114.xyz/huya/11602058
 
 虎牙_八点档,https://aldirect.corp-hls.huya.com/src/1524439855-1524439855-6547419321943982080-3049003166-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_八点档,http://huanqiuzhibo.cn/manifest/huya.php?id=880261
 虎牙_八点档,http://121.36.35.255:8686/huya/880261
 虎牙_八点档,http://159.75.85.63:35455/huya/880261
 虎牙_八点档,http://jiandjh.51vip.biz:35455/huya/880261
@@ -2441,18 +2452,22 @@ bili_电影轮播,http://epg.112114.xyz/bili/21448296
 虎牙_八点档,http://diyp.112114.xyz/huya/880261
 虎牙_八点档,http://live.aptvapp.com/live/huya/880261
 虎牙_八点档,http://epg.112114.xyz/huya/880261
-
 YY_电影轮播,http://data.3g.yy.com/live/hls/1353059120/1353059120
 YY_电影轮播,http://106.53.212.251:80/daili/yy.php?id=1353059120
+YY_电影轮播,http://maomao.kandiantv.cn/yy.php?id=1353059120
 YY_电影轮播,http://mmitv.top/pltv/yy.php?id=1353059120
 YY_电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 YY_电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353059120
+YY_电影轮播,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353059120
+YY_电影轮播,http://dl.zhoujie218.top/dl/yy.php?id=1353059120
 
 bili_鬼片轮播,https://xy49x86x255x40xy.mcdn.bilivideo.cn:486/live-bvc/417485/live_22989278_9714011_bluray/index.m3u8
 bili_鬼片轮播,https://cn-hbyc-ct-02-16.bilivideo.com/live-bvc/417485/live_22989278_9714011_bluray/index.m3u8
 bili_鬼片轮播,http://epg.112114.eu.org/bili/193
 bili_鬼片轮播,http://diyp.112114.xyz/bili/193
 bili_鬼片轮播,http://epg.112114.xyz/bili/193
+斗鱼_鬼片轮播1,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
+斗鱼_鬼片轮播1,http://maomao.kandiantv.cn/douyu1.php?id=218859
 斗鱼_鬼片轮播1,http://121.36.35.255:8686/douyu/218859
 斗鱼_鬼片轮播1,http://159.75.85.63:35455/douyu/218859
 斗鱼_鬼片轮播1,http://jiandjh.51vip.biz:35455/douyu/218859
@@ -2461,6 +2476,8 @@ bili_鬼片轮播,http://epg.112114.xyz/bili/193
 斗鱼_鬼片轮播1,http://diyp.112114.xyz/douyu/218859
 斗鱼_鬼片轮播1,http://live.aptvapp.com/live/douyu/218859
 斗鱼_鬼片轮播1,http://epg.112114.xyz/douyu/218859
+斗鱼_鬼片轮播2,http://huanqiuzhibo.cn/manifest/douyu.php?id=6906628
+斗鱼_鬼片轮播2,http://maomao.kandiantv.cn/douyu1.php?id=6906628
 斗鱼_鬼片轮播2,http://121.36.35.255:8686/douyu/6906628
 斗鱼_鬼片轮播2,http://159.75.85.63:35455/douyu/6906628
 斗鱼_鬼片轮播2,http://jiandjh.51vip.biz:35455/douyu/6906628
@@ -2470,6 +2487,7 @@ bili_鬼片轮播,http://epg.112114.xyz/bili/193
 斗鱼_鬼片轮播2,http://live.aptvapp.com/live/douyu/6906628
 斗鱼_鬼片轮播2,http://epg.112114.xyz/douyu/6906628
 虎牙_鬼片轮播,https://aldirect.corp-hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_鬼片轮播,http://huanqiuzhibo.cn/manifest/huya.php?id=11342421
 虎牙_鬼片轮播,http://121.36.35.255:8686/huya/11342421
 虎牙_鬼片轮播,http://159.75.85.63:35455/huya/11342421
 虎牙_鬼片轮播,http://jiandjh.51vip.biz:35455/huya/11342421
@@ -2481,13 +2499,25 @@ bili_鬼片轮播,http://epg.112114.xyz/bili/193
 虎牙_鬼片轮播,http://diyp.112114.xyz/huya/11342421
 虎牙_鬼片轮播,http://live.aptvapp.com/live/huya/11342421
 虎牙_鬼片轮播,http://epg.112114.xyz/huya/11342421
-YY_鬼片轮播,http://data.3g.yy.com/live/hls/1351505899/1351505899
-YY_鬼片轮播,http://106.53.212.251:80/daili/yy.php?id=1351505899
-YY_鬼片轮播,http://mmitv.top/pltv/yy.php?id=1351505899
-YY_鬼片轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-YY_鬼片轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
+YY_鬼片轮播1,http://data.3g.yy.com/live/hls/1351505899/1353685311
+YY_鬼片轮播1,http://106.53.212.251:80/daili/yy.php?id=1353685311
+YY_鬼片轮播1,http://maomao.kandiantv.cn/yy.php?id=1353685311
+YY_鬼片轮播1,http://mmitv.top/pltv/yy.php?id=1353685311
+YY_鬼片轮播1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
+YY_鬼片轮播1,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353685311
+YY_鬼片轮播1,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353685311
+YY_鬼片轮播1,http://dl.zhoujie218.top/dl/yy.php?id=1353685311
+YY_鬼片轮播2,http://data.3g.yy.com/live/hls/1351505899/1351505899
+YY_鬼片轮播2,http://106.53.212.251:80/daili/yy.php?id=1351505899
+YY_鬼片轮播2,http://maomao.kandiantv.cn/yy.php?id=1351505899
+YY_鬼片轮播2,http://mmitv.top/pltv/yy.php?id=1351505899
+YY_鬼片轮播2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+YY_鬼片轮播2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
+YY_鬼片轮播2,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351505899
+YY_鬼片轮播2,http://dl.zhoujie218.top/dl/yy.php?id=1351505899
 
 虎牙_周星驰,https://aldirect.corp-hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_周星驰,http://huanqiuzhibo.cn/manifest/huya.php?id=11342412
 虎牙_周星驰,http://121.36.35.255:8686/huya/11342412
 虎牙_周星驰,http://159.75.85.63:35455/huya/11342412
 虎牙_周星驰,http://jiandjh.51vip.biz:35455/huya/11342412
@@ -2501,11 +2531,15 @@ YY_鬼片轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
 虎牙_周星驰,http://epg.112114.xyz/huya/11342412
 YY_周星驰,http://data.3g.yy.com/live/hls/1353881242/1353881242
 YY_周星驰,http://106.53.212.251:80/daili/yy.php?id=1353881242
+YY_周星驰,http://maomao.kandiantv.cn/yy.php?id=1353881242
 YY_周星驰,http://mmitv.top/pltv/yy.php?id=1353881242
 YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353881242
+YY_周星驰,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353881242
+YY_周星驰,http://dl.zhoujie218.top/dl/yy.php?id=1353881242
 咪咕_吴京,http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw2163858470_-1385286039/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502043758&ContentId=265219090&timezone=UTC&mtv_session=eb339490deac2ea0dbc4988aa85690f7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cd4ad290beeaec01b8424999f6ab44fa
 虎牙_成龙,https://aldirect.corp-hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_成龙,http://huanqiuzhibo.cn/manifest/huya.php?id=11342386
 虎牙_成龙,http://121.36.35.255:8686/huya/11342386
 虎牙_成龙,http://159.75.85.63:35455/huya/11342386
 虎牙_成龙,http://jiandjh.51vip.biz:35455/huya/11342386
@@ -2519,10 +2553,14 @@ YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353881242
 虎牙_成龙,http://epg.112114.xyz/huya/11342386
 YY_成龙,http://data.3g.yy.com/live/hls/1354888751/1354888751
 YY_成龙,http://106.53.212.251:80/daili/yy.php?id=1354888751
+YY_成龙,http://maomao.kandiantv.cn/yy.php?id=1354888751
 YY_成龙,http://mmitv.top/pltv/yy.php?id=1354888751
 YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
 YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
+YY_成龙,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354888751
+YY_成龙,http://dl.zhoujie218.top/dl/yy.php?id=1354888751
 虎牙_洪金宝,https://aldirect.corp-hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_洪金宝,http://huanqiuzhibo.cn/manifest/huya.php?id=11279251
 虎牙_洪金宝,http://121.36.35.255:8686/huya/11279251
 虎牙_洪金宝,http://159.75.85.63:35455/huya/11279251
 虎牙_洪金宝,http://jiandjh.51vip.biz:35455/huya/11279251
@@ -2535,6 +2573,7 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_洪金宝,http://live.aptvapp.com/live/huya/11279251
 虎牙_洪金宝,http://epg.112114.xyz/huya/11279251
 虎牙_李连杰,https://aldirect.corp-hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_李连杰,http://huanqiuzhibo.cn/manifest/huya.php?id=11342390
 虎牙_李连杰,http://121.36.35.255:8686/huya/11342390
 虎牙_李连杰,http://159.75.85.63:35455/huya/11342390
 虎牙_李连杰,http://jiandjh.51vip.biz:35455/huya/11342390
@@ -2547,6 +2586,7 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_李连杰,http://live.aptvapp.com/live/huya/11342390
 虎牙_李连杰,http://epg.112114.xyz/huya/11342390
 虎牙_甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_甄子丹,http://huanqiuzhibo.cn/manifest/huya.php?id=11352935
 虎牙_甄子丹,http://121.36.35.255:8686/huya/11352935
 虎牙_甄子丹,http://159.75.85.63:35455/huya/11352935
 虎牙_甄子丹,http://jiandjh.51vip.biz:35455/huya/11352935
@@ -2558,6 +2598,7 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_甄子丹,http://diyp.112114.xyz/huya/11352935
 虎牙_甄子丹,http://live.aptvapp.com/live/huya/11352935
 虎牙_甄子丹,http://epg.112114.xyz/huya/11352935
+虎牙_邱淑贞,http://huanqiuzhibo.cn/manifest/huya.php?id=11352949
 虎牙_邱淑贞,http://121.36.35.255:8686/huya/11352949
 虎牙_邱淑贞,http://159.75.85.63:35455/huya/11352949
 虎牙_邱淑贞,http://jiandjh.51vip.biz:35455/huya/11352949
@@ -2569,6 +2610,7 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_邱淑贞,http://diyp.112114.xyz/huya/11352949
 虎牙_邱淑贞,http://live.aptvapp.com/live/huya/11352949
 虎牙_邱淑贞,http://epg.112114.xyz/huya/11352949
+虎牙_梁家辉,http://huanqiuzhibo.cn/manifest/huya.php?id=11342429
 虎牙_梁家辉,http://121.36.35.255:8686/huya/11342429
 虎牙_梁家辉,http://159.75.85.63:35455/huya/11342429
 虎牙_梁家辉,http://jiandjh.51vip.biz:35455/huya/11342429
@@ -2581,6 +2623,7 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_梁家辉,http://live.aptvapp.com/live/huya/11342429
 虎牙_梁家辉,http://epg.112114.xyz/huya/11342429
 虎牙_刘德华,http://aldirect.corp-hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_刘德华,http://huanqiuzhibo.cn/manifest/huya.php?id=11342424
 虎牙_刘德华,http://121.36.35.255:8686/huya/11342424
 虎牙_刘德华,http://159.75.85.63:35455/huya/11342424
 虎牙_刘德华,http://jiandjh.51vip.biz:35455/huya/11342424
@@ -2593,6 +2636,7 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_刘德华,http://live.aptvapp.com/live/huya/11342424
 虎牙_刘德华,http://epg.112114.xyz/huya/11342424
 虎牙_周润发,https://aldirect.corp-hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_周润发,http://huanqiuzhibo.cn/manifest/huya.php?id=11342387
 虎牙_周润发,http://121.36.35.255:8686/huya/11342387
 虎牙_周润发,http://159.75.85.63:35455/huya/11342387
 虎牙_周润发,http://jiandjh.51vip.biz:35455/huya/11342387
@@ -2605,6 +2649,8 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 虎牙_周润发,http://live.aptvapp.com/live/huya/11342387
 虎牙_周润发,http://epg.112114.xyz/huya/11342387
 
+斗鱼_豆瓣电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
+斗鱼_豆瓣电影,http://maomao.kandiantv.cn/douyu1.php?id=8770422
 斗鱼_豆瓣电影,http://121.36.35.255:8686/douyu/8770422
 斗鱼_豆瓣电影,http://159.75.85.63:35455/douyu/8770422
 斗鱼_豆瓣电影,http://jiandjh.51vip.biz:35455/douyu/8770422
@@ -2615,6 +2661,8 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 斗鱼_豆瓣电影,http://epg.112114.xyz/douyu/8770422
 
 斗鱼_科幻电影,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+斗鱼_科幻电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+斗鱼_科幻电影,http://maomao.kandiantv.cn/douyu1.php?id=20415
 斗鱼_科幻电影,http://121.36.35.255:8686/douyu/20415
 斗鱼_科幻电影,http://159.75.85.63:35455/douyu/20415
 斗鱼_科幻电影,http://jiandjh.51vip.biz:35455/douyu/20415
@@ -2626,14 +2674,19 @@ YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 
 YY_欧美科幻,http://data.3g.yy.com/live/hls/37988782/37988782
 YY_欧美科幻,http://106.53.212.251:80/daili/yy.php?id=37988782
+YY_欧美科幻,http://maomao.kandiantv.cn/yy.php?id=37988782
 YY_欧美科幻,http://mmitv.top/pltv/yy.php?id=37988782
 YY_欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 YY_欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=37988782
+YY_欧美科幻,http://luotuo.ycchenrong.cn/dl/yy.php?id=37988782
+YY_欧美科幻,http://dl.zhoujie218.top/dl/yy.php?id=37988782
 YY_欧美电影,http://data.3g.yy.com/live/hls/24923327/24923327
 YY_欧美电影,http://106.53.212.251:80/daili/yy.php?id=24923327
-YY_欧美电影,http://mmitv.top/pltv/yy.php?id=24923327
+YY_欧美电影,http://maomao.kandiantv.cn/yy.php?id=http://mmitv.top/pltv/yy.php?id=24923327
 YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=24923327
+YY_欧美电影,http://luotuo.ycchenrong.cn/dl/yy.php?id=24923327
+YY_欧美电影,http://dl.zhoujie218.top/dl/yy.php?id=24923327
 
 湖南频道,#genre#
 湖南卫视,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw3832555800_-16032643/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230501100027&ContentId=265667721&timezone=UTC&mtv_session=c4f6173213e8fabc5668f75320db88e6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0bf9d1915638a347c8285fc80e67a299
@@ -2659,15 +2712,19 @@ YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=24923327
 湖南卫视,http://39.134.115.221:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8 
 湖南卫视,http://119.39.128.18:88/hls/32/index.m3u8
+湖南卫视,http://42.49.129.136:808/hls/51/index.m3u8
 湖南电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电影,http://119.39.128.18:88/hls/30/index.m3u8
+湖南电影,http://42.49.129.136:808//hls/56/index.m3u8
 湖南电影,http://v2.91kds.cn/b9/hntv.m3u8?id=hndy&auth=rinimabi
 湖南电影,http://ainm.cc/itv/huntv/hnxl.php?id=hndy
 长沙影视,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.flv?auth_key=1936694127-0-0-f081dadf4de8780d84d51755eb65e516
+长沙影视,http://42.49.129.136:808/hls/65/index.m3u8
 长沙影视,http://live.cooltv.top/tv/ady.php?id=csys
 金鹰卡通,http://117.169.124.149:8080/live/jinyingkaton/index.m3u8
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://cntv.sbs/live?id=jykt
+金鹰卡通,http://42.49.129.136:808/hls/57/index.m3u8
 金鹰卡通,http://php.cubs88.eu.org/cqyx.php?id=jinyingSD
 金鹰卡通,http://live.cooltv.top/tv/aishang.php?id=jykt
 金鹰卡通,http://ainm.cc/c/tv/php/as.php?id=jykt
@@ -2698,22 +2755,27 @@ YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=24923327
 金鹰纪实,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8?zhund
 湖南电视剧,http://223.151.51.27:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南电视剧,http://119.39.128.18:88/hls/29/index.m3u8
+湖南电视剧,http://42.49.129.136:808/hls/58/index.m3u8
 湖南电视剧,http://v2.91kds.cn/b9/hntv.m3u8?id=hndsj&auth=rinimabi
 湖南电视剧,http://ainm.cc/itv/huntv/hnxl.php?id=hndsj
 湖南公共,http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hngg.m3u8
 湖南公共,http://p8.vzan.com/slowlive/149039617847513156/live.m3u8
 湖南公共,http://223.151.51.27:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南公共,http://119.39.128.18:88/hls/28/index.m3u8
+湖南公共,http://42.49.129.136:808//hls/59/index.m3u8
 湖南公共,http://v2.91kds.cn/b9/hntv.m3u8?id=hngg&auth=rinimabi
 湖南娱乐,http://223.151.51.27:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南娱乐,http://42.49.129.136:808//hls/55/index.m3u8
 湖南娱乐,http://v2.91kds.cn/b9/hntv.m3u8?id=hnyl&auth=rinimabi
 湖南娱乐,http://ainm.cc/itv/huntv/hnxl.php?id=hnyl
 湖南经视,http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnjs.m3u8
 湖南经视,http://223.151.51.27:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://119.39.128.18:88/hls/26/index.m3u8
+湖南经视,http://42.49.129.136:808//hls/53/index.m3u8
 湖南经视,http://v2.91kds.cn/b9/hntv.m3u8?id=hnjs&auth=rinimabi
 湖南国际,http://223.151.51.27:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南国际,http://119.39.128.18:88/hls/24/index.m3u8
+湖南国际,http://42.49.129.136:808//hls/52/index.m3u8
 湖南国际,http://ainm.cc/itv/huntv/hnxl.php?id=hngj
 湖南都市,http://fm-live-rtmp.fm-tv-live.mangguonews.com/fm-tv-live/hnds.m3u8
 湖南都市,http://223.151.51.27:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2721,9 +2783,13 @@ YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=24923327
 湖南都市,http://v2.91kds.cn/b9/hntv.m3u8?id=hnds&auth=rinimabi
 湖南教育,http://223.151.51.27:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南教育,http://119.39.128.18:88/hls/25/index.m3u8
+湖南教育,http://42.49.129.136:808/hls/61/index.m3u8
 湖南教育,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43021/index.m3u8
+长沙新闻,http://42.49.129.136:808/hls/62/index.m3u8
 长沙新闻,http://ainm.cc/c/tv/huntv/hnxl.php?id=csxw
 长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.flv?auth_key=1936693647-0-0-09a2ab1e7112296d76b1c37999a5cf32
+长沙政法,http://42.49.129.136:808/hls/63/index.m3u8
+长沙女性,http://42.49.129.136:808/hls/64/index.m3u8
 长沙女性,http://ainm.cc/c/tv/huntv/hnxl.php?id=csnx
 快乐垂钓,http://111.20.40.160/PLTV/88888893/224/3221226805/index.m3u8
 快乐垂钓,http://111.20.40.166/PLTV/88888893/224/3221226805/index.m3u8
@@ -2943,6 +3009,8 @@ iHOT爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
 iHOT爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
 
 四大名著,#genre#
+斗鱼_西游记,http://huanqiuzhibo.cn/manifest/douyu.php?id=5472438
+斗鱼_西游记,http://maomao.kandiantv.cn/douyu1.php?id=5472438
 斗鱼_西游记,http://121.36.35.255:8686/douyu/5472438
 斗鱼_西游记,http://159.75.85.63:35455/douyu/5472438
 斗鱼_西游记,http://jiandjh.51vip.biz:35455/douyu/5472438
@@ -2956,6 +3024,8 @@ bili_西游记,https://c1--cn-gotcha208.bilivideo.com/live-bvc/208154/live_33547
 bili_西游记,http://epg.112114.eu.org/bili/27169379
 bili_西游记,http://diyp.112114.xyz/bili/27169379
 bili_西游记,http://epg.112114.xyz/bili/27169379
+斗鱼_新三国,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
+斗鱼_新三国,http://maomao.kandiantv.cn/douyu1.php?id=276200
 斗鱼_新三国,http://121.36.35.255:8686/douyu/276200
 斗鱼_新三国,http://159.75.85.63:35455/douyu/276200
 斗鱼_新三国,http://jiandjh.51vip.biz:35455/douyu/276200
@@ -2965,6 +3035,7 @@ bili_西游记,http://epg.112114.xyz/bili/27169379
 斗鱼_新三国,http://live.aptvapp.com/live/douyu/276200
 斗鱼_新三国,http://epg.112114.xyz/douyu/276200
 虎牙_新三国,https://aldirect.corp-hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_新三国,http://huanqiuzhibo.cn/manifest/huya.php?id=11352944
 虎牙_新三国,http://121.36.35.255:8686/huya/11352944
 虎牙_新三国,http://159.75.85.63:35455/huya/11352944
 虎牙_新三国,http://jiandjh.51vip.biz:35455/huya/11352944
@@ -2976,6 +3047,8 @@ bili_西游记,http://epg.112114.xyz/bili/27169379
 虎牙_新三国,http://diyp.112114.xyz/huya/11352944
 虎牙_新三国,http://live.aptvapp.com/live/huya/11352944
 虎牙_新三国,http://epg.112114.xyz/huya/11352944
+斗鱼_老三国,http://huanqiuzhibo.cn/manifest/douyu.php?id=7459925
+斗鱼_老三国,http://maomao.kandiantv.cn/douyu1.php?id=7459925
 斗鱼_老三国,http://121.36.35.255:8686/douyu/7459925
 斗鱼_老三国,http://159.75.85.63:35455/douyu/7459925
 斗鱼_老三国,http://jiandjh.51vip.biz:35455/douyu/7459925
@@ -2995,6 +3068,7 @@ bili_新水浒,http://epg.112114.eu.org/bili/21747822
 bili_新水浒,http://diyp.112114.xyz/bili/21747822
 bili_新水浒,http://epg.112114.xyz/bili/21747822
 虎牙_新水浒,https://aldirect.corp-hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_新水浒,http://huanqiuzhibo.cn/manifest/huya.php?id=11342384
 虎牙_新水浒,http://121.36.35.255:8686/huya/11342384
 虎牙_新水浒,http://159.75.85.63:35455/huya/11342384
 虎牙_新水浒,http://jiandjh.51vip.biz:35455/huya/11342384
@@ -3013,15 +3087,22 @@ bili_红楼梦,http://diyp.112114.xyz/bili/5568482
 bili_红楼梦,http://epg.112114.xyz/bili/5568482
 YY_红楼梦,http://data.3g.yy.com/live/hls/1382745084/1382745084
 YY_红楼梦,http://106.53.212.251:80/daili/yy.php?id=1382745084
+YY_红楼梦,http://maomao.kandiantv.cn/yy.php?id=1382745084
 YY_红楼梦,http://mmitv.top/pltv/yy.php?id=1382745084
 YY_红楼梦,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745084
 YY_红楼梦,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745084
+YY_红楼梦,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745084
+YY_红楼梦,http://dl.zhoujie218.top/dl/yy.php?id=1382745084
 YY_TVB西游记Ⅰ,http://data.3g.yy.com/live/hls/1354936155/1354936155
 YY_TVB西游记Ⅰ,http://106.53.212.251:80/daili/yy.php?id=1354936155
+YY_TVB西游记Ⅰ,http://maomao.kandiantv.cn/yy.php?id=1354936155
 YY_TVB西游记Ⅰ,http://mmitv.top/pltv/yy.php?id=1354936155
 YY_TVB西游记Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936155
 YY_TVB西游记Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354936155
+YY_TVB西游记Ⅰ,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354936155
+YY_TVB西游记Ⅰ,http://dl.zhoujie218.top/dl/yy.php?id=1354936155
 虎牙_TVB西游记Ⅱ,https://aldirect.corp-hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_TVB西游记Ⅱ,http://huanqiuzhibo.cn/manifest/huya.php?id=23735126
 虎牙_TVB西游记Ⅱ,http://121.36.35.255:8686/huya/23735126
 虎牙_TVB西游记Ⅱ,http://159.75.85.63:35455/huya/23735126
 虎牙_TVB西游记Ⅱ,http://jiandjh.51vip.biz:35455/huya/23735126
@@ -3037,10 +3118,14 @@ YY_TVB西游记Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354936155
 神话仙侠,#genre#
 YY_85版济公,http://data.3g.yy.com/live/hls/25519088/25519088
 YY_85版济公,http://106.53.212.251:80/daili/yy.php?id=25519088
+YY_85版济公,http://maomao.kandiantv.cn/yy.php?id=25519088
 YY_85版济公,http://mmitv.top/pltv/yy.php?id=25519088
 YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=25519088
 YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=25519088
+YY_85版济公,http://luotuo.ycchenrong.cn/dl/yy.php?id=25519088
+YY_85版济公,http://dl.zhoujie218.top/dl/yy.php?id=25519088
 虎牙_TVB封神榜,https://aldirect.corp-hls.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_TVB封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096
 虎牙_TVB封神榜,http://121.36.35.255:8686/huya/23749096
 虎牙_TVB封神榜,http://159.75.85.63:35455/huya/23749096
 虎牙_TVB封神榜,http://jiandjh.51vip.biz:35455/huya/23749096
@@ -3052,6 +3137,7 @@ YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=25519088
 虎牙_TVB封神榜,http://diyp.112114.xyz/huya/23749096
 虎牙_TVB封神榜,http://live.aptvapp.com/live/huya/23749096
 虎牙_TVB封神榜,http://epg.112114.xyz/huya/23749096
+虎牙_宝莲灯,http://huanqiuzhibo.cn/manifest/huya.php?id=21059563
 虎牙_宝莲灯,http://121.36.35.255:8686/huya/21059563
 虎牙_宝莲灯,http://159.75.85.63:35455/huya/21059563
 虎牙_宝莲灯,http://jiandjh.51vip.biz:35455/huya/21059563
@@ -3064,6 +3150,7 @@ YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=25519088
 虎牙_宝莲灯,http://live.aptvapp.com/live/huya/21059563
 虎牙_宝莲灯,http://epg.112114.xyz/huya/21059563
 虎牙_魔幻手机,https://aldirect.corp-hls.huya.com/src/1449380984-1449380984-6225043925724299264-2847699200-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_魔幻手机,http://huanqiuzhibo.cn/manifest/huya.php?id=11352966
 虎牙_魔幻手机,http://121.36.35.255:8686/huya/11352966
 虎牙_魔幻手机,http://159.75.85.63:35455/huya/11352966
 虎牙_魔幻手机,http://jiandjh.51vip.biz:35455/huya/11352966
@@ -3077,14 +3164,21 @@ YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=25519088
 虎牙_魔幻手机,http://epg.112114.xyz/huya/11352966
 YY_魔幻手机,http://data.3g.yy.com/live/hls/1382735544/1382735544
 YY_魔幻手机,http://106.53.212.251:80/daili/yy.php?id=1382735544
+YY_魔幻手机,http://maomao.kandiantv.cn/yy.php?id=1382735544
 YY_魔幻手机,http://mmitv.top/pltv/yy.php?id=1382735544
 YY_魔幻手机,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735544
 YY_魔幻手机,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382735544
+YY_魔幻手机,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382735544
+YY_魔幻手机,http://dl.zhoujie218.top/dl/yy.php?id=1382735544
 YY_聊斋,http://data.3g.yy.com/live/hls/1382736975/1382736975
 YY_聊斋,http://106.53.212.251:80/daili/yy.php?id=1382736975
+YY_聊斋,http://maomao.kandiantv.cn/yy.php?id=1382736975
 YY_聊斋,http://mmitv.top/pltv/yy.php?id=1382736975
 YY_聊斋,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736975
 YY_聊斋,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736975
+YY_聊斋,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382736975
+YY_聊斋,http://dl.zhoujie218.top/dl/yy.php?id=1382736975
+虎牙_陈版活佛济公,http://huanqiuzhibo.cn/manifest/huya.php?id=11342400
 虎牙_陈版活佛济公,http://121.36.35.255:8686/huya/11342400
 虎牙_陈版活佛济公,http://159.75.85.63:35455/huya/11342400
 虎牙_陈版活佛济公,http://jiandjh.51vip.biz:35455/huya/11342400
@@ -3096,6 +3190,8 @@ YY_聊斋,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736975
 虎牙_陈版活佛济公,http://diyp.112114.xyz/huya/11342400
 虎牙_陈版活佛济公,http://live.aptvapp.com/live/huya/11342400
 虎牙_陈版活佛济公,http://epg.112114.xyz/huya/11342400
+斗鱼_风云,http://huanqiuzhibo.cn/manifest/douyu.php?id=9290755
+斗鱼_风云,http://maomao.kandiantv.cn/douyu1.php?id=9290755
 斗鱼_风云,http://121.36.35.255:8686/douyu/9290755
 斗鱼_风云,http://159.75.85.63:35455/douyu/9290755
 斗鱼_风云,http://jiandjh.51vip.biz:35455/douyu/9290755
@@ -3106,23 +3202,32 @@ YY_聊斋,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736975
 斗鱼_风云,http://epg.112114.xyz/douyu/9290755
 YY_仙剑奇侠传Ⅰ,http://data.3g.yy.com/live/hls/1382749903/1382749903
 YY_仙剑奇侠传Ⅰ,http://106.53.212.251:80/daili/yy.php?id=1382749903
+YY_仙剑奇侠传Ⅰ,http://maomao.kandiantv.cn/yy.php?id=1382749903
 YY_仙剑奇侠传Ⅰ,http://mmitv.top/pltv/yy.php?id=1382749903
 YY_仙剑奇侠传Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749903
 YY_仙剑奇侠传Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382749903
+YY_仙剑奇侠传Ⅰ,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382749903
+YY_仙剑奇侠传Ⅰ,http://dl.zhoujie218.top/dl/yy.php?id=1382749903
 YY_僵尸道长,http://data.3g.yy.com/live/hls/1355720895/1355720895
 YY_僵尸道长,http://106.53.212.251:80/daili/yy.php?id=1355720895
+YY_僵尸道长,http://maomao.kandiantv.cn/yy.php?id=1355720895
 YY_僵尸道长,http://mmitv.top/pltv/yy.php?id=1355720895
 YY_僵尸道长,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355720895
 YY_僵尸道长,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1355720895
+YY_僵尸道长,http://luotuo.ycchenrong.cn/dl/yy.php?id=1355720895
+YY_僵尸道长,http://dl.zhoujie218.top/dl/yy.php?id=1355720895
 
 武侠经典,#genre#
 咪咕_金庸作品,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw2275222365_318365978/wd_r2/virtuallive/5100181876/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502043950&ContentId=265218834&timezone=UTC&mtv_session=4b23deac51f45a7f2951924592da99b6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fe50fb9540d77000b00ba14b99c23a04
+咪咕_金庸作品,http://maomao.kandiantv.cn/m3u8.php?/migu/625774640
 咪咕_古龙作品,http://hms284nc1972679585.live.aikan.miguvideo.com/wh7f454c46tw68504710_433258946/wd_r2/virtuallive/5102010216/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502051438&ContentId=265667533&timezone=UTC&mtv_session=960a288e5b5cf34b790a454197e03fe9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e333ae2610a2a0092415cf35da76dfab
+咪咕_古龙作品,http://maomao.kandiantv.cn/m3u8.php?/migu/639528313
 bili_陆小凤传奇,https://cn-zjjh-ct-04-05.bilivideo.com/live-bvc/780831/live_666950392_57766735_1500/index.m3u8
 bili_陆小凤传奇,http://epg.112114.eu.org/bili/23108922
 bili_陆小凤传奇,http://diyp.112114.xyz/bili/23108922
 bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_83版射雕,https://aldirect.corp-hls.huya.com/src/1199561223711-1199561223711-5434628823519854592-2399122570878-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_83版射雕,http://huanqiuzhibo.cn/manifest/huya.php?id=23728674
 虎牙_83版射雕,http://121.36.35.255:8686/huya/23728674
 虎牙_83版射雕,http://159.75.85.63:35455/huya/23728674
 虎牙_83版射雕,http://jiandjh.51vip.biz:35455/huya/23728674
@@ -3135,6 +3240,7 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_83版射雕,http://live.aptvapp.com/live/huya/23728674
 虎牙_83版射雕,http://epg.112114.xyz/huya/23728674
 虎牙_95版神雕,https://aldirect.corp-hls.huya.com/src/1199563459241-1199563459241-5444230351759081472-2399127041938-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_95版神雕,http://huanqiuzhibo.cn/manifest/huya.php?id=23865171
 虎牙_95版神雕,http://121.36.35.255:8686/huya/23865171
 虎牙_95版神雕,http://159.75.85.63:35455/huya/23865171
 虎牙_95版神雕,http://jiandjh.51vip.biz:35455/huya/23865171
@@ -3146,6 +3252,7 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_95版神雕,http://diyp.112114.xyz/huya/23865171
 虎牙_95版神雕,http://live.aptvapp.com/live/huya/23865171
 虎牙_95版神雕,http://epg.112114.xyz/huya/23865171
+虎牙_14版神雕侠侣,http://huanqiuzhibo.cn/manifest/huya.php?id=11352964
 虎牙_14版神雕侠侣,http://121.36.35.255:8686/huya/11352964
 虎牙_14版神雕侠侣,http://159.75.85.63:35455/huya/11352964
 虎牙_14版神雕侠侣,http://jiandjh.51vip.biz:35455/huya/11352964
@@ -3158,6 +3265,7 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_14版神雕侠侣,http://live.aptvapp.com/live/huya/11352964
 虎牙_14版神雕侠侣,http://epg.112114.xyz/huya/11352964
 虎牙_02版倚天,http://aldirect.corp-hls.huya.com/src/1394565214-1394565214-5989611986269241344-2789253884-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_02版倚天,http://huanqiuzhibo.cn/manifest/huya.php?id=11342403
 虎牙_02版倚天,http://121.36.35.255:8686/huya/11342403
 虎牙_02版倚天,http://159.75.85.63:35455/huya/11342403
 虎牙_02版倚天,http://jiandjh.51vip.biz:35455/huya/11342403
@@ -3170,7 +3278,8 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_02版倚天,http://live.aptvapp.com/live/huya/11342403
 虎牙_02版倚天,http://epg.112114.xyz/huya/11342403
 虎牙_97版天龙,https://aldirect.corp-hls.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.m3u8?wsiphost=ipdbme
-虎牙_97版天龙,http://121.36.35.255:8686/huya/23903123
+虎牙_97版天龙,http://huanqiuzhibo.cn/manifest/huya.php?id=23903123
+虎牙_97版天龙http://121.36.35.255:8686/huya/23903123
 虎牙_97版天龙,http://159.75.85.63:35455/huya/23903123
 虎牙_97版天龙,http://jiandjh.51vip.biz:35455/huya/23903123
 虎牙_97版天龙,http://www.lebaobei.top:35455/huya/23903123
@@ -3182,6 +3291,7 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_97版天龙,http://live.aptvapp.com/live/huya/23903123
 虎牙_97版天龙,http://epg.112114.xyz/huya/23903123
 虎牙_96版笑傲江湖,https://aldirect.corp-hls.huya.com/src/1199563481280-1199563481280-5444325008543318016-2399127086016-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_96版笑傲江湖,http://huanqiuzhibo.cn/manifest/huya.php?id=23865142
 虎牙_96版笑傲江湖,http://121.36.35.255:8686/huya/23865142
 虎牙_96版笑傲江湖,http://159.75.85.63:35455/huya/23865142
 虎牙_96版笑傲江湖,http://jiandjh.51vip.biz:35455/huya/23865142
@@ -3194,6 +3304,7 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_96版笑傲江湖,http://live.aptvapp.com/live/huya/23865142
 虎牙_96版笑傲江湖,http://epg.112114.xyz/huya/23865142
 虎牙_98版鹿鼎记,https://aldirect.corp-hls.huya.com/src/1199563459172-1199563459172-5444230055406338048-2399127041800-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_98版鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080
 虎牙_98版鹿鼎记,http://121.36.35.255:8686/huya/23865080
 虎牙_98版鹿鼎记,http://159.75.85.63:35455/huya/23865080
 虎牙_98版鹿鼎记,http://jiandjh.51vip.biz:35455/huya/23865080
@@ -3205,6 +3316,7 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_98版鹿鼎记,http://diyp.112114.xyz/huya/23865080
 虎牙_98版鹿鼎记,http://live.aptvapp.com/live/huya/23865080
 虎牙_98版鹿鼎记,http://epg.112114.xyz/huya/23865080
+虎牙_99版雪山飞狐,http://huanqiuzhibo.cn/manifest/huya.php?id=23734176
 虎牙_99版雪山飞狐,http://121.36.35.255:8686/huya/23734176
 虎牙_99版雪山飞狐,http://159.75.85.63:35455/huya/23734176
 虎牙_99版雪山飞狐,http://jiandjh.51vip.biz:35455/huya/23734176
@@ -3217,6 +3329,7 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_99版雪山飞狐,http://live.aptvapp.com/live/huya/23734176
 虎牙_99版雪山飞狐,http://epg.112114.xyz/huya/23734176
 虎牙_寻秦记,https://aldirect.corp-hls.huya.com/src/1199563493375-1199563493375-5444376956172763136-2399127110206-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_寻秦记,http://huanqiuzhibo.cn/manifest/huya.php?id=23864973
 虎牙_寻秦记,http://121.36.35.255:8686/huya/23864973
 虎牙_寻秦记,http://159.75.85.63:35455/huya/23864973
 虎牙_寻秦记,http://jiandjh.51vip.biz:35455/huya/23864973
@@ -3230,16 +3343,24 @@ bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 虎牙_寻秦记,http://epg.112114.xyz/huya/23864973
 YY_天下第一,http://data.3g.yy.com/live/hls/1354780649/1354780649
 YY_天下第一,http://106.53.212.251:80/daili/yy.php?id=1354780649
+YY_天下第一,http://maomao.kandiantv.cn/yy.php?id=1354780649
 YY_天下第一,http://mmitv.top/pltv/yy.php?id=1354780649
 YY_天下第一,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354780649
 YY_天下第一,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354780649
+YY_天下第一,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354780649
+YY_天下第一,http://dl.zhoujie218.top/dl/yy.php?id=1354780649
 
 抗日神剧,#genre#
 YY_80版上海滩,http://data.3g.yy.com/live/hls/1382745184/1382745184
 YY_80版上海滩,http://106.53.212.251:80/daili/yy.php?id=1382745184
+YY_80版上海滩,http://maomao.kandiantv.cn/yy.php?id=1382745184
 YY_80版上海滩,http://mmitv.top/pltv/yy.php?id=1382745184
 YY_80版上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745184
 YY_80版上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745184
+YY_80版上海滩,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745184
+YY_80版上海滩,http://dl.zhoujie218.top/dl/yy.php?id=1382745184
+斗鱼_雪豹,http://huanqiuzhibo.cn/manifest/douyu.php?id=3337730
+斗鱼_雪豹,http://maomao.kandiantv.cn/douyu1.php?id=3337730
 斗鱼_雪豹,http://121.36.35.255:8686/douyu/3337730
 斗鱼_雪豹,http://159.75.85.63:35455/douyu/3337730
 斗鱼_雪豹,http://jiandjh.51vip.biz:35455/douyu/3337730
@@ -3248,6 +3369,8 @@ YY_80版上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745184
 斗鱼_雪豹,http://diyp.112114.xyz/douyu/3337730
 斗鱼_雪豹,http://live.aptvapp.com/live/douyu/3337730
 斗鱼_雪豹,http://epg.112114.xyz/douyu/3337730
+斗鱼_永不磨灭的番号,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860
+斗鱼_永不磨灭的番号,http://maomao.kandiantv.cn/douyu1.php?id=8157860
 斗鱼_永不磨灭的番号,http://121.36.35.255:8686/douyu/8157860
 斗鱼_永不磨灭的番号,http://159.75.85.63:35455/douyu/8157860
 斗鱼_永不磨灭的番号,http://jiandjh.51vip.biz:35455/douyu/8157860
@@ -3258,21 +3381,32 @@ YY_80版上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745184
 斗鱼_永不磨灭的番号,http://epg.112114.xyz/douyu/8157860
 YY_小兵张嘎,http://data.3g.yy.com/live/hls/1354930225/1354930225
 YY_小兵张嘎,http://106.53.212.251:80/daili/yy.php?id=1354930225
+YY_小兵张嘎,http://maomao.kandiantv.cn/yy.php?id=1354930225
 YY_小兵张嘎,http://mmitv.top/pltv/yy.php?id=1354930225
 YY_小兵张嘎,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930225
 YY_小兵张嘎,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354930225
+YY_小兵张嘎,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354930225
+YY_小兵张嘎,http://dl.zhoujie218.top/dl/yy.php?id=1354930225
 YY_伪装者,http://data.3g.yy.com/live/hls/1345494225/1345494225
 YY_伪装者,http://106.53.212.251:80/daili/yy.php?id=1345494225
+YY_伪装者,http://maomao.kandiantv.cn/yy.php?id=1345494225
 YY_伪装者,http://mmitv.top/pltv/yy.php?id=1345494225
 YY_伪装者,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1345494225
 YY_伪装者,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1345494225
+YY_伪装者,http://luotuo.ycchenrong.cn/dl/yy.php?id=1345494225
+YY_伪装者,http://dl.zhoujie218.top/dl/yy.php?id=1345494225
 YY_老九门,http://data.3g.yy.com/live/hls/1353877164/1353877164
 YY_老九门,http://106.53.212.251:80/daili/yy.php?id=1353877164
+YY_老九门,http://maomao.kandiantv.cn/yy.php?id=1353877164
 YY_老九门,http://mmitv.top/pltv/yy.php?id=1353877164
 YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353877164
 YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353877164
+YY_老九门,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353877164
+YY_老九门,http://dl.zhoujie218.top/dl/yy.php?id=1353877164
 
 王朝悬疑,#genre#
+斗鱼_庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256
+斗鱼_庆余年,http://maomao.kandiantv.cn/douyu1.php?id=5908256
 斗鱼_庆余年,http://121.36.35.255:8686/douyu/5908256
 斗鱼_庆余年,http://159.75.85.63:35455/douyu/5908256
 斗鱼_庆余年,http://jiandjh.51vip.biz:35455/douyu/5908256
@@ -3282,6 +3416,7 @@ YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353877164
 斗鱼_庆余年,http://live.aptvapp.com/live/douyu/5908256
 斗鱼_庆余年,http://epg.112114.xyz/douyu/5908256
 虎牙_庆余年,https://aldirect.corp-hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_庆余年,http://huanqiuzhibo.cn/manifest/huya.php?id=11352960
 虎牙_庆余年,http://121.36.35.255:8686/huya/11352960
 虎牙_庆余年,http://159.75.85.63:35455/huya/11352960
 虎牙_庆余年,http://jiandjh.51vip.biz:35455/huya/11352960
@@ -3293,6 +3428,8 @@ YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353877164
 虎牙_庆余年,http://diyp.112114.xyz/huya/11352960
 虎牙_庆余年,http://live.aptvapp.com/live/huya/11352960
 虎牙_庆余年,http://epg.112114.xyz/huya/11352960
+斗鱼_大秦帝国,http://huanqiuzhibo.cn/manifest/douyu.php?id=1584198
+斗鱼_大秦帝国,http://maomao.kandiantv.cn/douyu1.php?id=1584198
 斗鱼_大秦帝国,http://121.36.35.255:8686/douyu/1584198
 斗鱼_大秦帝国,http://159.75.85.63:35455/douyu/1584198
 斗鱼_大秦帝国,http://jiandjh.51vip.biz:35455/douyu/1584198
@@ -3302,6 +3439,7 @@ YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353877164
 斗鱼_大秦帝国,http://live.aptvapp.com/live/douyu/1584198
 斗鱼_大秦帝国,http://epg.112114.xyz/douyu/1584198
 虎牙_大秦赋,https://aldirect.corp-hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_大秦赋,http://huanqiuzhibo.cn/manifest/huya.php?id=11352881
 虎牙_大秦赋,http://121.36.35.255:8686/huya/11352881
 虎牙_大秦赋,http://159.75.85.63:35455/huya/11352881
 虎牙_大秦赋,http://jiandjh.51vip.biz:35455/huya/11352881
@@ -3315,9 +3453,14 @@ YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353877164
 虎牙_大秦赋,http://epg.112114.xyz/huya/11352881
 YY_隋唐英雄传,http://data.3g.yy.com/live/hls/1352475619/1352475619
 YY_隋唐英雄传,http://106.53.212.251:80/daili/yy.php?id=1352475619
+YY_隋唐英雄传,http://maomao.kandiantv.cn/yy.php?id=1352475619
 YY_隋唐英雄传,http://mmitv.top/pltv/yy.php?id=1352475619
 YY_隋唐英雄传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352475619
 YY_隋唐英雄传,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1352475619
+YY_隋唐英雄传,http://luotuo.ycchenrong.cn/dl/yy.php?id=1352475619
+YY_隋唐英雄传,http://dl.zhoujie218.top/dl/yy.php?id=1352475619
+斗鱼_神话,http://huanqiuzhibo.cn/manifest/douyu.php?id=5448413
+斗鱼_神话,http://maomao.kandiantv.cn/douyu1.php?id=5448413
 斗鱼_神话,http://121.36.35.255:8686/douyu/5448413
 斗鱼_神话,http://159.75.85.63:35455/douyu/5448413
 斗鱼_神话,http://jiandjh.51vip.biz:35455/douyu/5448413
@@ -3328,9 +3471,14 @@ YY_隋唐英雄传,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1352475619
 斗鱼_神话,http://epg.112114.xyz/douyu/5448413
 YY_美人心计,http://data.3g.yy.com/live/hls/21881901/21881901
 YY_美人心计,http://106.53.212.251:80/daili/yy.php?id=21881901
+YY_美人心计,http://maomao.kandiantv.cn/yy.php?id=21881901
 YY_美人心计,http://mmitv.top/pltv/yy.php?id=21881901
 YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=21881901
 YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
+YY_美人心计,http://luotuo.ycchenrong.cn/dl/yy.php?id=21881901
+YY_美人心计,http://dl.zhoujie218.top/dl/yy.php?id=21881901
+斗鱼_狄仁杰,http://huanqiuzhibo.cn/manifest/douyu.php?id=6027991
+斗鱼_狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=6027991
 斗鱼_狄仁杰,http://121.36.35.255:8686/douyu/6027991
 斗鱼_狄仁杰,http://159.75.85.63:35455/douyu/6027991
 斗鱼_狄仁杰,http://jiandjh.51vip.biz:35455/douyu/6027991
@@ -3339,6 +3487,7 @@ YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
 斗鱼_狄仁杰,http://diyp.112114.xyz/douyu/6027991
 斗鱼_狄仁杰,http://live.aptvapp.com/live/douyu/6027991
 斗鱼_狄仁杰,http://epg.112114.xyz/douyu/6027991
+虎牙_十大奇冤,http://huanqiuzhibo.cn/manifest/huya.php?id=11352899
 虎牙_十大奇冤,http://121.36.35.255:8686/huya/11352899
 虎牙_十大奇冤,http://159.75.85.63:35455/huya/11352899
 虎牙_十大奇冤,http://jiandjh.51vip.biz:35455/huya/11352899
@@ -3351,6 +3500,7 @@ YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
 虎牙_十大奇冤,http://live.aptvapp.com/live/huya/11352899
 虎牙_十大奇冤,http://epg.112114.xyz/huya/11352899
 虎牙_洗冤录,https://aldirect.corp-hls.huya.com/src/1199564003640-1199564003640-5446568527660056576-2399128130736-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_洗冤录,http://huanqiuzhibo.cn/manifest/huya.php?id=23903130
 虎牙_洗冤录,http://121.36.35.255:8686/huya/23903130
 虎牙_洗冤录,http://159.75.85.63:35455/huya/23903130
 虎牙_洗冤录,http://jiandjh.51vip.biz:35455/huya/23903130
@@ -3362,6 +3512,8 @@ YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
 虎牙_洗冤录,http://diyp.112114.xyz/huya/23903130
 虎牙_洗冤录,http://live.aptvapp.com/live/huya/23903130
 虎牙_洗冤录,http://epg.112114.xyz/huya/23903130
+斗鱼_朱元璋,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752
+斗鱼_朱元璋,http://maomao.kandiantv.cn/douyu1.php?id=308752
 斗鱼_朱元璋,http://121.36.35.255:8686/douyu/308752
 斗鱼_朱元璋,http://159.75.85.63:35455/douyu/308752
 斗鱼_朱元璋,http://jiandjh.51vip.biz:35455/douyu/308752
@@ -3372,10 +3524,14 @@ YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
 斗鱼_朱元璋,http://epg.112114.xyz/douyu/308752
 YY_大明王朝1566,http://data.3g.yy.com/live/hls/1382736879/1382736879
 YY_大明王朝1566,http://106.53.212.251:80/daili/yy.php?id=1382736879
+YY_大明王朝1566,http://maomao.kandiantv.cn/yy.php?id=1382736879
 YY_大明王朝1566,http://mmitv.top/pltv/yy.php?id=1382736879
 YY_大明王朝1566,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736879
 YY_大明王朝1566,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736879
+YY_大明王朝1566,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382736879
+YY_大明王朝1566,http://dl.zhoujie218.top/dl/yy.php?id=1382736879
 虎牙_康熙王朝,https://aldirect.corp-hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_康熙王朝,http://huanqiuzhibo.cn/manifest/huya.php?id=11352940
 虎牙_康熙王朝,http://121.36.35.255:8686/huya/11352940
 虎牙_康熙王朝,http://159.75.85.63:35455/huya/11352940
 虎牙_康熙王朝,http://jiandjh.51vip.biz:35455/huya/11352940
@@ -3392,6 +3548,7 @@ bili_雍正王朝,http://epg.112114.eu.org/bili/26969370
 bili_雍正王朝,http://diyp.112114.xyz/bili/26969370
 bili_雍正王朝,http://epg.112114.xyz/bili/26969370
 虎牙_雍正王朝,https://aldirect.corp-hls.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_雍正王朝,http://huanqiuzhibo.cn/manifest/huya.php?id=11342439
 虎牙_雍正王朝,http://121.36.35.255:8686/huya/11342439
 虎牙_雍正王朝,http://159.75.85.63:35455/huya/11342439
 虎牙_雍正王朝,http://jiandjh.51vip.biz:35455/huya/11342439
@@ -3405,14 +3562,18 @@ bili_雍正王朝,http://epg.112114.xyz/bili/26969370
 虎牙_雍正王朝,http://epg.112114.xyz/huya/11342439
 YY_宰相刘罗锅,http://data.3g.yy.com/live/hls/1382745191/1382745191
 YY_宰相刘罗锅,http://106.53.212.251:80/daili/yy.php?id=1382745191
+YY_宰相刘罗锅,http://maomao.kandiantv.cn/yy.php?id=1382745191
 YY_宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
 YY_宰相刘罗锅,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745191
 YY_宰相刘罗锅,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745191
+YY_宰相刘罗锅,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745191
+YY_宰相刘罗锅,http://dl.zhoujie218.top/dl/yy.php?id=1382745191
 bili_纪晓岚,https://cn-hnld-ct-01-23.bilivideo.com/live-bvc/741214/live_391663120_60721084_bluray/index.m3u8
 bili_纪晓岚,http://epg.112114.eu.org/bili/23900931
 bili_纪晓岚,http://diyp.112114.xyz/bili/23900931
 bili_纪晓岚,http://epg.112114.xyz/bili/23900931
 虎牙_纪晓岚,https://aldirect.corp-hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_纪晓岚,http://huanqiuzhibo.cn/manifest/huya.php?id=11342396
 虎牙_纪晓岚,http://121.36.35.255:8686/huya/11342396
 虎牙_纪晓岚,http://159.75.85.63:35455/huya/11342396
 虎牙_纪晓岚,http://jiandjh.51vip.biz:35455/huya/11342396
@@ -3429,6 +3590,7 @@ bili_康熙微服私访记,http://epg.112114.eu.org/bili/25860180
 bili_康熙微服私访记,http://diyp.112114.xyz/bili/25860180
 bili_康熙微服私访记,http://epg.112114.xyz/bili/25860180
 虎牙_康熙微服私访记,https://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_康熙微服私访记,http://huanqiuzhibo.cn/manifest/huya.php?id=11342418
 虎牙_康熙微服私访记,http://121.36.35.255:8686/huya/11342418
 虎牙_康熙微服私访记,http://159.75.85.63:35455/huya/11342418
 虎牙_康熙微服私访记,http://jiandjh.51vip.biz:35455/huya/11342418
@@ -3444,10 +3606,14 @@ bili_康熙微服私访记,http://epg.112114.xyz/bili/25860180
 喜剧综艺,#genre#
 YY_武林外传,http://data.3g.yy.com/live/hls/1354752120/1354752120
 YY_武林外传,http://106.53.212.251:80/daili/yy.php?id=1354752120
+YY_武林外传,http://maomao.kandiantv.cn/yy.php?id=1354752120
 YY_武林外传,http://mmitv.top/pltv/yy.php?id=1354752120
 YY_武林外传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354752120
 YY_武林外传,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354752120
+YY_武林外传,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354752120
+YY_武林外传,http://dl.zhoujie218.top/dl/yy.php?id=1354752120
 虎牙_爱情公寓,https://aldirect.corp-hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_爱情公寓,http://huanqiuzhibo.cn/manifest/huya.php?id=11336726
 虎牙_爱情公寓,http://121.36.35.255:8686/huya/11336726
 虎牙_爱情公寓,http://159.75.85.63:35455/huya/11336726
 虎牙_爱情公寓,http://jiandjh.51vip.biz:35455/huya/11336726
@@ -3460,6 +3626,7 @@ YY_武林外传,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354752120
 虎牙_爱情公寓,http://live.aptvapp.com/live/huya/11336726
 虎牙_爱情公寓,http://epg.112114.xyz/huya/11336726
 虎牙_陈翔六点半,https://aldirect.corp-hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_陈翔六点半,http://huanqiuzhibo.cn/manifest/huya.php?id=11274154
 虎牙_陈翔六点半,http://121.36.35.255:8686/huya/11274154
 虎牙_陈翔六点半,http://159.75.85.63:35455/huya/11274154
 虎牙_陈翔六点半,http://jiandjh.51vip.biz:35455/huya/11274154
@@ -3478,6 +3645,7 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 
 美食音乐,#genre#
 虎牙_音乐石榴,https://aldirect.corp-hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_音乐石榴,http://huanqiuzhibo.cn/manifest/huya.php?id=17091681
 虎牙_音乐石榴,http://121.36.35.255:8686/huya/17091681
 虎牙_音乐石榴,http://159.75.85.63:35455/huya/17091681
 虎牙_音乐石榴,http://jiandjh.51vip.biz:35455/huya/17091681
@@ -3490,6 +3658,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 虎牙_音乐石榴,http://live.aptvapp.com/live/huya/17091681
 虎牙_音乐石榴,http://epg.112114.xyz/huya/17091681
 
+斗鱼_点歌台1,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
+斗鱼_点歌台1,http://maomao.kandiantv.cn/douyu1.php?id=3870925
 斗鱼_点歌台1,http://121.36.35.255:8686/douyu/3870925
 斗鱼_点歌台1,http://159.75.85.63:35455/douyu/3870925
 斗鱼_点歌台1,http://jiandjh.51vip.biz:35455/douyu/3870925
@@ -3499,6 +3669,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 斗鱼_点歌台1,http://live.aptvapp.com/live/douyu/3870925
 斗鱼_点歌台1,http://epg.112114.xyz/douyu/3870925
 
+斗鱼_点歌台2,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
+斗鱼_点歌台2,http://maomao.kandiantv.cn/douyu1.php?id=3186217
 斗鱼_点歌台2,http://121.36.35.255:8686/douyu/3186217
 斗鱼_点歌台2,http://159.75.85.63:35455/douyu/3186217
 斗鱼_点歌台2,http://jiandjh.51vip.biz:35455/douyu/3186217
@@ -3508,6 +3680,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 斗鱼_点歌台2,http://live.aptvapp.com/live/douyu/3186217
 斗鱼_点歌台2,http://epg.112114.xyz/douyu/3186217
 
+斗鱼_音乐FHD,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891
+斗鱼_音乐FHD,http://maomao.kandiantv.cn/douyu1.php?id=9588891
 斗鱼_音乐FHD,http://121.36.35.255:8686/douyu/9588891
 斗鱼_音乐FHD,http://159.75.85.63:35455/douyu/9588891
 斗鱼_音乐FHD,http://jiandjh.51vip.biz:35455/douyu/9588891
@@ -3517,6 +3691,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 斗鱼_音乐FHD,http://live.aptvapp.com/live/douyu/9588891
 斗鱼_音乐FHD,http://epg.112114.xyz/douyu/9588891
 
+斗鱼_李子柒,http://huanqiuzhibo.cn/manifest/douyu.php?id=2901080
+斗鱼_李子柒,http://maomao.kandiantv.cn/douyu1.php?id=2901080
 斗鱼_李子柒,http://121.36.35.255:8686/douyu/2901080
 斗鱼_李子柒,http://159.75.85.63:35455/douyu/2901080
 斗鱼_李子柒,http://jiandjh.51vip.biz:35455/douyu/2901080
@@ -3526,6 +3702,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 斗鱼_李子柒,http://live.aptvapp.com/live/douyu/2901080
 斗鱼_李子柒,http://epg.112114.xyz/douyu/2901080
 
+斗鱼_苗大冬,http://huanqiuzhibo.cn/manifest/douyu.php?id=8067328
+斗鱼_苗大冬,http://maomao.kandiantv.cn/douyu1.php?id=8067328
 斗鱼_苗大冬,http://121.36.35.255:8686/douyu/8067328
 斗鱼_苗大冬,http://159.75.85.63:35455/douyu/8067328
 斗鱼_苗大冬,http://jiandjh.51vip.biz:35455/douyu/8067328
@@ -3535,6 +3713,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 斗鱼_苗大冬,http://live.aptvapp.com/live/douyu/8067328
 斗鱼_苗大冬,http://epg.112114.xyz/douyu/8067328
 
+斗鱼_郭杰瑞,http://huanqiuzhibo.cn/manifest/douyu.php?id=7357786
+斗鱼_郭杰瑞,http://maomao.kandiantv.cn/douyu1.php?id=7357786
 斗鱼_郭杰瑞,http://121.36.35.255:8686/douyu/7357786
 斗鱼_郭杰瑞,http://159.75.85.63:35455/douyu/7357786
 斗鱼_郭杰瑞,http://jiandjh.51vip.biz:35455/douyu/7357786
@@ -3544,6 +3724,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 斗鱼_郭杰瑞,http://live.aptvapp.com/live/douyu/7357786
 斗鱼_郭杰瑞,http://epg.112114.xyz/douyu/7357786
 
+斗鱼_滇西小哥,http://huanqiuzhibo.cn/manifest/douyu.php?id=3243427
+斗鱼_滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
 斗鱼_滇西小哥,http://121.36.35.255:8686/douyu/3243427
 斗鱼_滇西小哥,http://159.75.85.63:35455/douyu/3243427
 斗鱼_滇西小哥,http://jiandjh.51vip.biz:35455/douyu/3243427
@@ -3553,6 +3735,8 @@ besTV80后脱口秀,http://live.cooltv.top/tv/bestv.php?id=76
 斗鱼_滇西小哥,http://live.aptvapp.com/live/douyu/3243427
 斗鱼_滇西小哥,http://epg.112114.xyz/douyu/3243427
 
+斗鱼_绵羊料理,http://huanqiuzhibo.cn/manifest/douyu.php?id=2090684
+斗鱼_绵羊料理,http://maomao.kandiantv.cn/douyu1.php?id=2090684
 斗鱼_绵羊料理,http://121.36.35.255:8686/douyu/2090684
 斗鱼_绵羊料理,http://159.75.85.63:35455/douyu/2090684
 斗鱼_绵羊料理,http://jiandjh.51vip.biz:35455/douyu/2090684
@@ -3757,6 +3941,8 @@ bili_LOL赛事2,http://epg.112114.eu.org/bili/616
 bili_LOL赛事2,http://diyp.112114.xyz/bili/616
 bili_LOL赛事2,http://epg.112114.xyz/bili/616
 
+斗鱼_(演员)成果,http://huanqiuzhibo.cn/manifest/douyu.php?id=8090190
+斗鱼_(演员)成果,http://maomao.kandiantv.cn/douyu1.php?id=8090190
 斗鱼_(演员)成果,http://121.36.35.255:8686/douyu/8090190
 斗鱼_(演员)成果,http://159.75.85.63:35455/douyu/8090190
 斗鱼_(演员)成果,http://jiandjh.51vip.biz:35455/douyu/8090190
@@ -3766,6 +3952,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(演员)成果,http://live.aptvapp.com/live/douyu/8090190
 斗鱼_(演员)成果,http://epg.112114.xyz/douyu/8090190
 
+斗鱼_(LOL)PDD,http://huanqiuzhibo.cn/manifest/douyu.php?id=101
+斗鱼_(LOL)PDD,http://maomao.kandiantv.cn/douyu1.php?id=101
 斗鱼_(LOL)PDD,http://121.36.35.255:8686/douyu/101
 斗鱼_(LOL)PDD,http://159.75.85.63:35455/douyu/101
 斗鱼_(LOL)PDD,http://jiandjh.51vip.biz:35455/douyu/101
@@ -3776,6 +3964,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)PDD,http://epg.112114.xyz/douyu/101
 
 斗鱼_(LOL)大司马,http://hdltc1.douyucdn.cn/live/606118r6n9kQ9krJ.flv
+斗鱼_(LOL)大司马,http://huanqiuzhibo.cn/manifest/douyu.php?id=606118
+斗鱼_(LOL)大司马,http://maomao.kandiantv.cn/douyu1.php?id=606118
 斗鱼_(LOL)大司马,http://121.36.35.255:8686/douyu/606118
 斗鱼_(LOL)大司马,http://159.75.85.63:35455/douyu/606118
 斗鱼_(LOL)大司马,http://jiandjh.51vip.biz:35455/douyu/606118
@@ -3785,6 +3975,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)大司马,http://live.aptvapp.com/live/douyu/606118
 斗鱼_(LOL)大司马,http://epg.112114.xyz/douyu/606118
 
+斗鱼_(LOL)周淑怡,http://huanqiuzhibo.cn/manifest/douyu.php?id=290935
+斗鱼_(LOL)周淑怡,http://maomao.kandiantv.cn/douyu1.php?id=290935
 斗鱼_(LOL)周淑怡,http://121.36.35.255:8686/douyu/290935
 斗鱼_(LOL)周淑怡,http://159.75.85.63:35455/douyu/290935
 斗鱼_(LOL)周淑怡,http://jiandjh.51vip.biz:35455/douyu/290935
@@ -3795,6 +3987,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)周淑怡,http://epg.112114.xyz/douyu/290935
 
 斗鱼_(LOL)余小C,http://hdltc1.douyucdn.cn/live/1126960rPXROLJ7f.flv
+斗鱼_(LOL)余小C,http://huanqiuzhibo.cn/manifest/douyu.php?id=1126960
+斗鱼_(LOL)余小C,http://maomao.kandiantv.cn/douyu1.php?id=1126960
 斗鱼_(LOL)余小C,http://121.36.35.255:8686/douyu/1126960
 斗鱼_(LOL)余小C,http://159.75.85.63:35455/douyu/1126960
 斗鱼_(LOL)余小C,http://jiandjh.51vip.biz:35455/douyu/1126960
@@ -3804,6 +3998,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)余小C,http://live.aptvapp.com/live/douyu/1126960
 斗鱼_(LOL)余小C,http://epg.112114.xyz/douyu/1126960
 
+斗鱼_(LOL)doinb,http://huanqiuzhibo.cn/manifest/douyu.php?id=252140
+斗鱼_(LOL)doinb,http://maomao.kandiantv.cn/douyu1.php?id=252140
 斗鱼_(LOL)doinb,http://121.36.35.255:8686/douyu/252140
 斗鱼_(LOL)doinb,http://159.75.85.63:35455/douyu/252140
 斗鱼_(LOL)doinb,http://jiandjh.51vip.biz:35455/douyu/252140
@@ -3813,6 +4009,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)doinb,http://live.aptvapp.com/live/douyu/252140
 斗鱼_(LOL)doinb,http://epg.112114.xyz/douyu/252140
 
+斗鱼_(LOL)xiye,http://huanqiuzhibo.cn/manifest/douyu.php?id=12267
+斗鱼_(LOL)xiye,http://maomao.kandiantv.cn/douyu1.php?id=12267
 斗鱼_(LOL)xiye,http://121.36.35.255:8686/douyu/12267
 斗鱼_(LOL)xiye,http://159.75.85.63:35455/douyu/12267
 斗鱼_(LOL)xiye,http://jiandjh.51vip.biz:35455/douyu/12267
@@ -3822,6 +4020,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)xiye,http://live.aptvapp.com/live/douyu/12267
 斗鱼_(LOL)xiye,http://epg.112114.xyz/douyu/12267
 
+斗鱼_(LOL)洞主,http://huanqiuzhibo.cn/manifest/douyu.php?id=138243
+斗鱼_(LOL)洞主,http://maomao.kandiantv.cn/douyu1.php?id=138243
 斗鱼_(LOL)洞主,http://121.36.35.255:8686/douyu/138243
 斗鱼_(LOL)洞主,http://159.75.85.63:35455/douyu/138243
 斗鱼_(LOL)洞主,http://jiandjh.51vip.biz:35455/douyu/138243
@@ -3831,6 +4031,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)洞主,http://live.aptvapp.com/live/douyu/138243
 斗鱼_(LOL)洞主,http://epg.112114.xyz/douyu/138243
 
+斗鱼_(LOL)鬼史东,http://huanqiuzhibo.cn/manifest/douyu.php?id=890074
+斗鱼_(LOL)鬼史东,http://maomao.kandiantv.cn/douyu1.php?id=890074
 斗鱼_(LOL)鬼史东,http://121.36.35.255:8686/douyu/890074
 斗鱼_(LOL)鬼史东,http://159.75.85.63:35455/douyu/890074
 斗鱼_(LOL)鬼史东,http://jiandjh.51vip.biz:35455/douyu/890074
@@ -3840,6 +4042,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)鬼史东,http://live.aptvapp.com/live/douyu/890074
 斗鱼_(LOL)鬼史东,http://epg.112114.xyz/douyu/890074
 
+斗鱼_(LOL)管泽元,http://huanqiuzhibo.cn/manifest/douyu.php?id=5066138
+斗鱼_(LOL)管泽元,http://maomao.kandiantv.cn/douyu1.php?id=5066138
 斗鱼_(LOL)管泽元,http://121.36.35.255:8686/douyu/5066138
 斗鱼_(LOL)管泽元,http://159.75.85.63:35455/douyu/5066138
 斗鱼_(LOL)管泽元,http://jiandjh.51vip.biz:35455/douyu/5066138
@@ -3849,6 +4053,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(LOL)管泽元,http://live.aptvapp.com/live/douyu/5066138
 斗鱼_(LOL)管泽元,http://epg.112114.xyz/douyu/5066138
 
+斗鱼_(PUBG)xiaoxin,http://huanqiuzhibo.cn/manifest/douyu.php?id=709710
+斗鱼_(PUBG)xiaoxin,http://maomao.kandiantv.cn/douyu1.php?id=709710
 斗鱼_(PUBG)xiaoxin,http://121.36.35.255:8686/douyu/709710
 斗鱼_(PUBG)xiaoxin,http://159.75.85.63:35455/douyu/709710
 斗鱼_(PUBG)xiaoxin,http://jiandjh.51vip.biz:35455/douyu/709710
@@ -3858,6 +4064,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)xiaoxin,http://live.aptvapp.com/live/douyu/709710
 斗鱼_(PUBG)xiaoxin,http://epg.112114.xyz/douyu/709710
 
+斗鱼_(PUBG)pigff,http://huanqiuzhibo.cn/manifest/douyu.php?id=24422
+斗鱼_(PUBG)pigff,http://maomao.kandiantv.cn/douyu1.php?id=24422
 斗鱼_(PUBG)pigff,http://121.36.35.255:8686/douyu/24422
 斗鱼_(PUBG)pigff,http://159.75.85.63:35455/douyu/24422
 斗鱼_(PUBG)pigff,http://jiandjh.51vip.biz:35455/douyu/24422
@@ -3867,6 +4075,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)pigff,http://live.aptvapp.com/live/douyu/24422
 斗鱼_(PUBG)pigff,http://epg.112114.xyz/douyu/24422
 
+斗鱼_(PUBG)Zoe羊羊,http://huanqiuzhibo.cn/manifest/douyu.php?id=11067592
+斗鱼_(PUBG)Zoe羊羊,http://maomao.kandiantv.cn/douyu1.php?id=11067592
 斗鱼_(PUBG)Zoe羊羊,http://121.36.35.255:8686/douyu/11067592
 斗鱼_(PUBG)Zoe羊羊,http://159.75.85.63:35455/douyu/11067592
 斗鱼_(PUBG)Zoe羊羊,http://jiandjh.51vip.biz:35455/douyu/11067592
@@ -3876,6 +4086,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)Zoe羊羊,http://live.aptvapp.com/live/douyu/11067592
 斗鱼_(PUBG)Zoe羊羊,http://epg.112114.xyz/douyu/11067592
 
+斗鱼_(PUBG)小艺mia,http://huanqiuzhibo.cn/manifest/douyu.php?id=4662094
+斗鱼_(PUBG)小艺mia,http://maomao.kandiantv.cn/douyu1.php?id=4662094
 斗鱼_(PUBG)小艺mia,http://121.36.35.255:8686/douyu/4662094
 斗鱼_(PUBG)小艺mia,http://159.75.85.63:35455/douyu/4662094
 斗鱼_(PUBG)小艺mia,http://jiandjh.51vip.biz:35455/douyu/4662094
@@ -3885,6 +4097,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)小艺mia,http://live.aptvapp.com/live/douyu/4662094
 斗鱼_(PUBG)小艺mia,http://epg.112114.xyz/douyu/4662094
 
+斗鱼_(PUBG)iu可可曾,http://huanqiuzhibo.cn/manifest/douyu.php?id=83816
+斗鱼_(PUBG)iu可可曾,http://maomao.kandiantv.cn/douyu1.php?id=83816
 斗鱼_(PUBG)iu可可曾,http://121.36.35.255:8686/douyu/83816
 斗鱼_(PUBG)iu可可曾,http://159.75.85.63:35455/douyu/83816
 斗鱼_(PUBG)iu可可曾,http://jiandjh.51vip.biz:35455/douyu/83816
@@ -3894,6 +4108,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)iu可可曾,http://live.aptvapp.com/live/douyu/83816
 斗鱼_(PUBG)iu可可曾,http://epg.112114.xyz/douyu/83816
 
+斗鱼_(PUBG)果小果,http://huanqiuzhibo.cn/manifest/douyu.php?id=5556
+斗鱼_(PUBG)果小果,http://maomao.kandiantv.cn/douyu1.php?id=5556
 斗鱼_(PUBG)果小果,http://121.36.35.255:8686/douyu/5556
 斗鱼_(PUBG)果小果,http://159.75.85.63:35455/douyu/5556
 斗鱼_(PUBG)果小果,http://jiandjh.51vip.biz:35455/douyu/5556
@@ -3903,6 +4119,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)果小果,http://live.aptvapp.com/live/douyu/5556
 斗鱼_(PUBG)果小果,http://epg.112114.xyz/douyu/5556
 
+斗鱼_(PUBG)甜妹小给给,http://huanqiuzhibo.cn/manifest/douyu.php?id=10193812
+斗鱼_(PUBG)甜妹小给给,http://maomao.kandiantv.cn/douyu1.php?id=10193812
 斗鱼_(PUBG)甜妹小给给,http://121.36.35.255:8686/douyu/10193812
 斗鱼_(PUBG)甜妹小给给,http://159.75.85.63:35455/douyu/10193812
 斗鱼_(PUBG)甜妹小给给,http://jiandjh.51vip.biz:35455/douyu/10193812
@@ -3912,6 +4130,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)甜妹小给给,http://live.aptvapp.com/live/douyu/10193812
 斗鱼_(PUBG)甜妹小给给,http://epg.112114.xyz/douyu/10193812
 
+斗鱼_(PUBG)钓钓Yooo,http://huanqiuzhibo.cn/manifest/douyu.php?id=4913098
+斗鱼_(PUBG)钓钓Yooo,http://maomao.kandiantv.cn/douyu1.php?id=4913098
 斗鱼_(PUBG)钓钓Yooo,http://121.36.35.255:8686/douyu/4913098
 斗鱼_(PUBG)钓钓Yooo,http://159.75.85.63:35455/douyu/4913098
 斗鱼_(PUBG)钓钓Yooo,http://jiandjh.51vip.biz:35455/douyu/4913098
@@ -3921,6 +4141,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)钓钓Yooo,http://live.aptvapp.com/live/douyu/4913098
 斗鱼_(PUBG)钓钓Yooo,http://epg.112114.xyz/douyu/4913098
 
+斗鱼_(PUBG)唐6儿,http://huanqiuzhibo.cn/manifest/douyu.php?id=10656528
+斗鱼_(PUBG)唐6儿,http://maomao.kandiantv.cn/douyu1.php?id=10656528
 斗鱼_(PUBG)唐6儿,http://121.36.35.255:8686/douyu/10656528
 斗鱼_(PUBG)唐6儿,http://159.75.85.63:35455/douyu/10656528
 斗鱼_(PUBG)唐6儿,http://jiandjh.51vip.biz:35455/douyu/10656528
@@ -3930,6 +4152,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)唐6儿,http://live.aptvapp.com/live/douyu/10656528
 斗鱼_(PUBG)唐6儿,http://epg.112114.xyz/douyu/10656528
 
+斗鱼_(PUBG)LisaQvQ,http://huanqiuzhibo.cn/manifest/douyu.php?id=8439245
+斗鱼_(PUBG)LisaQvQ,http://maomao.kandiantv.cn/douyu1.php?id=8439245
 斗鱼_(PUBG)LisaQvQ,http://121.36.35.255:8686/douyu/8439245
 斗鱼_(PUBG)LisaQvQ,http://159.75.85.63:35455/douyu/8439245
 斗鱼_(PUBG)LisaQvQ,http://jiandjh.51vip.biz:35455/douyu/8439245
@@ -3939,6 +4163,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)LisaQvQ,http://live.aptvapp.com/live/douyu/8439245
 斗鱼_(PUBG)LisaQvQ,http://epg.112114.xyz/douyu/8439245
 
+斗鱼_(PUBG)Aegis丶Lin,http://huanqiuzhibo.cn/manifest/douyu.php?id=1909897
+斗鱼_(PUBG)Aegis丶Lin,http://maomao.kandiantv.cn/douyu1.php?id=1909897
 斗鱼_(PUBG)Aegis丶Lin,http://121.36.35.255:8686/douyu/1909897
 斗鱼_(PUBG)Aegis丶Lin,http://159.75.85.63:35455/douyu/1909897
 斗鱼_(PUBG)Aegis丶Lin,http://jiandjh.51vip.biz:35455/douyu/1909897
@@ -3948,6 +4174,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(PUBG)Aegis丶Lin,http://live.aptvapp.com/live/douyu/1909897
 斗鱼_(PUBG)Aegis丶Lin,http://epg.112114.xyz/douyu/1909897
 
+斗鱼_(主机)真栗,http://huanqiuzhibo.cn/manifest/douyu.php?id=3187637
+斗鱼_(主机)真栗,http://maomao.kandiantv.cn/douyu1.php?id=3187637
 斗鱼_(主机)真栗,http://121.36.35.255:8686/douyu/3187637
 斗鱼_(主机)真栗http://159.75.85.63:35455/douyu/3187637
 斗鱼_(主机)真栗,http://jiandjh.51vip.biz:35455/douyu/3187637
@@ -3957,6 +4185,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(主机)真栗,http://live.aptvapp.com/live/douyu/3187637
 斗鱼_(主机)真栗,http://epg.112114.xyz/douyu/3187637
 
+斗鱼_(主机)鸽子她,http://huanqiuzhibo.cn/manifest/douyu.php?id=236288
+斗鱼_(主机)鸽子她,http://maomao.kandiantv.cn/douyu1.php?id=236288
 斗鱼_(主机)鸽子她,http://121.36.35.255:8686/douyu/236288
 斗鱼_(主机)鸽子她,http://159.75.85.63:35455/douyu/236288
 斗鱼_(主机)鸽子她,http://jiandjh.51vip.biz:35455/douyu/236288
@@ -3966,6 +4196,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(主机)鸽子她,http://live.aptvapp.com/live/douyu/236288
 斗鱼_(主机)鸽子她,http://epg.112114.xyz/douyu/236288
 
+斗鱼_(CSGO)茄子,http://huanqiuzhibo.cn/manifest/douyu.php?id=9418
+斗鱼_(CSGO)茄子,http://maomao.kandiantv.cn/douyu1.php?id=9418
 斗鱼_(CSGO)茄子,http://121.36.35.255:8686/douyu/9418
 斗鱼_(CSGO)茄子,http://159.75.85.63:35455/douyu/9418
 斗鱼_(CSGO)茄子,http://jiandjh.51vip.biz:35455/douyu/9418
@@ -3975,6 +4207,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(CSGO)茄子,http://live.aptvapp.com/live/douyu/9418
 斗鱼_(CSGO)茄子,http://epg.112114.xyz/douyu/9418
 
+斗鱼_(二次元)咻咻满,http://huanqiuzhibo.cn/manifest/douyu.php?id=8777
+斗鱼_(二次元)咻咻满,http://maomao.kandiantv.cn/douyu1.php?id=8777
 斗鱼_(二次元)咻咻满,http://121.36.35.255:8686/douyu/8777
 斗鱼_(二次元)咻咻满,http://159.75.85.63:35455/douyu/8777
 斗鱼_(二次元)咻咻满,http://jiandjh.51vip.biz:35455/douyu/8777
@@ -3984,6 +4218,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(二次元)咻咻满,http://live.aptvapp.com/live/douyu/8777
 斗鱼_(二次元)咻咻满,http://epg.112114.xyz/douyu/8777
 
+斗鱼_(二次元)二呆啾,http://huanqiuzhibo.cn/manifest/douyu.php?id=5092355
+斗鱼_(二次元)二呆啾,http://maomao.kandiantv.cn/douyu1.php?id=5092355
 斗鱼_(二次元)二呆啾,http://121.36.35.255:8686/douyu/5092355
 斗鱼_(二次元)二呆啾,http://159.75.85.63:35455/douyu/5092355
 斗鱼_(二次元)二呆啾,http://jiandjh.51vip.biz:35455/douyu/5092355
@@ -3993,6 +4229,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(二次元)二呆啾,http://live.aptvapp.com/live/douyu/5092355
 斗鱼_(二次元)二呆啾,http://epg.112114.xyz/douyu/5092355
 
+斗鱼_(音乐)大肉嘎,http://huanqiuzhibo.cn/manifest/douyu.php?id=1607787
+斗鱼_(音乐)大肉嘎,http://maomao.kandiantv.cn/douyu1.php?id=1607787
 斗鱼_(音乐)大肉嘎,http://121.36.35.255:8686/douyu/1607787
 斗鱼_(音乐)大肉嘎,http://159.75.85.63:35455/douyu/1607787
 斗鱼_(音乐)大肉嘎,http://jiandjh.51vip.biz:35455/douyu/1607787
@@ -4002,6 +4240,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(音乐)大肉嘎,http://live.aptvapp.com/live/douyu/1607787
 斗鱼_(音乐)大肉嘎,http://epg.112114.xyz/douyu/1607787
 
+斗鱼_(音乐)王幼金,http://huanqiuzhibo.cn/manifest/douyu.php?id=4582220
+斗鱼_(音乐)王幼金,http://maomao.kandiantv.cn/douyu1.php?id=4582220
 斗鱼_(音乐)王幼金,http://121.36.35.255:8686/douyu/4582220
 斗鱼_(音乐)王幼金,http://159.75.85.63:35455/douyu/4582220
 斗鱼_(音乐)王幼金,http://jiandjh.51vip.biz:35455/douyu/4582220
@@ -4011,6 +4251,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(音乐)王幼金,http://live.aptvapp.com/live/douyu/4582220
 斗鱼_(音乐)王幼金,http://epg.112114.xyz/douyu/4582220
 
+斗鱼_(音乐)我是唐菲,http://huanqiuzhibo.cn/manifest/douyu.php?id=1761727
+斗鱼_(音乐)我是唐菲,http://maomao.kandiantv.cn/douyu1.php?id=1761727
 斗鱼_(音乐)我是唐菲,http://121.36.35.255:8686/douyu/1761727
 斗鱼_(音乐)我是唐菲,http://159.75.85.63:35455/douyu/1761727
 斗鱼_(音乐)我是唐菲,http://jiandjh.51vip.biz:35455/douyu/1761727
@@ -4020,8 +4262,10 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(音乐)我是唐菲,http://live.aptvapp.com/live/douyu/1761727
 斗鱼_(音乐)我是唐菲,http://epg.112114.xyz/douyu/1761727
 
-斗鱼_(舞蹈)Minana呀,http://121.36.35.255:8686/douyu/6495582
-斗鱼_(舞蹈)Minana呀,http://159.75.85.63:35455/douyu/6495582
+斗鱼_(舞蹈)Minana呀,http://huanqiuzhibo.cn/manifest/douyu.php?id=22619
+斗鱼_(舞蹈)Minana呀,http://maomao.kandiantv.cn/douyu1.php?id=22619
+斗鱼_(舞蹈)Minana呀,http://121.36.35.255:8686/douyu/22619
+斗鱼_(舞蹈)Minana呀,http://159.75.85.63:35455/douyu/22619
 斗鱼_(舞蹈)Minana呀,http://jiandjh.51vip.biz:35455/douyu/22619
 斗鱼_(舞蹈)Minana呀,http://www.lebaobei.top:35455/douyu/22619
 斗鱼_(舞蹈)Minana呀,http://epg.112114.eu.org/douyu/22619
@@ -4029,6 +4273,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(舞蹈)Minana呀,http://live.aptvapp.com/live/douyu/22619
 斗鱼_(舞蹈)Minana呀,http://epg.112114.xyz/douyu/22619
 
+斗鱼_(舞蹈)Chance喵,http://huanqiuzhibo.cn/manifest/douyu.php?id=6495582
+斗鱼_(舞蹈)Chance喵,http://maomao.kandiantv.cn/douyu1.php?id=6495582
 斗鱼_(舞蹈)Chance喵,http://121.36.35.255:8686/douyu/6495582
 斗鱼_(舞蹈)Chance喵,http://159.75.85.63:35455/douyu/6495582
 斗鱼_(舞蹈)Chance喵,http://jiandjh.51vip.biz:35455/douyu/6495582
@@ -4038,6 +4284,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(舞蹈)Chance喵,http://live.aptvapp.com/live/douyu/6495582
 斗鱼_(舞蹈)Chance喵,http://epg.112114.xyz/douyu/6495582
 
+斗鱼_(舞蹈)软不软,http://huanqiuzhibo.cn/manifest/douyu.php?id=9207931
+斗鱼_(舞蹈)软不软,http://maomao.kandiantv.cn/douyu1.php?id=9207931
 斗鱼_(舞蹈)软不软,http://121.36.35.255:8686/douyu/9207931
 斗鱼_(舞蹈)软不软,http://159.75.85.63:35455/douyu/9207931
 斗鱼_(舞蹈)软不软,http://jiandjh.51vip.biz:35455/douyu/9207931
@@ -4047,6 +4295,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(舞蹈)软不软,http://live.aptvapp.com/live/douyu/9207931
 斗鱼_(舞蹈)软不软,http://epg.112114.xyz/douyu/9207931
 
+斗鱼_(颜值)阿沐沐OvO,http://huanqiuzhibo.cn/manifest/douyu.php?id=6011317
+斗鱼_(颜值)阿沐沐OvO,http://maomao.kandiantv.cn/douyu1.php?id=6011317
 斗鱼_(颜值)阿沐沐OvO,http://121.36.35.255:8686/douyu/6011317
 斗鱼_(颜值)阿沐沐OvO,http://159.75.85.63:35455/douyu/6011317
 斗鱼_(颜值)阿沐沐OvO,http://jiandjh.51vip.biz:35455/douyu/6011317
@@ -4056,6 +4306,8 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(颜值)阿沐沐OvO,http://live.aptvapp.com/live/douyu/6011317
 斗鱼_(颜值)阿沐沐OvO,http://epg.112114.xyz/douyu/6011317
 
+斗鱼_(颜值)宋鲸儿,http://huanqiuzhibo.cn/manifest/douyu.php?id=3583605
+斗鱼_(颜值)宋鲸儿,http://maomao.kandiantv.cn/douyu1.php?id=3583605
 斗鱼_(颜值)宋鲸儿,http://121.36.35.255:8686/douyu/3583605
 斗鱼_(颜值)宋鲸儿,http://159.75.85.63:35455/douyu/3583605
 斗鱼_(颜值)宋鲸儿,http://jiandjh.51vip.biz:35455/douyu/3583605
@@ -4065,6 +4317,7 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 斗鱼_(颜值)宋鲸儿,http://live.aptvapp.com/live/douyu/3583605
 斗鱼_(颜值)宋鲸儿,http://epg.112114.xyz/douyu/3583605
 
+虎牙_(LOL)Uzi,http://huanqiuzhibo.cn/manifest/huya.php?id=100
 虎牙_(LOL)Uzi,http://121.36.35.255:8686/huya/100
 虎牙_(LOL)Uzi,http://159.75.85.63:35455/huya/100
 虎牙_(LOL)Uzi,http://jiandjh.51vip.biz:35455/huya/100
@@ -4078,6 +4331,7 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)Uzi,http://epg.112114.xyz/huya/100
 
 虎牙_(LOL)AmazingJ,https://aldirect.corp-hls.huya.com/src/1199517808234-1199517808234-5248160769664614400-2399035739924-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_(LOL)AmazingJ,http://huanqiuzhibo.cn/manifest/huya.php?id=991108
 虎牙_(LOL)AmazingJ,http://121.36.35.255:8686/huya/991108
 虎牙_(LOL)AmazingJ,http://159.75.85.63:35455/huya/991108
 虎牙_(LOL)AmazingJ,http://jiandjh.51vip.biz:35455/huya/991108
@@ -4091,6 +4345,7 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)AmazingJ,http://epg.112114.xyz/huya/991108
 
 虎牙_(LOL)霸哥,https://aldirect.corp-hls.huya.com/src/1724691-1724691-7407491440705536-3572838-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_(LOL)霸哥,http://huanqiuzhibo.cn/manifest/huya.php?id=189201
 虎牙_(LOL)霸哥,http://121.36.35.255:8686/huya/189201
 虎牙_(LOL)霸哥,http://159.75.85.63:35455/huya/189201
 虎牙_(LOL)霸哥,http://jiandjh.51vip.biz:35455/huya/189201
@@ -4104,6 +4359,7 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)霸哥,http://epg.112114.xyz/huya/189201
 
 虎牙_(LOL)kRYST4L,https://aldirect.corp-hls.huya.com/src/1575250000-1575250000-6765647233024000000-3150623456-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_(LOL)kRYST4L,http://huanqiuzhibo.cn/manifest/huya.php?id=222523
 虎牙_(LOL)kRYST4L,http://121.36.35.255:8686/huya/222523
 虎牙_(LOL)kRYST4L,http://159.75.85.63:35455/huya/222523
 虎牙_(LOL)kRYST4L,http://jiandjh.51vip.biz:35455/huya/222523
@@ -4117,6 +4373,7 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(LOL)kRYST4L,http://epg.112114.xyz/huya/222523
 
 虎牙_(PUBG)godv,https://aldirect.corp-hls.huya.com/src/518969542-518969542-2228957210510098432-1038062540-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_(PUBG)godv,http://huanqiuzhibo.cn/manifest/huya.php?id=7911
 虎牙_(PUBG)godv,http://121.36.35.255:8686/huya/7911
 虎牙_(PUBG)godv,http://159.75.85.63:35455/huya/7911
 虎牙_(PUBG)godv,http://jiandjh.51vip.biz:35455/huya/7911
@@ -4130,6 +4387,7 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_(PUBG)godv,http://epg.112114.xyz/huya/7911
 
 虎牙_音悦台,https://aldirect.corp-hls.huya.com/src/71862053-2624801668-11273437322546249728-3590850040-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_音悦台,http://huanqiuzhibo.cn/manifest/huya.php?id=880201
 虎牙_音悦台,http://121.36.35.255:8686/huya/880201
 虎牙_音悦台,http://159.75.85.63:35455/huya/880201
 虎牙_音悦台,http://jiandjh.51vip.biz:35455/huya/880201
@@ -4143,6 +4401,7 @@ bili_LOL赛事2,http://epg.112114.xyz/bili/616
 虎牙_音悦台,http://epg.112114.xyz/huya/880201
 
 虎牙_快乐老家,https://aldirect.corp-hls.huya.com/src/71862053-2645534014-11362482070585606144-3684952466-10057-A-0-1.m3u8?wsiphost=ipdbme
+虎牙_快乐老家,http://huanqiuzhibo.cn/manifest/huya.php?id=880351
 虎牙_快乐老家,http://121.36.35.255:8686/huya/880351
 虎牙_快乐老家,http://159.75.85.63:35455/huya/880351
 虎牙_快乐老家,http://jiandjh.51vip.biz:35455/huya/880351
@@ -4229,15 +4488,21 @@ bili_(LOL)Langx,http://epg.112114.xyz/bili/24022841
 
 YY_24小时音乐,http://data.3g.yy.com/live/hls/54880976/54880976
 YY_24小时音乐,http://106.53.212.251:80/daili/yy.php?id=54880976
+YY_24小时音乐,http://maomao.kandiantv.cn/yy.php?id=54880976
 YY_24小时音乐,http://mmitv.top/pltv/yy.php?id=54880976
 YY_24小时音乐,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=54880976
 YY_24小时音乐,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=54880976
+YY_24小时音乐,http://luotuo.ycchenrong.cn/dl/yy.php?id=54880976
+YY_24小时音乐,http://dl.zhoujie218.top/dl/yy.php?id=54880976
 
 YY_24小时舞蹈,http://data.3g.yy.com/live/hls/22490906/22490906
 YY_24小时舞蹈,http://106.53.212.251:80/daili/yy.php?id=22490906
+YY_24小时舞蹈,http://maomao.kandiantv.cn/yy.php?id=22490906
 YY_24小时舞蹈,http://mmitv.top/pltv/yy.php?id=22490906
 YY_24小时舞蹈,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22490906
 YY_24小时舞蹈,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=22490906
+YY_24小时舞蹈,http://luotuo.ycchenrong.cn/dl/yy.php?id=22490906
+YY_24小时舞蹈,http://dl.zhoujie218.top/dl/yy.php?id=22490906
 
 直播中国,#genre#
 
