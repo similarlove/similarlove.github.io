@@ -3268,7 +3268,7 @@
 		"url": "https://similarlove.github.io/tvlive/livetv.txt",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://similarlove.github.io/Logo/{name}.png"
-	}],
+	}]
 	
 
 }
