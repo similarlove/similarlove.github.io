@@ -1,4 +1,5 @@
 {
+	"spider": "https://similarlove.github.io/tvlive/live.jar"
 	"sites": [{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣推荐",
@@ -3269,5 +3270,4 @@
 	}],
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
-	"spider": "https://similarlove.github.io/tvlive/live.jar"
 }
