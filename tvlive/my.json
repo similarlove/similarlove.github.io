@@ -1,5 +1,6 @@
 {
-	"spider": "https://similarlove.github.io/tvlive/live.jar"
+	"spider": "https://similarlove.github.io/tvlive/live.jar",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites": [{
 			"key": "dr_豆瓣",
 			"name": "🔍豆瓣推荐",
@@ -3268,6 +3269,6 @@
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://similarlove.github.io/Logo/{name}.png"
 	}],
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	
 
 }
