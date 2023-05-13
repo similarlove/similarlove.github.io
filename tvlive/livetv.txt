@@ -2881,11 +2881,10 @@ iHOT爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
 斗鱼_西游记,http://diyp.112114.xyz/douyu/5472438
 斗鱼_西游记,http://live.aptvapp.com/live/douyu/5472438
 斗鱼_西游记,http://epg.112114.xyz/douyu/5472438
-bili_西游记,https://cn-hbyc-ct-02-15.bilivideo.com/live-bvc/208154/live_33547203_27459203/index.m3u8
-bili_西游记,https://c1--cn-gotcha208.bilivideo.com/live-bvc/208154/live_33547203_27459203/index.m3u8
-bili_西游记,http://epg.112114.eu.org/bili/27169379
-bili_西游记,http://diyp.112114.xyz/bili/27169379
-bili_西游记,http://epg.112114.xyz/bili/27169379
+bili_西游记,https://d1--cn-gotcha101.bilivideo.com/live-bvc/633261/live_3493268832651426_87879204.m3u8
+bili_西游记,http://epg.112114.eu.org/bili/27452647
+bili_西游记,http://diyp.112114.xyz/bili/27452647
+bili_西游记,http://epg.112114.xyz/bili/27452647
 斗鱼_新三国,http://121.36.35.255:8686/douyu/276200
 斗鱼_新三国,http://159.75.85.63:35455/douyu/276200
 斗鱼_新三国,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
