@@ -2881,7 +2881,6 @@ iHOT爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
 斗鱼_西游记,http://diyp.112114.xyz/douyu/5472438
 斗鱼_西游记,http://live.aptvapp.com/live/douyu/5472438
 斗鱼_西游记,http://epg.112114.xyz/douyu/5472438
-bili_西游记,https://d1--cn-gotcha101.bilivideo.com/live-bvc/633261/live_3493268832651426_87879204.m3u8
 bili_西游记,http://epg.112114.eu.org/bili/27452647
 bili_西游记,http://diyp.112114.xyz/bili/27452647
 bili_西游记,http://epg.112114.xyz/bili/27452647
