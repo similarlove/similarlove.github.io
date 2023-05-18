@@ -1864,12 +1864,12 @@ i-Fun动漫,https://epg.pw/stream/8689f3a4aaa41a290d04abab81f61fcfcfe95772b97610
 斗鱼_柯南剧场版,http://159.75.85.63:35455/douyu/5377297
 斗鱼_柯南剧场版,http://epg.112114.eu.org/douyu/5377297
 斗鱼_柯南剧场版,http://139.99.40.48:35455/douyu/5377297
-斗鱼_柯南剧场版,http://maomao.kandiantv.cn/douyu1.php?id=5377297
 斗鱼_柯南剧场版,http://jiandjh.51vip.biz:35455/douyu/5377297
 斗鱼_柯南剧场版,http://huanqiuzhibo.cn/manifest/douyu.php?id=5377297
 斗鱼_柯南剧场版,http://121.36.35.255:8686/douyu/5377297
 斗鱼_柯南剧场版,http://www.lebaobei.top:35455/douyu/5377297
 斗鱼_柯南剧场版,http://diyp.112114.xyz/douyu/5377297
+斗鱼_柯南剧场版,http://maomao.kandiantv.cn/douyu1.php?id=5377297
 斗鱼_柯南剧场版,http://live.aptvapp.com/live/douyu/5377297
 
 bili_巴啦啦小魔仙,https://cn-jsyz-ct-03-24.bilivideo.com/live-bvc/159186/live_1382_62070028/index.m3u8
@@ -2306,24 +2306,24 @@ bili_电影轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=21448296
 斗鱼_电影轮播1,http://159.75.85.63:35455/douyu/85894
 斗鱼_电影轮播1,http://epg.112114.eu.org/douyu/85894
 斗鱼_电影轮播1,http://139.99.40.48:35455/douyu/85894
-斗鱼_电影轮播1,http://maomao.kandiantv.cn/douyu1.php?id=85894
 斗鱼_电影轮播1,http://jiandjh.51vip.biz:35455/douyu/85894
 斗鱼_电影轮播1,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
 斗鱼_电影轮播1,http://121.36.35.255:8686/douyu/85894
 斗鱼_电影轮播1,http://www.lebaobei.top:35455/douyu/85894
 斗鱼_电影轮播1,http://diyp.112114.xyz/douyu/85894
+斗鱼_电影轮播1,http://maomao.kandiantv.cn/douyu1.php?id=85894
 斗鱼_电影轮播1,http://live.aptvapp.com/live/douyu/85894
 
 斗鱼_电影轮播2,http://epg.112114.xyz/douyu/122402
 斗鱼_电影轮播2,http://159.75.85.63:35455/douyu/122402
 斗鱼_电影轮播2,http://epg.112114.eu.org/douyu/122402
 斗鱼_电影轮播2,http://139.99.40.48:35455/douyu/122402
-斗鱼_电影轮播2,http://maomao.kandiantv.cn/douyu1.php?id=122402
 斗鱼_电影轮播2,http://jiandjh.51vip.biz:35455/douyu/122402
 斗鱼_电影轮播2,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 斗鱼_电影轮播2,http://121.36.35.255:8686/douyu/122402
 斗鱼_电影轮播2,http://www.lebaobei.top:35455/douyu/122402
 斗鱼_电影轮播2,http://diyp.112114.xyz/douyu/122402
+斗鱼_电影轮播2,http://maomao.kandiantv.cn/douyu1.php?id=122402
 斗鱼_电影轮播2,http://live.aptvapp.com/live/douyu/122402
 
 虎牙_港片轮播,http://159.75.85.63:35455/huya/11602058
@@ -2378,24 +2378,24 @@ bili_鬼片轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=193
 斗鱼_鬼片轮播1,http://159.75.85.63:35455/douyu/218859
 斗鱼_鬼片轮播1,http://epg.112114.eu.org/douyu/218859
 斗鱼_鬼片轮播1,http://139.99.40.48:35455/douyu/218859
-斗鱼_鬼片轮播1,http://maomao.kandiantv.cn/douyu1.php?id=218859
 斗鱼_鬼片轮播1,http://jiandjh.51vip.biz:35455/douyu/218859
 斗鱼_鬼片轮播1,http://huanqiuzhibo.cn/manifest/douyu.php?id=218859
 斗鱼_鬼片轮播1,http://121.36.35.255:8686/douyu/218859
 斗鱼_鬼片轮播1,http://www.lebaobei.top:35455/douyu/218859
 斗鱼_鬼片轮播1,http://diyp.112114.xyz/douyu/218859
+斗鱼_鬼片轮播1,http://maomao.kandiantv.cn/douyu1.php?id=218859
 斗鱼_鬼片轮播1,http://live.aptvapp.com/live/douyu/218859
 
 斗鱼_鬼片轮播2,http://epg.112114.xyz/douyu/6906628
 斗鱼_鬼片轮播2,http://159.75.85.63:35455/douyu/6906628
 斗鱼_鬼片轮播2,http://epg.112114.eu.org/douyu/6906628
 斗鱼_鬼片轮播2,http://139.99.40.48:35455/douyu/6906628
-斗鱼_鬼片轮播2,http://maomao.kandiantv.cn/douyu1.php?id=6906628
 斗鱼_鬼片轮播2,http://jiandjh.51vip.biz:35455/douyu/6906628
 斗鱼_鬼片轮播2,http://huanqiuzhibo.cn/manifest/douyu.php?id=6906628
 斗鱼_鬼片轮播2,http://121.36.35.255:8686/douyu/6906628
 斗鱼_鬼片轮播2,http://www.lebaobei.top:35455/douyu/6906628
 斗鱼_鬼片轮播2,http://diyp.112114.xyz/douyu/6906628
+斗鱼_鬼片轮播2,http://maomao.kandiantv.cn/douyu1.php?id=6906628
 斗鱼_鬼片轮播2,http://live.aptvapp.com/live/douyu/6906628
 
 虎牙_鬼片轮播,http://159.75.85.63:35455/huya/11342421
@@ -2587,11 +2587,11 @@ YY_成龙,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354888751
 斗鱼_豆瓣电影,http://139.99.40.48:35455/douyu/8770422
 斗鱼_豆瓣电影,http://epg.112114.eu.org/douyu/8770422
 斗鱼_豆瓣电影,http://jiandjh.51vip.biz:35455/douyu/8770422
-斗鱼_豆瓣电影,http://maomao.kandiantv.cn/douyu1.php?id=8770422
 斗鱼_豆瓣电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422
 斗鱼_豆瓣电影,http://121.36.35.255:8686/douyu/8770422
 斗鱼_豆瓣电影,http://www.lebaobei.top:35455/douyu/8770422
 斗鱼_豆瓣电影,http://diyp.112114.xyz/douyu/8770422
+斗鱼_豆瓣电影,http://maomao.kandiantv.cn/douyu1.php?id=8770422
 斗鱼_豆瓣电影,http://live.aptvapp.com/live/douyu/8770422
 
 斗鱼_科幻电影,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -2599,12 +2599,12 @@ YY_成龙,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354888751
 斗鱼_科幻电影,http://159.75.85.63:35455/douyu/20415
 斗鱼_科幻电影,http://epg.112114.eu.org/douyu/20415
 斗鱼_科幻电影,http://139.99.40.48:35455/douyu/20415
-斗鱼_科幻电影,http://maomao.kandiantv.cn/douyu1.php?id=20415
 斗鱼_科幻电影,http://jiandjh.51vip.biz:35455/douyu/20415
 斗鱼_科幻电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
 斗鱼_科幻电影,http://121.36.35.255:8686/douyu/20415
 斗鱼_科幻电影,http://www.lebaobei.top:35455/douyu/20415
 斗鱼_科幻电影,http://diyp.112114.xyz/douyu/20415
+斗鱼_科幻电影,http://maomao.kandiantv.cn/douyu1.php?id=20415
 斗鱼_科幻电影,http://live.aptvapp.com/live/douyu/20415
 
 YY_欧美科幻,http://data.3g.yy.com/live/hls/37988782/37988782
@@ -2949,12 +2949,12 @@ iHOT爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
 斗鱼_西游记,http://159.75.85.63:35455/douyu/5472438
 斗鱼_西游记,http://epg.112114.eu.org/douyu/5472438
 斗鱼_西游记,http://139.99.40.48:35455/douyu/5472438
-斗鱼_西游记,http://maomao.kandiantv.cn/douyu1.php?id=5472438
 斗鱼_西游记,http://jiandjh.51vip.biz:35455/douyu/5472438
 斗鱼_西游记,http://huanqiuzhibo.cn/manifest/douyu.php?id=5472438
 斗鱼_西游记,http://121.36.35.255:8686/douyu/5472438
 斗鱼_西游记,http://www.lebaobei.top:35455/douyu/5472438
 斗鱼_西游记,http://diyp.112114.xyz/douyu/5472438
+斗鱼_西游记,http://maomao.kandiantv.cn/douyu1.php?id=5472438
 斗鱼_西游记,http://live.aptvapp.com/live/douyu/5472438
 
 bili_西游记,http://epg.112114.xyz/bili/27452647
@@ -2969,24 +2969,24 @@ bili_西游记,http://luotuo.ycchenrong.cn/dl/bili.php?id=27452647
 斗鱼_西游记续,http://159.75.85.63:35455/douyu/3113309
 斗鱼_西游记续,http://epg.112114.eu.org/douyu/3113309
 斗鱼_西游记续,http://139.99.40.48:35455/douyu/3113309
-斗鱼_西游记续,http://maomao.kandiantv.cn/douyu1.php?id=3113309
 斗鱼_西游记续,http://jiandjh.51vip.biz:35455/douyu/3113309
 斗鱼_西游记续,http://huanqiuzhibo.cn/manifest/douyu.php?id=3113309
 斗鱼_西游记续,http://121.36.35.255:8686/douyu/3113309
 斗鱼_西游记续,http://www.lebaobei.top:35455/douyu/3113309
 斗鱼_西游记续,http://diyp.112114.xyz/douyu/3113309
+斗鱼_西游记续,http://maomao.kandiantv.cn/douyu1.php?id=3113309
 斗鱼_西游记续,http://live.aptvapp.com/live/douyu/3113309
 
 斗鱼_新三国,http://epg.112114.xyz/douyu/276200
 斗鱼_新三国,http://159.75.85.63:35455/douyu/276200
 斗鱼_新三国,http://epg.112114.eu.org/douyu/276200
 斗鱼_新三国,http://139.99.40.48:35455/douyu/276200
-斗鱼_新三国,http://maomao.kandiantv.cn/douyu1.php?id=276200
 斗鱼_新三国,http://jiandjh.51vip.biz:35455/douyu/276200
 斗鱼_新三国,http://huanqiuzhibo.cn/manifest/douyu.php?id=276200
 斗鱼_新三国,http://121.36.35.255:8686/douyu/276200
 斗鱼_新三国,http://www.lebaobei.top:35455/douyu/276200
 斗鱼_新三国,http://diyp.112114.xyz/douyu/276200
+斗鱼_新三国,http://maomao.kandiantv.cn/douyu1.php?id=276200
 斗鱼_新三国,http://live.aptvapp.com/live/douyu/276200
 
 虎牙_新三国,http://159.75.85.63:35455/huya/11352944
@@ -3008,12 +3008,12 @@ bili_西游记,http://luotuo.ycchenrong.cn/dl/bili.php?id=27452647
 斗鱼_老三国,http://159.75.85.63:35455/douyu/7459925
 斗鱼_老三国,http://epg.112114.eu.org/douyu/7459925
 斗鱼_老三国,http://139.99.40.48:35455/douyu/7459925
-斗鱼_老三国,http://maomao.kandiantv.cn/douyu1.php?id=7459925
 斗鱼_老三国,http://jiandjh.51vip.biz:35455/douyu/7459925
 斗鱼_老三国,http://huanqiuzhibo.cn/manifest/douyu.php?id=7459925
 斗鱼_老三国,http://121.36.35.255:8686/douyu/7459925
 斗鱼_老三国,http://www.lebaobei.top:35455/douyu/7459925
 斗鱼_老三国,http://diyp.112114.xyz/douyu/7459925
+斗鱼_老三国,http://maomao.kandiantv.cn/douyu1.php?id=7459925
 斗鱼_老三国,http://live.aptvapp.com/live/douyu/7459925
 
 bili_老三国,https://cn-zjjh-ct-04-33.bilivideo.com/live-bvc/373452/live_24106619_9917198/index.m3u8
@@ -3185,12 +3185,12 @@ YY_聊斋,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382736975
 斗鱼_风云,http://159.75.85.63:35455/douyu/9290755
 斗鱼_风云,http://epg.112114.eu.org/douyu/9290755
 斗鱼_风云,http://139.99.40.48:35455/douyu/9290755
-斗鱼_风云,http://maomao.kandiantv.cn/douyu1.php?id=9290755
 斗鱼_风云,http://jiandjh.51vip.biz:35455/douyu/9290755
 斗鱼_风云,http://huanqiuzhibo.cn/manifest/douyu.php?id=9290755
 斗鱼_风云,http://121.36.35.255:8686/douyu/9290755
 斗鱼_风云,http://www.lebaobei.top:35455/douyu/9290755
 斗鱼_风云,http://diyp.112114.xyz/douyu/9290755
+斗鱼_风云,http://maomao.kandiantv.cn/douyu1.php?id=9290755
 斗鱼_风云,http://live.aptvapp.com/live/douyu/9290755
 
 YY_仙剑奇侠传Ⅰ,http://data.3g.yy.com/live/hls/1382749903/1382749903
@@ -3372,12 +3372,12 @@ YY_天下第一,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354780649
 斗鱼_庆余年,http://159.75.85.63:35455/douyu/5908256
 斗鱼_庆余年,http://epg.112114.eu.org/douyu/5908256
 斗鱼_庆余年,http://139.99.40.48:35455/douyu/5908256
-斗鱼_庆余年,http://maomao.kandiantv.cn/douyu1.php?id=5908256
 斗鱼_庆余年,http://jiandjh.51vip.biz:35455/douyu/5908256
 斗鱼_庆余年,http://huanqiuzhibo.cn/manifest/douyu.php?id=5908256
 斗鱼_庆余年,http://121.36.35.255:8686/douyu/5908256
 斗鱼_庆余年,http://www.lebaobei.top:35455/douyu/5908256
 斗鱼_庆余年,http://diyp.112114.xyz/douyu/5908256
+斗鱼_庆余年,http://maomao.kandiantv.cn/douyu1.php?id=5908256
 斗鱼_庆余年,http://live.aptvapp.com/live/douyu/5908256
 
 虎牙_庆余年,http://159.75.85.63:35455/huya/11352960
@@ -3398,12 +3398,12 @@ YY_天下第一,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354780649
 斗鱼_大秦帝国,http://121.36.35.255:8686/douyu/1584198
 斗鱼_大秦帝国,http://epg.112114.eu.org/douyu/1584198
 斗鱼_大秦帝国,http://139.99.40.48:35455/douyu/1584198
-斗鱼_大秦帝国,http://maomao.kandiantv.cn/douyu1.php?id=1584198
 斗鱼_大秦帝国,http://159.75.85.63:35455/douyu/1584198
 斗鱼_大秦帝国,http://huanqiuzhibo.cn/manifest/douyu.php?id=1584198
 斗鱼_大秦帝国,http://jiandjh.51vip.biz:35455/douyu/1584198
 斗鱼_大秦帝国,http://www.lebaobei.top:35455/douyu/1584198
 斗鱼_大秦帝国,http://diyp.112114.xyz/douyu/1584198
+斗鱼_大秦帝国,http://maomao.kandiantv.cn/douyu1.php?id=1584198
 斗鱼_大秦帝国,http://live.aptvapp.com/live/douyu/1584198
 
 虎牙_大秦赋,http://121.36.35.255:8686/huya/11352881
@@ -3434,12 +3434,12 @@ YY_隋唐英雄传,http://luotuo.ycchenrong.cn/dl/yy.php?id=1352475619
 斗鱼_神话,http://159.75.85.63:35455/douyu/5448413
 斗鱼_神话,http://epg.112114.eu.org/douyu/5448413
 斗鱼_神话,http://139.99.40.48:35455/douyu/5448413
-斗鱼_神话,http://maomao.kandiantv.cn/douyu1.php?id=5448413
 斗鱼_神话,http://jiandjh.51vip.biz:35455/douyu/5448413
 斗鱼_神话,http://huanqiuzhibo.cn/manifest/douyu.php?id=5448413
 斗鱼_神话,http://121.36.35.255:8686/douyu/5448413
 斗鱼_神话,http://www.lebaobei.top:35455/douyu/5448413
 斗鱼_神话,http://diyp.112114.xyz/douyu/5448413
+斗鱼_神话,http://maomao.kandiantv.cn/douyu1.php?id=5448413
 斗鱼_神话,http://live.aptvapp.com/live/douyu/5448413
 
 YY_美人心计,http://data.3g.yy.com/live/hls/21881901/21881901
@@ -3456,12 +3456,12 @@ YY_美人心计,http://luotuo.ycchenrong.cn/dl/yy.php?id=21881901
 斗鱼_狄仁杰,http://159.75.85.63:35455/douyu/6027991
 斗鱼_狄仁杰,http://epg.112114.eu.org/douyu/6027991
 斗鱼_狄仁杰,http://139.99.40.48:35455/douyu/6027991
-斗鱼_狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=6027991
 斗鱼_狄仁杰,http://jiandjh.51vip.biz:35455/douyu/6027991
 斗鱼_狄仁杰,http://huanqiuzhibo.cn/manifest/douyu.php?id=6027991
 斗鱼_狄仁杰,http://121.36.35.255:8686/douyu/6027991
 斗鱼_狄仁杰,http://www.lebaobei.top:35455/douyu/6027991
 斗鱼_狄仁杰,http://diyp.112114.xyz/douyu/6027991
+斗鱼_狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=6027991
 斗鱼_狄仁杰,http://live.aptvapp.com/live/douyu/6027991
 
 虎牙_十大奇冤,http://159.75.85.63:35455/huya/11352899
@@ -3496,12 +3496,12 @@ YY_美人心计,http://luotuo.ycchenrong.cn/dl/yy.php?id=21881901
 斗鱼_朱元璋,http://159.75.85.63:35455/douyu/308752
 斗鱼_朱元璋,http://epg.112114.eu.org/douyu/308752
 斗鱼_朱元璋,http://139.99.40.48:35455/douyu/308752
-斗鱼_朱元璋,http://maomao.kandiantv.cn/douyu1.php?id=308752
 斗鱼_朱元璋,http://jiandjh.51vip.biz:35455/douyu/308752
 斗鱼_朱元璋,http://huanqiuzhibo.cn/manifest/douyu.php?id=308752
 斗鱼_朱元璋,http://121.36.35.255:8686/douyu/308752
 斗鱼_朱元璋,http://www.lebaobei.top:35455/douyu/308752
 斗鱼_朱元璋,http://diyp.112114.xyz/douyu/308752
+斗鱼_朱元璋,http://maomao.kandiantv.cn/douyu1.php?id=308752
 斗鱼_朱元璋,http://live.aptvapp.com/live/douyu/308752
 
 YY_大明王朝1566,http://data.3g.yy.com/live/hls/1382736879/1382736879
@@ -3623,24 +3623,24 @@ YY_80版上海滩,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745184
 斗鱼_抗日剧,http://159.75.85.63:35455/douyu/3337730
 斗鱼_抗日剧,http://epg.112114.eu.org/douyu/3337730
 斗鱼_抗日剧,http://139.99.40.48:35455/douyu/3337730
-斗鱼_抗日剧,http://maomao.kandiantv.cn/douyu1.php?id=3337730
 斗鱼_抗日剧,http://jiandjh.51vip.biz:35455/douyu/3337730
 斗鱼_抗日剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=3337730
 斗鱼_抗日剧,http://121.36.35.255:8686/douyu/3337730
 斗鱼_抗日剧,http://www.lebaobei.top:35455/douyu/3337730
 斗鱼_抗日剧,http://diyp.112114.xyz/douyu/3337730
+斗鱼_抗日剧,http://maomao.kandiantv.cn/douyu1.php?id=3337730
 斗鱼_抗日剧,http://live.aptvapp.com/live/douyu/3337730
 
 斗鱼_永不磨灭的番号,http://epg.112114.xyz/douyu/8157860
 斗鱼_永不磨灭的番号,http://159.75.85.63:35455/douyu/8157860
 斗鱼_永不磨灭的番号,http://epg.112114.eu.org/douyu/8157860
 斗鱼_永不磨灭的番号,http://139.99.40.48:35455/douyu/8157860
-斗鱼_永不磨灭的番号,http://maomao.kandiantv.cn/douyu1.php?id=8157860
 斗鱼_永不磨灭的番号,http://jiandjh.51vip.biz:35455/douyu/8157860
 斗鱼_永不磨灭的番号,http://huanqiuzhibo.cn/manifest/douyu.php?id=8157860
 斗鱼_永不磨灭的番号,http://121.36.35.255:8686/douyu/8157860
 斗鱼_永不磨灭的番号,http://www.lebaobei.top:35455/douyu/8157860
 斗鱼_永不磨灭的番号,http://diyp.112114.xyz/douyu/8157860
+斗鱼_永不磨灭的番号,http://maomao.kandiantv.cn/douyu1.php?id=8157860
 斗鱼_永不磨灭的番号,http://live.aptvapp.com/live/douyu/8157860
 
 YY_小兵张嘎,http://data.3g.yy.com/live/hls/1354930225/1354930225
@@ -4014,7 +4014,6 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_周淑怡,http://www.lebaobei.top:35455/douyu/290935
 斗鱼_周淑怡,http://live.aptvapp.com/live/douyu/290935
 
-斗鱼_余小C,http://maomao.kandiantv.cn/douyu1.php?id=1126960
 斗鱼_余小C,http://epg.112114.eu.org/douyu/1126960
 斗鱼_余小C,http://159.75.85.63:35455/douyu/1126960
 斗鱼_余小C,http://huanqiuzhibo.cn/manifest/douyu.php?id=1126960
@@ -4024,9 +4023,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_余小C,http://diyp.112114.xyz/douyu/1126960
 斗鱼_余小C,http://121.36.35.255:8686/douyu/1126960
 斗鱼_余小C,http://www.lebaobei.top:35455/douyu/1126960
+斗鱼_余小C,http://maomao.kandiantv.cn/douyu1.php?id=1126960
 斗鱼_余小C,http://live.aptvapp.com/live/douyu/1126960
 
-斗鱼_doinb,http://maomao.kandiantv.cn/douyu1.php?id=252140
 斗鱼_doinb,http://epg.112114.eu.org/douyu/252140
 斗鱼_doinb,http://159.75.85.63:35455/douyu/252140
 斗鱼_doinb,http://huanqiuzhibo.cn/manifest/douyu.php?id=252140
@@ -4036,9 +4035,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_doinb,http://diyp.112114.xyz/douyu/252140
 斗鱼_doinb,http://121.36.35.255:8686/douyu/252140
 斗鱼_doinb,http://www.lebaobei.top:35455/douyu/252140
+斗鱼_doinb,http://maomao.kandiantv.cn/douyu1.php?id=252140
 斗鱼_doinb,http://live.aptvapp.com/live/douyu/252140
 
-斗鱼_xiye,http://maomao.kandiantv.cn/douyu1.php?id=12267
 斗鱼_xiye,http://epg.112114.eu.org/douyu/12267
 斗鱼_xiye,http://159.75.85.63:35455/douyu/12267
 斗鱼_xiye,http://huanqiuzhibo.cn/manifest/douyu.php?id=12267
@@ -4048,9 +4047,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_xiye,http://diyp.112114.xyz/douyu/12267
 斗鱼_xiye,http://121.36.35.255:8686/douyu/12267
 斗鱼_xiye,http://www.lebaobei.top:35455/douyu/12267
+斗鱼_xiye,http://maomao.kandiantv.cn/douyu1.php?id=12267
 斗鱼_xiye,http://live.aptvapp.com/live/douyu/12267
 
-斗鱼_洞主,http://maomao.kandiantv.cn/douyu1.php?id=138243
 斗鱼_洞主,http://epg.112114.eu.org/douyu/138243
 斗鱼_洞主,http://159.75.85.63:35455/douyu/138243
 斗鱼_洞主,http://huanqiuzhibo.cn/manifest/douyu.php?id=138243
@@ -4060,9 +4059,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_洞主,http://diyp.112114.xyz/douyu/138243
 斗鱼_洞主,http://121.36.35.255:8686/douyu/138243
 斗鱼_洞主,http://www.lebaobei.top:35455/douyu/138243
+斗鱼_洞主,http://maomao.kandiantv.cn/douyu1.php?id=138243
 斗鱼_洞主,http://live.aptvapp.com/live/douyu/138243
 
-斗鱼_鬼史东,http://maomao.kandiantv.cn/douyu1.php?id=890074
 斗鱼_鬼史东,http://epg.112114.eu.org/douyu/890074
 斗鱼_鬼史东,http://159.75.85.63:35455/douyu/890074
 斗鱼_鬼史东,http://huanqiuzhibo.cn/manifest/douyu.php?id=890074
@@ -4072,9 +4071,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_鬼史东,http://diyp.112114.xyz/douyu/890074
 斗鱼_鬼史东,http://121.36.35.255:8686/douyu/890074
 斗鱼_鬼史东,http://www.lebaobei.top:35455/douyu/890074
+斗鱼_鬼史东,http://maomao.kandiantv.cn/douyu1.php?id=890074
 斗鱼_鬼史东,http://live.aptvapp.com/live/douyu/890074
 
-斗鱼_管泽元,http://maomao.kandiantv.cn/douyu1.php?id=5066138
 斗鱼_管泽元,http://epg.112114.eu.org/douyu/5066138
 斗鱼_管泽元,http://159.75.85.63:35455/douyu/5066138
 斗鱼_管泽元,http://huanqiuzhibo.cn/manifest/douyu.php?id=5066138
@@ -4084,9 +4083,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_管泽元,http://diyp.112114.xyz/douyu/5066138
 斗鱼_管泽元,http://121.36.35.255:8686/douyu/5066138
 斗鱼_管泽元,http://www.lebaobei.top:35455/douyu/5066138
+斗鱼_管泽元,http://maomao.kandiantv.cn/douyu1.php?id=5066138
 斗鱼_管泽元,http://live.aptvapp.com/live/douyu/5066138
 
-斗鱼_xiaoxin,http://maomao.kandiantv.cn/douyu1.php?id=709710
 斗鱼_xiaoxin,http://epg.112114.eu.org/douyu/709710
 斗鱼_xiaoxin,http://159.75.85.63:35455/douyu/709710
 斗鱼_xiaoxin,http://huanqiuzhibo.cn/manifest/douyu.php?id=709710
@@ -4096,9 +4095,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_xiaoxin,http://diyp.112114.xyz/douyu/709710
 斗鱼_xiaoxin,http://121.36.35.255:8686/douyu/709710
 斗鱼_xiaoxin,http://www.lebaobei.top:35455/douyu/709710
+斗鱼_xiaoxin,http://maomao.kandiantv.cn/douyu1.php?id=709710
 斗鱼_xiaoxin,http://live.aptvapp.com/live/douyu/709710
 
-斗鱼_pigff,http://maomao.kandiantv.cn/douyu1.php?id=24422
 斗鱼_pigff,http://epg.112114.eu.org/douyu/24422
 斗鱼_pigff,http://159.75.85.63:35455/douyu/24422
 斗鱼_pigff,http://huanqiuzhibo.cn/manifest/douyu.php?id=24422
@@ -4108,9 +4107,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_pigff,http://diyp.112114.xyz/douyu/24422
 斗鱼_pigff,http://121.36.35.255:8686/douyu/24422
 斗鱼_pigff,http://www.lebaobei.top:35455/douyu/24422
+斗鱼_pigff,http://maomao.kandiantv.cn/douyu1.php?id=24422
 斗鱼_pigff,http://live.aptvapp.com/live/douyu/24422
 
-斗鱼_Zoe羊羊,http://maomao.kandiantv.cn/douyu1.php?id=11067592
 斗鱼_Zoe羊羊,http://epg.112114.eu.org/douyu/11067592
 斗鱼_Zoe羊羊,http://159.75.85.63:35455/douyu/11067592
 斗鱼_Zoe羊羊,http://huanqiuzhibo.cn/manifest/douyu.php?id=11067592
@@ -4120,9 +4119,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_Zoe羊羊,http://diyp.112114.xyz/douyu/11067592
 斗鱼_Zoe羊羊,http://121.36.35.255:8686/douyu/11067592
 斗鱼_Zoe羊羊,http://www.lebaobei.top:35455/douyu/11067592
+斗鱼_Zoe羊羊,http://maomao.kandiantv.cn/douyu1.php?id=11067592
 斗鱼_Zoe羊羊,http://live.aptvapp.com/live/douyu/11067592
 
-斗鱼_小艺mia,http://maomao.kandiantv.cn/douyu1.php?id=4662094
 斗鱼_小艺mia,http://epg.112114.eu.org/douyu/4662094
 斗鱼_小艺mia,http://159.75.85.63:35455/douyu/4662094
 斗鱼_小艺mia,http://huanqiuzhibo.cn/manifest/douyu.php?id=4662094
@@ -4132,9 +4131,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_小艺mia,http://diyp.112114.xyz/douyu/4662094
 斗鱼_小艺mia,http://121.36.35.255:8686/douyu/4662094
 斗鱼_小艺mia,http://www.lebaobei.top:35455/douyu/4662094
+斗鱼_小艺mia,http://maomao.kandiantv.cn/douyu1.php?id=4662094
 斗鱼_小艺mia,http://live.aptvapp.com/live/douyu/4662094
 
-斗鱼_iu可可曾,http://maomao.kandiantv.cn/douyu1.php?id=83816
 斗鱼_iu可可曾,http://epg.112114.eu.org/douyu/83816
 斗鱼_iu可可曾,http://159.75.85.63:35455/douyu/83816
 斗鱼_iu可可曾,http://huanqiuzhibo.cn/manifest/douyu.php?id=83816
@@ -4144,9 +4143,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_iu可可曾,http://diyp.112114.xyz/douyu/83816
 斗鱼_iu可可曾,http://121.36.35.255:8686/douyu/83816
 斗鱼_iu可可曾,http://www.lebaobei.top:35455/douyu/83816
+斗鱼_iu可可曾,http://maomao.kandiantv.cn/douyu1.php?id=83816
 斗鱼_iu可可曾,http://live.aptvapp.com/live/douyu/83816
 
-斗鱼_果小果,http://maomao.kandiantv.cn/douyu1.php?id=5556
 斗鱼_果小果,http://epg.112114.eu.org/douyu/5556
 斗鱼_果小果,http://159.75.85.63:35455/douyu/5556
 斗鱼_果小果,http://huanqiuzhibo.cn/manifest/douyu.php?id=5556
@@ -4156,9 +4155,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_果小果,http://diyp.112114.xyz/douyu/5556
 斗鱼_果小果,http://121.36.35.255:8686/douyu/5556
 斗鱼_果小果,http://www.lebaobei.top:35455/douyu/5556
+斗鱼_果小果,http://maomao.kandiantv.cn/douyu1.php?id=5556
 斗鱼_果小果,http://live.aptvapp.com/live/douyu/5556
 
-斗鱼_甜妹小给给,http://maomao.kandiantv.cn/douyu1.php?id=10193812
 斗鱼_甜妹小给给,http://epg.112114.eu.org/douyu/10193812
 斗鱼_甜妹小给给,http://159.75.85.63:35455/douyu/10193812
 斗鱼_甜妹小给给,http://huanqiuzhibo.cn/manifest/douyu.php?id=10193812
@@ -4168,9 +4167,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_甜妹小给给,http://diyp.112114.xyz/douyu/10193812
 斗鱼_甜妹小给给,http://121.36.35.255:8686/douyu/10193812
 斗鱼_甜妹小给给,http://www.lebaobei.top:35455/douyu/10193812
+斗鱼_甜妹小给给,http://maomao.kandiantv.cn/douyu1.php?id=10193812
 斗鱼_甜妹小给给,http://live.aptvapp.com/live/douyu/10193812
 
-斗鱼_钓钓Yooo,http://maomao.kandiantv.cn/douyu1.php?id=4913098
 斗鱼_钓钓Yooo,http://epg.112114.eu.org/douyu/4913098
 斗鱼_钓钓Yooo,http://159.75.85.63:35455/douyu/4913098
 斗鱼_钓钓Yooo,http://huanqiuzhibo.cn/manifest/douyu.php?id=4913098
@@ -4180,9 +4179,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_钓钓Yooo,http://diyp.112114.xyz/douyu/4913098
 斗鱼_钓钓Yooo,http://121.36.35.255:8686/douyu/4913098
 斗鱼_钓钓Yooo,http://www.lebaobei.top:35455/douyu/4913098
+斗鱼_钓钓Yooo,http://maomao.kandiantv.cn/douyu1.php?id=4913098
 斗鱼_钓钓Yooo,http://live.aptvapp.com/live/douyu/4913098
 
-斗鱼_唐6儿,http://maomao.kandiantv.cn/douyu1.php?id=10656528
 斗鱼_唐6儿,http://epg.112114.eu.org/douyu/10656528
 斗鱼_唐6儿,http://159.75.85.63:35455/douyu/10656528
 斗鱼_唐6儿,http://huanqiuzhibo.cn/manifest/douyu.php?id=10656528
@@ -4192,9 +4191,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_唐6儿,http://diyp.112114.xyz/douyu/10656528
 斗鱼_唐6儿,http://121.36.35.255:8686/douyu/10656528
 斗鱼_唐6儿,http://www.lebaobei.top:35455/douyu/10656528
+斗鱼_唐6儿,http://maomao.kandiantv.cn/douyu1.php?id=10656528
 斗鱼_唐6儿,http://live.aptvapp.com/live/douyu/10656528
 
-斗鱼_LisaQvQ,http://maomao.kandiantv.cn/douyu1.php?id=8439245
 斗鱼_LisaQvQ,http://epg.112114.eu.org/douyu/8439245
 斗鱼_LisaQvQ,http://159.75.85.63:35455/douyu/8439245
 斗鱼_LisaQvQ,http://huanqiuzhibo.cn/manifest/douyu.php?id=8439245
@@ -4204,9 +4203,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_LisaQvQ,http://diyp.112114.xyz/douyu/8439245
 斗鱼_LisaQvQ,http://121.36.35.255:8686/douyu/8439245
 斗鱼_LisaQvQ,http://www.lebaobei.top:35455/douyu/8439245
+斗鱼_LisaQvQ,http://maomao.kandiantv.cn/douyu1.php?id=8439245
 斗鱼_LisaQvQ,http://live.aptvapp.com/live/douyu/8439245
 
-斗鱼_Aegis丶Lin,http://maomao.kandiantv.cn/douyu1.php?id=1909897
 斗鱼_Aegis丶Lin,http://epg.112114.eu.org/douyu/1909897
 斗鱼_Aegis丶Lin,http://159.75.85.63:35455/douyu/1909897
 斗鱼_Aegis丶Lin,http://huanqiuzhibo.cn/manifest/douyu.php?id=1909897
@@ -4216,9 +4215,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_Aegis丶Lin,http://diyp.112114.xyz/douyu/1909897
 斗鱼_Aegis丶Lin,http://121.36.35.255:8686/douyu/1909897
 斗鱼_Aegis丶Lin,http://www.lebaobei.top:35455/douyu/1909897
+斗鱼_Aegis丶Lin,http://maomao.kandiantv.cn/douyu1.php?id=1909897
 斗鱼_Aegis丶Lin,http://live.aptvapp.com/live/douyu/1909897
 
-斗鱼_真栗,http://maomao.kandiantv.cn/douyu1.php?id=3187637
 斗鱼_真栗,http://epg.112114.eu.org/douyu/3187637
 斗鱼_真栗,http://159.75.85.63:35455/douyu/3187637
 斗鱼_真栗,http://huanqiuzhibo.cn/manifest/douyu.php?id=3187637
@@ -4228,9 +4227,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_真栗,http://diyp.112114.xyz/douyu/3187637
 斗鱼_真栗,http://121.36.35.255:8686/douyu/3187637
 斗鱼_真栗,http://www.lebaobei.top:35455/douyu/3187637
+斗鱼_真栗,http://maomao.kandiantv.cn/douyu1.php?id=3187637
 斗鱼_真栗,http://live.aptvapp.com/live/douyu/3187637
 
-斗鱼_鸽子她,http://maomao.kandiantv.cn/douyu1.php?id=236288
 斗鱼_鸽子她,http://epg.112114.eu.org/douyu/236288
 斗鱼_鸽子她,http://159.75.85.63:35455/douyu/236288
 斗鱼_鸽子她,http://huanqiuzhibo.cn/manifest/douyu.php?id=236288
@@ -4240,9 +4239,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_鸽子她,http://diyp.112114.xyz/douyu/236288
 斗鱼_鸽子她,http://121.36.35.255:8686/douyu/236288
 斗鱼_鸽子她,http://www.lebaobei.top:35455/douyu/236288
+斗鱼_鸽子她,http://maomao.kandiantv.cn/douyu1.php?id=236288
 斗鱼_鸽子她,http://live.aptvapp.com/live/douyu/236288
 
-斗鱼_茄子,http://maomao.kandiantv.cn/douyu1.php?id=9418
 斗鱼_茄子,http://epg.112114.eu.org/douyu/9418
 斗鱼_茄子,http://159.75.85.63:35455/douyu/9418
 斗鱼_茄子,http://huanqiuzhibo.cn/manifest/douyu.php?id=9418
@@ -4252,9 +4251,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_茄子,http://diyp.112114.xyz/douyu/9418
 斗鱼_茄子,http://121.36.35.255:8686/douyu/9418
 斗鱼_茄子,http://www.lebaobei.top:35455/douyu/9418
+斗鱼_茄子,http://maomao.kandiantv.cn/douyu1.php?id=9418
 斗鱼_茄子,http://live.aptvapp.com/live/douyu/9418
 
-斗鱼_咻咻满,http://maomao.kandiantv.cn/douyu1.php?id=8777
 斗鱼_咻咻满,http://epg.112114.eu.org/douyu/8777
 斗鱼_咻咻满,http://159.75.85.63:35455/douyu/8777
 斗鱼_咻咻满,http://huanqiuzhibo.cn/manifest/douyu.php?id=8777
@@ -4264,9 +4263,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_咻咻满,http://diyp.112114.xyz/douyu/8777
 斗鱼_咻咻满,http://121.36.35.255:8686/douyu/8777
 斗鱼_咻咻满,http://www.lebaobei.top:35455/douyu/8777
+斗鱼_咻咻满,http://maomao.kandiantv.cn/douyu1.php?id=8777
 斗鱼_咻咻满,http://live.aptvapp.com/live/douyu/8777
 
-斗鱼_二呆啾,http://maomao.kandiantv.cn/douyu1.php?id=5092355
 斗鱼_二呆啾,http://epg.112114.eu.org/douyu/5092355
 斗鱼_二呆啾,http://159.75.85.63:35455/douyu/5092355
 斗鱼_二呆啾,http://huanqiuzhibo.cn/manifest/douyu.php?id=5092355
@@ -4276,9 +4275,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_二呆啾,http://diyp.112114.xyz/douyu/5092355
 斗鱼_二呆啾,http://121.36.35.255:8686/douyu/5092355
 斗鱼_二呆啾,http://www.lebaobei.top:35455/douyu/5092355
+斗鱼_二呆啾,http://maomao.kandiantv.cn/douyu1.php?id=5092355
 斗鱼_二呆啾,http://live.aptvapp.com/live/douyu/5092355
 
-斗鱼_大肉嘎,http://maomao.kandiantv.cn/douyu1.php?id=1607787
 斗鱼_大肉嘎,http://epg.112114.eu.org/douyu/1607787
 斗鱼_大肉嘎,http://159.75.85.63:35455/douyu/1607787
 斗鱼_大肉嘎,http://huanqiuzhibo.cn/manifest/douyu.php?id=1607787
@@ -4288,9 +4287,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_大肉嘎,http://diyp.112114.xyz/douyu/1607787
 斗鱼_大肉嘎,http://121.36.35.255:8686/douyu/1607787
 斗鱼_大肉嘎,http://www.lebaobei.top:35455/douyu/1607787
+斗鱼_大肉嘎,http://maomao.kandiantv.cn/douyu1.php?id=1607787
 斗鱼_大肉嘎,http://live.aptvapp.com/live/douyu/1607787
 
-斗鱼_王幼金,http://maomao.kandiantv.cn/douyu1.php?id=4582220
 斗鱼_王幼金,http://epg.112114.eu.org/douyu/4582220
 斗鱼_王幼金,http://159.75.85.63:35455/douyu/4582220
 斗鱼_王幼金,http://huanqiuzhibo.cn/manifest/douyu.php?id=4582220
@@ -4300,9 +4299,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_王幼金,http://diyp.112114.xyz/douyu/4582220
 斗鱼_王幼金,http://121.36.35.255:8686/douyu/4582220
 斗鱼_王幼金,http://www.lebaobei.top:35455/douyu/4582220
+斗鱼_王幼金,http://maomao.kandiantv.cn/douyu1.php?id=4582220
 斗鱼_王幼金,http://live.aptvapp.com/live/douyu/4582220
 
-斗鱼_Minana呀,http://maomao.kandiantv.cn/douyu1.php?id=22619
 斗鱼_Minana呀,http://epg.112114.eu.org/douyu/22619
 斗鱼_Minana呀,http://159.75.85.63:35455/douyu/22619
 斗鱼_Minana呀,http://huanqiuzhibo.cn/manifest/douyu.php?id=22619
@@ -4312,9 +4311,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_Minana呀,http://diyp.112114.xyz/douyu/22619
 斗鱼_Minana呀,http://121.36.35.255:8686/douyu/22619
 斗鱼_Minana呀,http://www.lebaobei.top:35455/douyu/22619
+斗鱼_Minana呀,http://maomao.kandiantv.cn/douyu1.php?id=22619
 斗鱼_Minana呀,http://live.aptvapp.com/live/douyu/22619
 
-斗鱼_Chance喵,http://maomao.kandiantv.cn/douyu1.php?id=6495582
 斗鱼_Chance喵,http://epg.112114.eu.org/douyu/6495582
 斗鱼_Chance喵,http://159.75.85.63:35455/douyu/6495582
 斗鱼_Chance喵,http://huanqiuzhibo.cn/manifest/douyu.php?id=6495582
@@ -4324,9 +4323,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_Chance喵,http://diyp.112114.xyz/douyu/6495582
 斗鱼_Chance喵,http://121.36.35.255:8686/douyu/6495582
 斗鱼_Chance喵,http://www.lebaobei.top:35455/douyu/6495582
+斗鱼_Chance喵,http://maomao.kandiantv.cn/douyu1.php?id=6495582
 斗鱼_Chance喵,http://live.aptvapp.com/live/douyu/6495582
 
-斗鱼_奶言艾,http://maomao.kandiantv.cn/douyu1.php?id=7154189
 斗鱼_奶言艾,http://epg.112114.eu.org/douyu/7154189
 斗鱼_奶言艾,http://159.75.85.63:35455/douyu/7154189
 斗鱼_奶言艾,http://huanqiuzhibo.cn/manifest/douyu.php?id=7154189
@@ -4336,9 +4335,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_奶言艾,http://diyp.112114.xyz/douyu/7154189
 斗鱼_奶言艾,http://121.36.35.255:8686/douyu/7154189
 斗鱼_奶言艾,http://www.lebaobei.top:35455/douyu/7154189
+斗鱼_奶言艾,http://maomao.kandiantv.cn/douyu1.php?id=7154189
 斗鱼_奶言艾,http://live.aptvapp.com/live/douyu/7154189
 
-斗鱼_软不软,http://maomao.kandiantv.cn/douyu1.php?id=9207931
 斗鱼_软不软,http://epg.112114.eu.org/douyu/9207931
 斗鱼_软不软,http://159.75.85.63:35455/douyu/9207931
 斗鱼_软不软,http://huanqiuzhibo.cn/manifest/douyu.php?id=9207931
@@ -4348,9 +4347,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_软不软,http://diyp.112114.xyz/douyu/9207931
 斗鱼_软不软,http://121.36.35.255:8686/douyu/9207931
 斗鱼_软不软,http://www.lebaobei.top:35455/douyu/9207931
+斗鱼_软不软,http://maomao.kandiantv.cn/douyu1.php?id=9207931
 斗鱼_软不软,http://live.aptvapp.com/live/douyu/9207931
 
-斗鱼_阿沐沐OvO,http://maomao.kandiantv.cn/douyu1.php?id=6011317
 斗鱼_阿沐沐OvO,http://epg.112114.eu.org/douyu/6011317
 斗鱼_阿沐沐OvO,http://159.75.85.63:35455/douyu/6011317
 斗鱼_阿沐沐OvO,http://huanqiuzhibo.cn/manifest/douyu.php?id=6011317
@@ -4360,9 +4359,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_阿沐沐OvO,http://diyp.112114.xyz/douyu/6011317
 斗鱼_阿沐沐OvO,http://121.36.35.255:8686/douyu/6011317
 斗鱼_阿沐沐OvO,http://www.lebaobei.top:35455/douyu/6011317
+斗鱼_阿沐沐OvO,http://maomao.kandiantv.cn/douyu1.php?id=6011317
 斗鱼_阿沐沐OvO,http://live.aptvapp.com/live/douyu/6011317
 
-斗鱼_宋鲸儿,http://maomao.kandiantv.cn/douyu1.php?id=3583605
 斗鱼_宋鲸儿,http://epg.112114.eu.org/douyu/3583605
 斗鱼_宋鲸儿,http://159.75.85.63:35455/douyu/3583605
 斗鱼_宋鲸儿,http://huanqiuzhibo.cn/manifest/douyu.php?id=3583605
@@ -4372,9 +4371,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_宋鲸儿,http://diyp.112114.xyz/douyu/3583605
 斗鱼_宋鲸儿,http://121.36.35.255:8686/douyu/3583605
 斗鱼_宋鲸儿,http://www.lebaobei.top:35455/douyu/3583605
+斗鱼_宋鲸儿,http://maomao.kandiantv.cn/douyu1.php?id=3583605
 斗鱼_宋鲸儿,http://live.aptvapp.com/live/douyu/3583605
 
-斗鱼_点歌台1,http://maomao.kandiantv.cn/douyu1.php?id=3870925
 斗鱼_点歌台1,http://epg.112114.eu.org/douyu/3870925
 斗鱼_点歌台1,http://159.75.85.63:35455/douyu/3870925
 斗鱼_点歌台1,http://huanqiuzhibo.cn/manifest/douyu.php?id=3870925
@@ -4384,9 +4383,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_点歌台1,http://diyp.112114.xyz/douyu/3870925
 斗鱼_点歌台1,http://121.36.35.255:8686/douyu/3870925
 斗鱼_点歌台1,http://www.lebaobei.top:35455/douyu/3870925
+斗鱼_点歌台1,http://maomao.kandiantv.cn/douyu1.php?id=3870925
 斗鱼_点歌台1,http://live.aptvapp.com/live/douyu/3870925
 
-斗鱼_点歌台2,http://maomao.kandiantv.cn/douyu1.php?id=3186217
 斗鱼_点歌台2,http://epg.112114.eu.org/douyu/3186217
 斗鱼_点歌台2,http://159.75.85.63:35455/douyu/3186217
 斗鱼_点歌台2,http://huanqiuzhibo.cn/manifest/douyu.php?id=3186217
@@ -4396,9 +4395,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_点歌台2,http://diyp.112114.xyz/douyu/3186217
 斗鱼_点歌台2,http://121.36.35.255:8686/douyu/3186217
 斗鱼_点歌台2,http://www.lebaobei.top:35455/douyu/3186217
+斗鱼_点歌台2,http://maomao.kandiantv.cn/douyu1.php?id=3186217
 斗鱼_点歌台2,http://live.aptvapp.com/live/douyu/3186217
 
-斗鱼_音乐FHD,http://maomao.kandiantv.cn/douyu1.php?id=9588891
 斗鱼_音乐FHD,http://epg.112114.eu.org/douyu/9588891
 斗鱼_音乐FHD,http://159.75.85.63:35455/douyu/9588891
 斗鱼_音乐FHD,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891
@@ -4408,9 +4407,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_音乐FHD,http://diyp.112114.xyz/douyu/9588891
 斗鱼_音乐FHD,http://121.36.35.255:8686/douyu/9588891
 斗鱼_音乐FHD,http://www.lebaobei.top:35455/douyu/9588891
+斗鱼_音乐FHD,http://maomao.kandiantv.cn/douyu1.php?id=9588891
 斗鱼_音乐FHD,http://live.aptvapp.com/live/douyu/9588891
 
-斗鱼_李子柒,http://maomao.kandiantv.cn/douyu1.php?id=2901080
 斗鱼_李子柒,http://epg.112114.eu.org/douyu/2901080
 斗鱼_李子柒,http://159.75.85.63:35455/douyu/2901080
 斗鱼_李子柒,http://huanqiuzhibo.cn/manifest/douyu.php?id=2901080
@@ -4420,9 +4419,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_李子柒,http://diyp.112114.xyz/douyu/2901080
 斗鱼_李子柒,http://121.36.35.255:8686/douyu/2901080
 斗鱼_李子柒,http://www.lebaobei.top:35455/douyu/2901080
+斗鱼_李子柒,http://maomao.kandiantv.cn/douyu1.php?id=2901080
 斗鱼_李子柒,http://live.aptvapp.com/live/douyu/2901080
 
-斗鱼_苗大冬,http://maomao.kandiantv.cn/douyu1.php?id=8067328
 斗鱼_苗大冬,http://epg.112114.eu.org/douyu/8067328
 斗鱼_苗大冬,http://159.75.85.63:35455/douyu/8067328
 斗鱼_苗大冬,http://huanqiuzhibo.cn/manifest/douyu.php?id=8067328
@@ -4432,9 +4431,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_苗大冬,http://diyp.112114.xyz/douyu/8067328
 斗鱼_苗大冬,http://121.36.35.255:8686/douyu/8067328
 斗鱼_苗大冬,http://www.lebaobei.top:35455/douyu/8067328
+斗鱼_苗大冬,http://maomao.kandiantv.cn/douyu1.php?id=8067328
 斗鱼_苗大冬,http://live.aptvapp.com/live/douyu/8067328
 
-斗鱼_郭杰瑞,http://maomao.kandiantv.cn/douyu1.php?id=7357786
 斗鱼_郭杰瑞,http://epg.112114.eu.org/douyu/7357786
 斗鱼_郭杰瑞,http://159.75.85.63:35455/douyu/7357786
 斗鱼_郭杰瑞,http://huanqiuzhibo.cn/manifest/douyu.php?id=7357786
@@ -4444,9 +4443,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_郭杰瑞,http://diyp.112114.xyz/douyu/7357786
 斗鱼_郭杰瑞,http://121.36.35.255:8686/douyu/7357786
 斗鱼_郭杰瑞,http://www.lebaobei.top:35455/douyu/7357786
+斗鱼_郭杰瑞,http://maomao.kandiantv.cn/douyu1.php?id=7357786
 斗鱼_郭杰瑞,http://live.aptvapp.com/live/douyu/7357786
 
-斗鱼_滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
 斗鱼_滇西小哥,http://epg.112114.eu.org/douyu/3243427
 斗鱼_滇西小哥,http://159.75.85.63:35455/douyu/3243427
 斗鱼_滇西小哥,http://huanqiuzhibo.cn/manifest/douyu.php?id=3243427
@@ -4456,9 +4455,9 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_滇西小哥,http://diyp.112114.xyz/douyu/3243427
 斗鱼_滇西小哥,http://121.36.35.255:8686/douyu/3243427
 斗鱼_滇西小哥,http://www.lebaobei.top:35455/douyu/3243427
+斗鱼_滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
 斗鱼_滇西小哥,http://live.aptvapp.com/live/douyu/3243427
 
-斗鱼_绵羊料理,http://maomao.kandiantv.cn/douyu1.php?id=2090684
 斗鱼_绵羊料理,http://epg.112114.eu.org/douyu/2090684
 斗鱼_绵羊料理,http://159.75.85.63:35455/douyu/2090684
 斗鱼_绵羊料理,http://huanqiuzhibo.cn/manifest/douyu.php?id=2090684
@@ -4468,6 +4467,7 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 斗鱼_绵羊料理,http://diyp.112114.xyz/douyu/2090684
 斗鱼_绵羊料理,http://121.36.35.255:8686/douyu/2090684
 斗鱼_绵羊料理,http://www.lebaobei.top:35455/douyu/2090684
+斗鱼_绵羊料理,http://maomao.kandiantv.cn/douyu1.php?id=2090684
 斗鱼_绵羊料理,http://live.aptvapp.com/live/douyu/2090684
 
 虎牙_音乐石榴,http://159.75.85.63:35455/huya/17091681
