@@ -1506,12 +1506,12 @@ CCTV央视台球,http://111.20.40.173/PLTV/88888893/224/3221226956/index.m3u8
 SiTV劲爆体育,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 SiTV劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 SiTV劲爆体育,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000
-五星体育,http://47.96.28.91:7001/m3u8/best_ip?id=wxty&ip=58.144.154.126:80/liveplay-kk.rtxapp.com&v=forplayerfree
 五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 五星体育,http://223.109.33.33/tencent-upcloud-live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000
 五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 五星体育,http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+五星体育,http://47.96.28.91:7001/m3u8/best_ip?id=wxty&ip=58.144.154.126:80/liveplay-kk.rtxapp.com&v=forplayerfree
 五星体育,http://cfss.cc/ds/bst.php?id=Cf-54
 五星体育greatsports,http://live.cooltv.top/tv/bestv.php?id=40
 SiTV魅力足球,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
