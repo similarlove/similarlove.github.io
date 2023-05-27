@@ -2334,14 +2334,14 @@ bili_电影轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=21448296
 虎牙_八点档,http://live.aptvapp.com/live/huya/880261
 
 YY_电影轮播,http://data.3g.yy.com/live/hls/1353059120/1353059120
-YY_电影轮播,http://106.53.212.251:80/daili/yy.php?id=1353059120
-YY_电影轮播,http://maomao.kandiantv.cn/yy.php?id=1353059120
-YY_电影轮播,http://mmitv.top/pltv/yy.php?id=1353059120
 YY_电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
 YY_电影轮播,http://dl.zhoujie218.top/dl/yy.php?id=1353059120
+YY_电影轮播,http://maomao.kandiantv.cn/yy.php?id=1353059120
+YY_电影轮播,http://mmitv.top/pltv/yy.php?id=1353059120
 YY_电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353059120
 YY_电影轮播,http://kkiptv.hk3.20212021.ml/yy.php?id=1353059120
 YY_电影轮播,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353059120
+YY_电影轮播,http://106.53.212.251:80/daili/yy.php?id=1353059120
 
 bili_鬼片轮播,http://epg.112114.xyz/bili/193
 bili_鬼片轮播,http://159.75.85.63:35455/bilibili/193?line=first
@@ -2391,25 +2391,24 @@ bili_鬼片轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=193
 虎牙_鬼片轮播,http://live.aptvapp.com/live/huya/11342421
 
 YY_鬼片轮播1,http://data.3g.yy.com/live/hls/1351505899/1353685311
-YY_鬼片轮播1,http://106.53.212.251:80/daili/yy.php?id=1353685311
-YY_鬼片轮播1,http://maomao.kandiantv.cn/yy.php?id=1353685311
-YY_鬼片轮播1,http://mmitv.top/pltv/yy.php?id=1353685311
 YY_鬼片轮播1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
 YY_鬼片轮播1,http://dl.zhoujie218.top/dl/yy.php?id=1353685311
+YY_鬼片轮播1,http://maomao.kandiantv.cn/yy.php?id=1353685311
+YY_鬼片轮播1,http://mmitv.top/pltv/yy.php?id=1353685311
 YY_鬼片轮播1,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353685311
 YY_鬼片轮播1,http://kkiptv.hk3.20212021.ml/yy.php?id=1353685311
 YY_鬼片轮播1,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353685311
+YY_鬼片轮播1,http://106.53.212.251:80/daili/yy.php?id=1353685311
 
 YY_鬼片轮播2,http://data.3g.yy.com/live/hls/1351505899/1351505899
-YY_鬼片轮播2,http://106.53.212.251:80/daili/yy.php?id=1351505899
-YY_鬼片轮播2,http://maomao.kandiantv.cn/yy.php?id=1351505899
-YY_鬼片轮播2,http://mmitv.top/pltv/yy.php?id=1351505899
 YY_鬼片轮播2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 YY_鬼片轮播2,http://dl.zhoujie218.top/dl/yy.php?id=1351505899
+YY_鬼片轮播2,http://maomao.kandiantv.cn/yy.php?id=1351505899
+YY_鬼片轮播2,http://mmitv.top/pltv/yy.php?id=1351505899
 YY_鬼片轮播2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
 YY_鬼片轮播2,http://kkiptv.hk3.20212021.ml/yy.php?id=1351505899
 YY_鬼片轮播2,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351505899
-
+YY_鬼片轮播2,http://106.53.212.251:80/daili/yy.php?id=1351505899
 
 虎牙_周星驰,http://159.75.85.63:35455/huya/11342412
 虎牙_周星驰,http://epg.112114.xyz/huya/11342412
@@ -2427,14 +2426,14 @@ YY_鬼片轮播2,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351505899
 虎牙_周星驰,http://live.aptvapp.com/live/huya/11342412
 
 YY_周星驰,http://data.3g.yy.com/live/hls/1353881242/1353881242
-YY_周星驰,http://106.53.212.251:80/daili/yy.php?id=1353881242
-YY_周星驰,http://maomao.kandiantv.cn/yy.php?id=1353881242
-YY_周星驰,http://mmitv.top/pltv/yy.php?id=1353881242
 YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
 YY_周星驰,http://dl.zhoujie218.top/dl/yy.php?id=1353881242
+YY_周星驰,http://maomao.kandiantv.cn/yy.php?id=1353881242
+YY_周星驰,http://mmitv.top/pltv/yy.php?id=1353881242
 YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353881242
 YY_周星驰,http://kkiptv.hk3.20212021.ml/yy.php?id=1353881242
 YY_周星驰,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353881242
+YY_周星驰,http://106.53.212.251:80/daili/yy.php?id=1353881242
 
 咪咕_吴京,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw2905320336_-460304639/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523123921&ContentId=265219090&timezone=UTC&mtv_session=658c73606b7c67630707b287d49a8d58&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8821b7d3e4c3271a1731276d0b6c4a3b
 咪咕_吴京,http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw2163858470_-1385286039/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502043758&ContentId=265219090&timezone=UTC&mtv_session=eb339490deac2ea0dbc4988aa85690f7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cd4ad290beeaec01b8424999f6ab44fa
@@ -2455,14 +2454,14 @@ YY_周星驰,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353881242
 虎牙_成龙,http://live.aptvapp.com/live/huya/11342386
 
 YY_成龙,http://data.3g.yy.com/live/hls/1354888751/1354888751
-YY_成龙,http://106.53.212.251:80/daili/yy.php?id=1354888751
-YY_成龙,http://maomao.kandiantv.cn/yy.php?id=1354888751
-YY_成龙,http://mmitv.top/pltv/yy.php?id=1354888751
 YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751
 YY_成龙,http://dl.zhoujie218.top/dl/yy.php?id=1354888751
+YY_成龙,http://maomao.kandiantv.cn/yy.php?id=1354888751
+YY_成龙,http://mmitv.top/pltv/yy.php?id=1354888751
 YY_成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 YY_成龙,http://kkiptv.hk3.20212021.ml/yy.php?id=1354888751
 YY_成龙,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354888751
+YY_成龙,http://106.53.212.251:80/daili/yy.php?id=1354888751
 
 虎牙_洪金宝,http://159.75.85.63:35455/huya/11279251
 虎牙_洪金宝,http://epg.112114.xyz/huya/11279251
@@ -2596,24 +2595,25 @@ YY_成龙,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354888751
 斗鱼_科幻电影,http://live.aptvapp.com/live/douyu/20415
 
 YY_欧美科幻,http://data.3g.yy.com/live/hls/37988782/37988782
-YY_欧美科幻,http://106.53.212.251:80/daili/yy.php?id=37988782
-YY_欧美科幻,http://maomao.kandiantv.cn/yy.php?id=37988782
-YY_欧美科幻,http://mmitv.top/pltv/yy.php?id=37988782
 YY_欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
 YY_欧美科幻,http://dl.zhoujie218.top/dl/yy.php?id=37988782
+YY_欧美科幻,http://maomao.kandiantv.cn/yy.php?id=37988782
+YY_欧美科幻,http://mmitv.top/pltv/yy.php?id=37988782
 YY_欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=37988782
 YY_欧美科幻,http://kkiptv.hk3.20212021.ml/yy.php?id=37988782
 YY_欧美科幻,http://luotuo.ycchenrong.cn/dl/yy.php?id=37988782
+YY_欧美科幻,http://106.53.212.251:80/daili/yy.php?id=37988782
 
 YY_欧美电影,http://data.3g.yy.com/live/hls/24923327/24923327
-YY_欧美电影,http://106.53.212.251:80/daili/yy.php?id=24923327
-YY_欧美电影,http://maomao.kandiantv.cn/yy.php?id=24923327
-YY_欧美电影,http://mmitv.top/pltv/yy.php?id=24923327
 YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 YY_欧美电影,http://dl.zhoujie218.top/dl/yy.php?id=24923327
+YY_欧美电影,http://maomao.kandiantv.cn/yy.php?id=24923327
+YY_欧美电影,http://mmitv.top/pltv/yy.php?id=24923327
 YY_欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=24923327
 YY_欧美电影,http://kkiptv.hk3.20212021.ml/yy.php?id=24923327
 YY_欧美电影,http://luotuo.ycchenrong.cn/dl/yy.php?id=24923327
+YY_欧美电影,http://106.53.212.251:80/daili/yy.php?id=24923327
+
 
 四大名著,#genre#
 
@@ -2629,13 +2629,14 @@ YY_欧美电影,http://luotuo.ycchenrong.cn/dl/yy.php?id=24923327
 斗鱼_西游记,http://maomao.kandiantv.cn/douyu1.php?id=5472438
 斗鱼_西游记,http://live.aptvapp.com/live/douyu/5472438
 
-bili_西游记,http://epg.112114.xyz/bili/27452647
-bili_西游记,http://159.75.85.63:35455/bilibili/27452647?line=first
-bili_西游记,http://diyp.112114.xyz/bili/27452647
-bili_西游记,http://jiandjh.51vip.biz:35455/bilibili/27452647?line=first
-bili_西游记,http://epg.112114.eu.org/bili/27452647
-bili_西游记,http://121.36.35.255:8686/bilibili/27452647?line=first
-bili_西游记,http://luotuo.ycchenrong.cn/dl/bili.php?id=27452647
+bili_西游记,https://cn-hbyc-ct-02-18.bilivideo.com/live-bvc/820633/live_52370715_1734265/index.m3u8
+bili_西游记,http://epg.112114.xyz/bili/1929865
+bili_西游记,http://159.75.85.63:35455/bilibili/1929865?line=first
+bili_西游记,http://diyp.112114.xyz/bili/1929865
+bili_西游记,http://jiandjh.51vip.biz:35455/bilibili/1929865?line=first
+bili_西游记,http://epg.112114.eu.org/bili/1929865
+bili_西游记,http://121.36.35.255:8686/bilibili/1929865?line=first
+bili_西游记,http://luotuo.ycchenrong.cn/dl/bili.php?id=1929865
 
 斗鱼_西游记续,http://epg.112114.xyz/douyu/3113309
 斗鱼_西游记续,http://159.75.85.63:35455/douyu/3113309
@@ -2735,24 +2736,24 @@ bili_红楼梦,http://121.36.35.255:8686/bilibili/5568482?line=first
 bili_红楼梦,http://luotuo.ycchenrong.cn/dl/bili.php?id=5568482
 
 YY_红楼梦,http://data.3g.yy.com/live/hls/1382745084/1382745084
-YY_红楼梦,http://106.53.212.251:80/daili/yy.php?id=1382745084
-YY_红楼梦,http://maomao.kandiantv.cn/yy.php?id=1382745084
-YY_红楼梦,http://mmitv.top/pltv/yy.php?id=1382745084
 YY_红楼梦,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745084
 YY_红楼梦,http://dl.zhoujie218.top/dl/yy.php?id=1382745084
+YY_红楼梦,http://maomao.kandiantv.cn/yy.php?id=1382745084
+YY_红楼梦,http://mmitv.top/pltv/yy.php?id=1382745084
 YY_红楼梦,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745084
 YY_红楼梦,http://kkiptv.hk3.20212021.ml/yy.php?id=1382745084
 YY_红楼梦,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745084
+YY_红楼梦,http://106.53.212.251:80/daili/yy.php?id=1382745084
 
 YY_TVB西游记Ⅰ,http://data.3g.yy.com/live/hls/1354936155/1354936155
-YY_TVB西游记Ⅰ,http://106.53.212.251:80/daili/yy.php?id=1354936155
-YY_TVB西游记Ⅰ,http://maomao.kandiantv.cn/yy.php?id=1354936155
-YY_TVB西游记Ⅰ,http://mmitv.top/pltv/yy.php?id=1354936155
 YY_TVB西游记Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936155
 YY_TVB西游记Ⅰ,http://dl.zhoujie218.top/dl/yy.php?id=1354936155
+YY_TVB西游记Ⅰ,http://maomao.kandiantv.cn/yy.php?id=1354936155
+YY_TVB西游记Ⅰ,http://mmitv.top/pltv/yy.php?id=1354936155
 YY_TVB西游记Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354936155
 YY_TVB西游记Ⅰ,http://kkiptv.hk3.20212021.ml/yy.php?id=1354936155
 YY_TVB西游记Ⅰ,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354936155
+YY_TVB西游记Ⅰ,http://106.53.212.251:80/daili/yy.php?id=1354936155
 
 虎牙_TVB西游记Ⅱ,http://159.75.85.63:35455/huya/23735126
 虎牙_TVB西游记Ⅱ,http://epg.112114.xyz/huya/23735126
@@ -2771,14 +2772,14 @@ YY_TVB西游记Ⅰ,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354936155
 
 神话仙侠,#genre#
 YY_85版济公,http://data.3g.yy.com/live/hls/25519088/25519088
-YY_85版济公,http://106.53.212.251:80/daili/yy.php?id=25519088
-YY_85版济公,http://maomao.kandiantv.cn/yy.php?id=25519088
-YY_85版济公,http://mmitv.top/pltv/yy.php?id=25519088
 YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=25519088
 YY_85版济公,http://dl.zhoujie218.top/dl/yy.php?id=25519088
+YY_85版济公,http://maomao.kandiantv.cn/yy.php?id=25519088
+YY_85版济公,http://mmitv.top/pltv/yy.php?id=25519088
 YY_85版济公,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=25519088
 YY_85版济公,http://kkiptv.hk3.20212021.ml/yy.php?id=25519088
 YY_85版济公,http://luotuo.ycchenrong.cn/dl/yy.php?id=25519088
+YY_85版济公,http://106.53.212.251:80/daili/yy.php?id=25519088
 
 虎牙_TVB封神榜,http://159.75.85.63:35455/huya/23749096
 虎牙_TVB封神榜,http://epg.112114.xyz/huya/23749096
@@ -2826,24 +2827,24 @@ YY_85版济公,http://luotuo.ycchenrong.cn/dl/yy.php?id=25519088
 虎牙_魔幻手机,http://live.aptvapp.com/live/huya/11352966
 
 YY_魔幻手机,http://data.3g.yy.com/live/hls/1382735544/1382735544
-YY_魔幻手机,http://106.53.212.251:80/daili/yy.php?id=1382735544
-YY_魔幻手机,http://maomao.kandiantv.cn/yy.php?id=1382735544
-YY_魔幻手机,http://mmitv.top/pltv/yy.php?id=1382735544
 YY_魔幻手机,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735544
 YY_魔幻手机,http://dl.zhoujie218.top/dl/yy.php?id=1382735544
+YY_魔幻手机,http://maomao.kandiantv.cn/yy.php?id=1382735544
+YY_魔幻手机,http://mmitv.top/pltv/yy.php?id=1382735544
 YY_魔幻手机,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382735544
 YY_魔幻手机,http://kkiptv.hk3.20212021.ml/yy.php?id=1382735544
 YY_魔幻手机,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382735544
+YY_魔幻手机,http://106.53.212.251:80/daili/yy.php?id=1382735544
 
 YY_聊斋,http://data.3g.yy.com/live/hls/1382736975/1382736975
-YY_聊斋,http://106.53.212.251:80/daili/yy.php?id=1382736975
-YY_聊斋,http://maomao.kandiantv.cn/yy.php?id=1382736975
-YY_聊斋,http://mmitv.top/pltv/yy.php?id=1382736975
 YY_聊斋,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736975
 YY_聊斋,http://dl.zhoujie218.top/dl/yy.php?id=1382736975
+YY_聊斋,http://maomao.kandiantv.cn/yy.php?id=1382736975
+YY_聊斋,http://mmitv.top/pltv/yy.php?id=1382736975
 YY_聊斋,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736975
 YY_聊斋,http://kkiptv.hk3.20212021.ml/yy.php?id=1382736975
 YY_聊斋,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382736975
+YY_聊斋,http://106.53.212.251:80/daili/yy.php?id=1382736975
 
 虎牙_陈版活佛济公,http://159.75.85.63:35455/huya/11342400
 虎牙_陈版活佛济公,http://epg.112114.xyz/huya/11342400
@@ -2873,24 +2874,25 @@ YY_聊斋,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382736975
 斗鱼_风云,http://live.aptvapp.com/live/douyu/9290755
 
 YY_仙剑奇侠传Ⅰ,http://data.3g.yy.com/live/hls/1382749903/1382749903
-YY_仙剑奇侠传Ⅰ,http://106.53.212.251:80/daili/yy.php?id=1382749903
-YY_仙剑奇侠传Ⅰ,http://maomao.kandiantv.cn/yy.php?id=1382749903
-YY_仙剑奇侠传Ⅰ,http://mmitv.top/pltv/yy.php?id=1382749903
 YY_仙剑奇侠传Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749903
 YY_仙剑奇侠传Ⅰ,http://dl.zhoujie218.top/dl/yy.php?id=1382749903
+YY_仙剑奇侠传Ⅰ,http://maomao.kandiantv.cn/yy.php?id=1382749903
+YY_仙剑奇侠传Ⅰ,http://mmitv.top/pltv/yy.php?id=1382749903
 YY_仙剑奇侠传Ⅰ,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382749903
 YY_仙剑奇侠传Ⅰ,http://kkiptv.hk3.20212021.ml/yy.php?id=1382749903
 YY_仙剑奇侠传Ⅰ,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382749903
+YY_仙剑奇侠传Ⅰ,http://106.53.212.251:80/daili/yy.php?id=1382749903
 
 YY_僵尸道长,http://data.3g.yy.com/live/hls/1355720895/1355720895
-YY_僵尸道长,http://106.53.212.251:80/daili/yy.php?id=1355720895
-YY_僵尸道长,http://maomao.kandiantv.cn/yy.php?id=1355720895
-YY_僵尸道长,http://mmitv.top/pltv/yy.php?id=1355720895
 YY_僵尸道长,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355720895
 YY_僵尸道长,http://dl.zhoujie218.top/dl/yy.php?id=1355720895
+YY_僵尸道长,http://maomao.kandiantv.cn/yy.php?id=1355720895
+YY_僵尸道长,http://mmitv.top/pltv/yy.php?id=1355720895
 YY_僵尸道长,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1355720895
 YY_僵尸道长,http://kkiptv.hk3.20212021.ml/yy.php?id=1355720895
 YY_僵尸道长,http://luotuo.ycchenrong.cn/dl/yy.php?id=1355720895
+YY_僵尸道长,http://106.53.212.251:80/daili/yy.php?id=1355720895
+
 
 武侠经典,#genre#
 咪咕_金庸作品,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw2946760205_-1756651810/wd_r2/virtuallive/5100181876/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523124002&ContentId=265218834&timezone=UTC&mtv_session=d7e5387f0d10f2664848550dc02f5fe0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d5e7b4b06ca8958c5cadfa5f207253f7
@@ -3048,14 +3050,15 @@ bili_陆小凤传奇,http://luotuo.ycchenrong.cn/dl/bili.php?id=23108922
 虎牙_寻秦记,http://live.aptvapp.com/live/huya/23864973
 
 YY_天下第一,http://data.3g.yy.com/live/hls/1354780649/1354780649
-YY_天下第一,http://106.53.212.251:80/daili/yy.php?id=1354780649
-YY_天下第一,http://maomao.kandiantv.cn/yy.php?id=1354780649
-YY_天下第一,http://mmitv.top/pltv/yy.php?id=1354780649
 YY_天下第一,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354780649
 YY_天下第一,http://dl.zhoujie218.top/dl/yy.php?id=1354780649
+YY_天下第一,http://maomao.kandiantv.cn/yy.php?id=1354780649
+YY_天下第一,http://mmitv.top/pltv/yy.php?id=1354780649
 YY_天下第一,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354780649
 YY_天下第一,http://kkiptv.hk3.20212021.ml/yy.php?id=1354780649
 YY_天下第一,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354780649
+YY_天下第一,http://106.53.212.251:80/daili/yy.php?id=1354780649
+
 
 王朝悬疑,#genre#
 
@@ -3114,14 +3117,14 @@ YY_天下第一,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354780649
 虎牙_大秦赋,http://live.aptvapp.com/live/huya/11352881
 
 YY_隋唐英雄传,http://data.3g.yy.com/live/hls/1352475619/1352475619
-YY_隋唐英雄传,http://106.53.212.251:80/daili/yy.php?id=1352475619
-YY_隋唐英雄传,http://maomao.kandiantv.cn/yy.php?id=1352475619
-YY_隋唐英雄传,http://mmitv.top/pltv/yy.php?id=1352475619
 YY_隋唐英雄传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352475619
 YY_隋唐英雄传,http://dl.zhoujie218.top/dl/yy.php?id=1352475619
+YY_隋唐英雄传,http://maomao.kandiantv.cn/yy.php?id=1352475619
+YY_隋唐英雄传,http://mmitv.top/pltv/yy.php?id=1352475619
 YY_隋唐英雄传,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1352475619
 YY_隋唐英雄传,http://kkiptv.hk3.20212021.ml/yy.php?id=1352475619
 YY_隋唐英雄传,http://luotuo.ycchenrong.cn/dl/yy.php?id=1352475619
+YY_隋唐英雄传,http://106.53.212.251:80/daili/yy.php?id=1352475619
 
 斗鱼_神话,http://epg.112114.xyz/douyu/5448413
 斗鱼_神话,http://159.75.85.63:35455/douyu/5448413
@@ -3136,14 +3139,14 @@ YY_隋唐英雄传,http://luotuo.ycchenrong.cn/dl/yy.php?id=1352475619
 斗鱼_神话,http://live.aptvapp.com/live/douyu/5448413
 
 YY_美人心计,http://data.3g.yy.com/live/hls/21881901/21881901
-YY_美人心计,http://106.53.212.251:80/daili/yy.php?id=21881901
-YY_美人心计,http://maomao.kandiantv.cn/yy.php?id=21881901
-YY_美人心计,http://mmitv.top/pltv/yy.php?id=21881901
 YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=21881901
 YY_美人心计,http://dl.zhoujie218.top/dl/yy.php?id=21881901
+YY_美人心计,http://maomao.kandiantv.cn/yy.php?id=21881901
+YY_美人心计,http://mmitv.top/pltv/yy.php?id=21881901
 YY_美人心计,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=21881901
 YY_美人心计,http://kkiptv.hk3.20212021.ml/yy.php?id=21881901
 YY_美人心计,http://luotuo.ycchenrong.cn/dl/yy.php?id=21881901
+YY_美人心计,http://106.53.212.251:80/daili/yy.php?id=21881901
 
 斗鱼_狄仁杰,http://epg.112114.xyz/douyu/6027991
 斗鱼_狄仁杰,http://159.75.85.63:35455/douyu/6027991
@@ -3200,14 +3203,14 @@ YY_美人心计,http://luotuo.ycchenrong.cn/dl/yy.php?id=21881901
 斗鱼_朱元璋,http://live.aptvapp.com/live/douyu/308752
 
 YY_大明王朝1566,http://data.3g.yy.com/live/hls/1382736879/1382736879
-YY_大明王朝1566,http://106.53.212.251:80/daili/yy.php?id=1382736879
-YY_大明王朝1566,http://maomao.kandiantv.cn/yy.php?id=1382736879
-YY_大明王朝1566,http://mmitv.top/pltv/yy.php?id=1382736879
 YY_大明王朝1566,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736879
 YY_大明王朝1566,http://dl.zhoujie218.top/dl/yy.php?id=1382736879
+YY_大明王朝1566,http://maomao.kandiantv.cn/yy.php?id=1382736879
+YY_大明王朝1566,http://mmitv.top/pltv/yy.php?id=1382736879
 YY_大明王朝1566,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736879
 YY_大明王朝1566,http://kkiptv.hk3.20212021.ml/yy.php?id=1382736879
 YY_大明王朝1566,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382736879
+YY_大明王朝1566,http://106.53.212.251:80/daili/yy.php?id=1382736879
 
 虎牙_康熙王朝,http://159.75.85.63:35455/huya/11352940
 虎牙_康熙王朝,http://epg.112114.xyz/huya/11352940
@@ -3249,14 +3252,14 @@ bili_雍正王朝,http://luotuo.ycchenrong.cn/dl/bili.php?id=26969370
 虎牙_雍正王朝,http://live.aptvapp.com/live/huya/11342439
 
 YY_宰相刘罗锅,http://data.3g.yy.com/live/hls/1382745191/1382745191
-YY_宰相刘罗锅,http://106.53.212.251:80/daili/yy.php?id=1382745191
-YY_宰相刘罗锅,http://maomao.kandiantv.cn/yy.php?id=1382745191
-YY_宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
 YY_宰相刘罗锅,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745191
 YY_宰相刘罗锅,http://dl.zhoujie218.top/dl/yy.php?id=1382745191
+YY_宰相刘罗锅,http://maomao.kandiantv.cn/yy.php?id=1382745191
+YY_宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
 YY_宰相刘罗锅,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745191
 YY_宰相刘罗锅,http://kkiptv.hk3.20212021.ml/yy.php?id=1382745191
 YY_宰相刘罗锅,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745191
+YY_宰相刘罗锅,http://106.53.212.251:80/daili/yy.php?id=1382745191
 
 bili_纪晓岚,https://cn-hnld-ct-01-23.bilivideo.com/live-bvc/741214/live_391663120_60721084_bluray/index.m3u8
 bili_纪晓岚,http://epg.112114.xyz/bili/23900931
@@ -3309,14 +3312,14 @@ bili_康熙微服私访记,http://luotuo.ycchenrong.cn/dl/bili.php?id=25860180
 
 抗日&其它,#genre#
 YY_80版上海滩,http://data.3g.yy.com/live/hls/1382745184/1382745184
-YY_80版上海滩,http://106.53.212.251:80/daili/yy.php?id=1382745184
-YY_80版上海滩,http://maomao.kandiantv.cn/yy.php?id=1382745184
-YY_80版上海滩,http://mmitv.top/pltv/yy.php?id=1382745184
 YY_80版上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745184
 YY_80版上海滩,http://dl.zhoujie218.top/dl/yy.php?id=1382745184
+YY_80版上海滩,http://maomao.kandiantv.cn/yy.php?id=1382745184
+YY_80版上海滩,http://mmitv.top/pltv/yy.php?id=1382745184
 YY_80版上海滩,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382745184
 YY_80版上海滩,http://kkiptv.hk3.20212021.ml/yy.php?id=1382745184
 YY_80版上海滩,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745184
+YY_80版上海滩,http://106.53.212.251:80/daili/yy.php?id=1382745184
 
 斗鱼_抗日剧,http://epg.112114.xyz/douyu/3337730
 斗鱼_抗日剧,http://159.75.85.63:35455/douyu/3337730
@@ -3343,44 +3346,44 @@ YY_80版上海滩,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382745184
 斗鱼_永不磨灭的番号,http://live.aptvapp.com/live/douyu/8157860
 
 YY_小兵张嘎,http://data.3g.yy.com/live/hls/1354930225/1354930225
-YY_小兵张嘎,http://106.53.212.251:80/daili/yy.php?id=1354930225
-YY_小兵张嘎,http://maomao.kandiantv.cn/yy.php?id=1354930225
-YY_小兵张嘎,http://mmitv.top/pltv/yy.php?id=1354930225
 YY_小兵张嘎,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930225
 YY_小兵张嘎,http://dl.zhoujie218.top/dl/yy.php?id=1354930225
+YY_小兵张嘎,http://maomao.kandiantv.cn/yy.php?id=1354930225
+YY_小兵张嘎,http://mmitv.top/pltv/yy.php?id=1354930225
 YY_小兵张嘎,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354930225
 YY_小兵张嘎,http://kkiptv.hk3.20212021.ml/yy.php?id=1354930225
 YY_小兵张嘎,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354930225
+YY_小兵张嘎,http://106.53.212.251:80/daili/yy.php?id=1354930225
 
 YY_伪装者,http://data.3g.yy.com/live/hls/1345494225/1345494225
-YY_伪装者,http://106.53.212.251:80/daili/yy.php?id=1345494225
-YY_伪装者,http://maomao.kandiantv.cn/yy.php?id=1345494225
-YY_伪装者,http://mmitv.top/pltv/yy.php?id=1345494225
 YY_伪装者,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1345494225
 YY_伪装者,http://dl.zhoujie218.top/dl/yy.php?id=1345494225
+YY_伪装者,http://maomao.kandiantv.cn/yy.php?id=1345494225
+YY_伪装者,http://mmitv.top/pltv/yy.php?id=1345494225
 YY_伪装者,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1345494225
 YY_伪装者,http://kkiptv.hk3.20212021.ml/yy.php?id=1345494225
 YY_伪装者,http://luotuo.ycchenrong.cn/dl/yy.php?id=1345494225
+YY_伪装者,http://106.53.212.251:80/daili/yy.php?id=1345494225
 
 YY_老九门,http://data.3g.yy.com/live/hls/1353877164/1353877164
-YY_老九门,http://106.53.212.251:80/daili/yy.php?id=1353877164
-YY_老九门,http://maomao.kandiantv.cn/yy.php?id=1353877164
-YY_老九门,http://mmitv.top/pltv/yy.php?id=1353877164
 YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353877164
 YY_老九门,http://dl.zhoujie218.top/dl/yy.php?id=1353877164
+YY_老九门,http://maomao.kandiantv.cn/yy.php?id=1353877164
+YY_老九门,http://mmitv.top/pltv/yy.php?id=1353877164
 YY_老九门,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353877164
 YY_老九门,http://kkiptv.hk3.20212021.ml/yy.php?id=1353877164
 YY_老九门,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353877164
+YY_老九门,http://106.53.212.251:80/daili/yy.php?id=1353877164
 
 YY_武林外传,http://data.3g.yy.com/live/hls/1354752120/1354752120
-YY_武林外传,http://106.53.212.251:80/daili/yy.php?id=1354752120
-YY_武林外传,http://maomao.kandiantv.cn/yy.php?id=1354752120
-YY_武林外传,http://mmitv.top/pltv/yy.php?id=1354752120
 YY_武林外传,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354752120
 YY_武林外传,http://dl.zhoujie218.top/dl/yy.php?id=1354752120
+YY_武林外传,http://maomao.kandiantv.cn/yy.php?id=1354752120
+YY_武林外传,http://mmitv.top/pltv/yy.php?id=1354752120
 YY_武林外传,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354752120
 YY_武林外传,http://kkiptv.hk3.20212021.ml/yy.php?id=1354752120
 YY_武林外传,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354752120
+YY_武林外传,http://106.53.212.251:80/daili/yy.php?id=1354752120
 
 虎牙_爱情公寓,http://159.75.85.63:35455/huya/11336726
 虎牙_爱情公寓,http://epg.112114.xyz/huya/11336726
@@ -4351,24 +4354,24 @@ bili_Langx,http://121.36.35.255:8686/bilibili/24022841?line=first
 bili_Langx,http://luotuo.ycchenrong.cn/dl/bili.php?id=24022841
 
 YY_24小时音乐,http://data.3g.yy.com/live/hls/54880976/54880976
-YY_24小时音乐,http://106.53.212.251:80/daili/yy.php?id=54880976
-YY_24小时音乐,http://maomao.kandiantv.cn/yy.php?id=54880976
-YY_24小时音乐,http://mmitv.top/pltv/yy.php?id=54880976
 YY_24小时音乐,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=54880976
 YY_24小时音乐,http://dl.zhoujie218.top/dl/yy.php?id=54880976
+YY_24小时音乐,http://maomao.kandiantv.cn/yy.php?id=54880976
+YY_24小时音乐,http://mmitv.top/pltv/yy.php?id=54880976
 YY_24小时音乐,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=54880976
 YY_24小时音乐,http://kkiptv.hk3.20212021.ml/yy.php?id=54880976
 YY_24小时音乐,http://luotuo.ycchenrong.cn/dl/yy.php?id=54880976
+YY_24小时音乐,http://106.53.212.251:80/daili/yy.php?id=54880976
 
 YY_24小时舞蹈,http://data.3g.yy.com/live/hls/22490906/22490906
-YY_24小时舞蹈,http://106.53.212.251:80/daili/yy.php?id=22490906
-YY_24小时舞蹈,http://maomao.kandiantv.cn/yy.php?id=22490906
-YY_24小时舞蹈,http://mmitv.top/pltv/yy.php?id=22490906
 YY_24小时舞蹈,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=22490906
 YY_24小时舞蹈,http://dl.zhoujie218.top/dl/yy.php?id=22490906
+YY_24小时舞蹈,http://maomao.kandiantv.cn/yy.php?id=22490906
+YY_24小时舞蹈,http://mmitv.top/pltv/yy.php?id=22490906
 YY_24小时舞蹈,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=22490906
 YY_24小时舞蹈,http://kkiptv.hk3.20212021.ml/yy.php?id=22490906
 YY_24小时舞蹈,http://luotuo.ycchenrong.cn/dl/yy.php?id=22490906
+YY_24小时舞蹈,http://106.53.212.251:80/daili/yy.php?id=22490906
 
 音乐广播,#genre#
 CNR音乐之声,http://liveop.cctv.cn/hls/yyzs192/playlist.m3u8
