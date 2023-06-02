@@ -1366,6 +1366,14 @@ iHOT爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
 
 CCTV5,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw204565833_1124997173/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523115420&ContentId=265667565&timezone=UTC&mtv_session=2d5c8ba50cb0ea0eab2af8aa3461dd6e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9b29912bfe26a5edae41ab23e0d6c330
 CCTV5,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw1688826514_901439235/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502020653&ContentId=265667565&timezone=UTC&mtv_session=3177375de61e6d908173afc3088d7a87&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3d2f15addfeeda3df20b2e1028c19ee
+
+CCTV5_标清,http://220.178.228.153:1935/live/cctv5/playlist.m3u8
+CCTV5_标清,http://111.20.40.170/PLTV/88888888/224/3221225780/index.m3u8
+CCTV5_标清,http://111.20.40.173/PLTV/88888888/224/3221225780/index.m3u8
+CCTV5_标清,http://111.20.40.160/PLTV/88888888/224/3221225780/index.m3u8
+CCTV5_标清,http://111.20.40.168/PLTV/88888888/224/3221225780/index.m3u8
+CCTV5_标清,http://111.20.40.169/PLTV/88888888/224/3221225780/index.m3u8
+
 CCTV5+,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw1317890840_1114738950/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523121253&ContentId=265106763&timezone=UTC&mtv_session=e44cf1f9832e09f24663132b88fe9e93&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ba2d78ec09d852d41a5c8d8a727f269a
 CCTV5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1773110673_-840138635/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502020817&ContentId=265106763&timezone=UTC&mtv_session=33a99760467ab112878258ce3c14bab0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cecd6c66d3c6e359b6df8eb1b12499a0
 CCTV5,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
@@ -1989,6 +1997,16 @@ bili_奥特曼,http://luotuo.ycchenrong.cn/dl/bili.php?id=7076493
 
 CCTV6,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw1389614661_294721010/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523121405&ContentId=265667482&timezone=UTC&mtv_session=c5e7bc8d9b678c9555264df35067e09e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=346070632cf8e8d26e00a57d6bae7deb
 CCTV6,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw1825068082_-1227054226/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502020909&ContentId=265667482&timezone=UTC&mtv_session=1f8959adbec9f4f47656913aca2ef81a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d406788616d43da22142887235f5c511
+
+CCTV6_标清,http://111.20.40.170/PLTV/88888888/224/3221225779/index.m3u8
+CCTV6_标清,http://111.20.40.171/PLTV/88888888/224/3221225779/index.m3u8
+CCTV6_标清,http://111.20.40.172/PLTV/88888888/224/3221225779/index.m3u8
+CCTV6_标清,http://111.20.40.160/PLTV/88888888/224/3221225779/index.m3u8
+CCTV6_标清,http://111.20.40.162/PLTV/88888888/224/3221225779/index.m3u8
+CCTV6_标清,http://111.20.40.163/PLTV/88888888/224/3221225779/index.m3u8
+CCTV6_标清,http://111.20.40.164/PLTV/88888888/224/3221225779/index.m3u8
+CCTV6_标清,http://111.20.40.165/PLTV/88888888/224/3221225779/index.m3u8
+
 CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203302.m3u8
 CCTV6,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
 CCTV6,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
