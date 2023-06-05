@@ -267,9 +267,6 @@ CCTV央视台球,http://111.20.40.170/PLTV/88888893/224/3221226956/index.m3u8
 CCTV央视台球,http://111.20.40.160/PLTV/88888893/224/3221226956/index.m3u8
 CGTN,http://111.20.40.170/PLTV/88888888/224/3221225745/index.m3u8
 CGTN,http://111.20.40.165/PLTV/88888888/224/3221225745/index.m3u8
-4K测试,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-4K测试,http://111.20.40.171/PLTV/88888893/224/3221226352/index.m3u8
-4K测试,http://111.20.40.160/PLTV/88888893/224/3221226352/index.m3u8
 
 CCTV1,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
 CCTV1,http://livesource.ynbit.cn:2790/live/OP001/cctv-1hd/2500/2500.m3u8
@@ -334,6 +331,8 @@ CCTV14,http://125.210.152.19:9120/live/hzgq-cctvsegq-h264.m3u8
 CCTV15,http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
 CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
+CGTN,http://125.210.152.19:9120/live/hszx-cctvgj-h264.m3u8
+中国教育4台,http://125.210.152.19:9120/live/hszx-CETV-4-h264.m3u8
 
 
 
@@ -438,7 +437,7 @@ CCTV15,http://iptv.kjrzxhb.top:2086/udp/239.11.0.26:5140
 CCTV16,http://iptv.kjrzxhb.top:2086/udp/239.11.0.67:5140
 CCTV17,http://iptv.kjrzxhb.top:2086/udp/239.11.0.107:5140
 CGTN,http://iptv.kjrzxhb.top:2086/udp/239.11.0.245:5140
-CGTN记录,http://iptv.kjrzxhb.top:2086/udp/239.11.0.138:5140
+CGTN纪录,http://iptv.kjrzxhb.top:2086/udp/239.11.0.138:5140
 中国教育1台,http://iptv.kjrzxhb.top:2086/udp/239.11.0.139:5140
 中国教育2台,http://iptv.kjrzxhb.top:2086/udp/239.11.0.246:5140
 中国教育3台,http://iptv.kjrzxhb.top:2086/udp/239.11.0.247:5140
@@ -464,7 +463,7 @@ CCTV16,http://iptv.kjrzxhb.top/rtp/239.11.0.67:5140
 CCTV16-4K,http://iptv.kjrzxhb.top/rtp/239.10.0.187:5140
 CCTV17,http://iptv.kjrzxhb.top/rtp/239.11.0.107:5140
 CGTN,http://iptv.kjrzxhb.top/rtp/239.11.0.245:5140
-CGTN记录,http://iptv.kjrzxhb.top/rtp/239.11.0.138:5140
+CGTN纪录,http://iptv.kjrzxhb.top/rtp/239.11.0.138:5140
 中国教育1台,http://iptv.kjrzxhb.top/rtp/239.11.0.139:5140
 中国教育2台,http://iptv.kjrzxhb.top/rtp/239.11.0.246:5140
 中国教育3台,http://iptv.kjrzxhb.top/rtp/239.11.0.247:5140
@@ -605,6 +604,9 @@ CGTN,http://111.20.40.160/PLTV/88888888/224/3221225745/index.m3u8
 CGTN,http://111.20.40.162/PLTV/88888888/224/3221225745/index.m3u8
 CGTN,http://111.20.40.163/PLTV/88888888/224/3221225745/index.m3u8
 CGTN,http://111.20.40.164/PLTV/88888888/224/3221225745/index.m3u8
+测试,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+测试,http://111.20.40.171/PLTV/88888893/224/3221226352/index.m3u8
+测试,http://111.20.40.160/PLTV/88888893/224/3221226352/index.m3u8
 
 
 
@@ -827,23 +829,13 @@ CCTV17,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv17/1.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
 宁夏卫视,http://img.ye23.win/iptv2025ok@gmail.com/2211bc/121.27.php?id=41/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-
 陕西卫视,http://111.20.40.171/PLTV/88888893/224/3221226356/index.m3u8
 陕西卫视,http://111.20.40.172/PLTV/88888893/224/3221226389/index.m3u8
 西藏卫视,http://111.20.40.167/PLTV/88888893/224/3221226212/index.m3u8
 西藏卫视,http://111.20.40.170/PLTV/88888893/224/3221226212/index.m3u8
+大湾区卫视,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
 大湾区卫视,http://39.134.136.205:6610/200000001898/460000089800010108/1.m3u8?IAS=
 大湾区卫视,http://120.84.96.82:808/hls/67/index.m3u8
-佛坪电视台,http://111.20.40.170/PLTV/88888893/224/3221226454/index.m3u8
-佛坪电视台,http://111.20.40.171/PLTV/88888893/224/3221226454/index.m3u8
-洋县电视台-1,http://111.20.40.170/PLTV/88888893/224/3221226938/index.m3u8
-洋县电视台-1,http://111.20.40.171/PLTV/88888893/224/3221226938/index.m3u8
-汉中-1,http://111.20.40.170/PLTV/88888893/224/3221226331/index.m3u8
-汉中-1,http://111.20.40.171/PLTV/88888893/224/3221226331/index.m3u8
-南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
-CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 
 
 
@@ -852,7 +844,6 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 安徽卫视,http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8
-北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
 北京卫视,http://125.210.152.19:9120/live/hzgq-bjgqws-h264.m3u8
 兵团卫视,http://125.210.152.19:9120/live/hszx-bttv-h264.m3u8
 东方卫视,http://125.210.152.19:9120/live/hzgq-dftvgq-h264.m3u8
@@ -1039,6 +1030,15 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 湖南卫视,http://live.ldntv.cn/hnws/hd/live.m3u8
 湖南卫视,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
 江西卫视,http://219.142.149.55:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
+佛坪电视台,http://111.20.40.170/PLTV/88888893/224/3221226454/index.m3u8
+佛坪电视台,http://111.20.40.171/PLTV/88888893/224/3221226454/index.m3u8
+洋县电视台-1,http://111.20.40.170/PLTV/88888893/224/3221226938/index.m3u8
+洋县电视台-1,http://111.20.40.171/PLTV/88888893/224/3221226938/index.m3u8
+汉中-1,http://111.20.40.170/PLTV/88888893/224/3221226331/index.m3u8
+汉中-1,http://111.20.40.171/PLTV/88888893/224/3221226331/index.m3u8
+南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
+CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 陕西卫视,http://111.20.40.171/PLTV/88888893/224/3221226556/index.m3u8
 陕西卫视,http://111.20.40.171/PLTV/88888893/224/3221226893/index.m3u8
 陕西卫视,http://111.20.40.172/PLTV/88888893/224/3221226388/index.m3u8
@@ -1223,7 +1223,6 @@ CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 西藏卫视,http://117.169.124.149:8080/live/xizangstv/index.m3u8
 贵州卫视,http://117.169.124.149:8080/live/guizhoustv/index.m3u8
 陕西卫视,http://117.169.124.149:8080/live/shanxi1stv/index.m3u8
-山东教育卫视,http://117.169.124.149:8080/live/shandongjy/index.m3u8
 
 New频道,#genre#
 超级电视剧,http://39.134.136.205:6610/200000001898/460000089800010065/1.m3u8?IAS=
@@ -1515,7 +1514,8 @@ NewTV武搏世界,http://39.134.136.205:6610/200000001898/460000089800010135/1.m
 NewTV武搏世界,http://39.135.138.58:18890/PLTV/88888888/224/3221225656/index.m3u8
 NewTV武搏世界,http://39.134.115.163:8080/PLTV/88888910/224/3221225656/index.m3u8
 NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-杭州亚运,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+华数服务,http://125.210.152.19:9120/live/hzgq-hsfwgq-h264.m3u8
+杭州体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 ELEVEN体育1,http://61.221.81.93:8534/hls/77/80/ch62.m3u8
 ELEVEN体育1,rtmp://9wv7.mine.nu/sat/tv731
 ELEVEN体育2,http://61.221.81.93:8539/hls/77/80/ch62.m3u8
@@ -1565,11 +1565,7 @@ CCTV9,http://iptv.kjrzxhb.top/rtp/239.11.0.111:5140
 
 CCTV9,http://120.84.96.82:808/hls/9/index.m3u8
 CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
-金鹰纪实,http://111.20.40.162/PLTV/88888893/224/3221226351/index.m3u8
-金鹰纪实,http://111.20.40.163/PLTV/88888893/224/3221226351/index.m3u8
-金鹰纪实,http://111.20.40.164/PLTV/88888893/224/3221226351/index.m3u8
-金鹰纪实,http://111.20.40.165/PLTV/88888893/224/3221226351/index.m3u8
-金鹰纪实,http://111.20.40.173/PLTV/88888893/224/3221226351/index.m3u8
+金鹰纪实,http://111.20.40.170/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://223.151.51.27:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
 金鹰纪实,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43087/index.m3u8
@@ -1577,9 +1573,13 @@ CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 金鹰纪实,http://111.20.40.160/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://111.20.40.166/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://111.20.40.167/PLTV/88888893/224/3221226351/index.m3u8
-金鹰纪实,http://111.20.40.170/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://111.20.40.171/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://111.20.40.172/PLTV/88888893/224/3221226351/index.m3u8
+金鹰纪实,http://111.20.40.162/PLTV/88888893/224/3221226351/index.m3u8
+金鹰纪实,http://111.20.40.163/PLTV/88888893/224/3221226351/index.m3u8
+金鹰纪实,http://111.20.40.164/PLTV/88888893/224/3221226351/index.m3u8
+金鹰纪实,http://111.20.40.165/PLTV/88888893/224/3221226351/index.m3u8
+金鹰纪实,http://111.20.40.173/PLTV/88888893/224/3221226351/index.m3u8
 金鹰纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221226198/index.m3u8
 金鹰纪实,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-jinyingjs/1.m3u8?zhund
 
@@ -1604,13 +1604,19 @@ CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 纪实人文,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?ProgramID=&encrypt=
 纪实人文,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?ProgramID=&encrypt=
 
+北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
+北京纪实,http://42.176.185.28:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 CGTN纪录,http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/ysp/2010155402.m3u8
 CGTN纪录,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155402.m3u8
-CGTN记录,http://iptv.kjrzxhb.top:2086/udp/239.11.0.138:5140
-CGTN记录,http://iptv.kjrzxhb.top/rtp/239.11.0.138:5140
+CGTN纪录,http://iptv.kjrzxhb.top:2086/udp/239.11.0.138:5140
+CGTN纪录,http://iptv.kjrzxhb.top/rtp/239.11.0.138:5140
 
 精品纪录,http://39.134.136.205:6610/200000001898/460000089800010076/1.m3u8?IAS=
 
+求索纪录,http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
 求索纪录,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
 求索纪录,http://39.134.136.161:6610/000000001000/2000000004000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=3$ITV
 求索生活,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
@@ -1694,6 +1700,7 @@ IPTV萌宠TV,http://222.128.98.255:4000/rtp/239.3.1.102:8001
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
 新动漫,http://ainm.cc/c/tv/php/as.php?id=xdm 
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+浙江少儿,http://125.210.152.19:9120/live/hzgq-zjsegq-h264.m3u8
 广东少儿,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1200
 广东少儿,http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs5&auth=rinimabi
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
