@@ -1365,8 +1365,7 @@ CCTV央视台球,http://111.20.40.171/PLTV/88888893/224/3221226956/index.m3u8
 CCTV央视台球,http://111.20.40.172/PLTV/88888893/224/3221226956/index.m3u8
 CCTV央视台球,http://111.20.40.173/PLTV/88888893/224/3221226956/index.m3u8
 
-咪咕24小时体育
-台,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
+咪咕24小时体育台,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 咪咕体育,http://39.134.136.150:6610/200000001898/460000089800010148/1.m3u8?IAS=
 全民热练,http://39.134.136.150:6610/200000001898/460000089800010147/1.m3u8?IAS=
 SiTV劲爆体育,http://120.204.20.48/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
