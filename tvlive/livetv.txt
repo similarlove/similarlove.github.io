@@ -1582,114 +1582,114 @@ i-Fun动漫,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u
 
 bili_巴啦啦小魔仙,https://cn-jsyz-ct-03-24.bilivideo.com/live-bvc/159186/live_1382_62070028/index.m3u8
 bili_巴啦啦小魔仙,http://epg.112114.xyz/bili/22138494
+bili_巴啦啦小魔仙,http://121.36.35.255:8686/bilibili/22138494?line=first
 bili_巴啦啦小魔仙,http://159.75.85.63:35455/bilibili/22138494?line=first
+bili_巴啦啦小魔仙,http://luotuo.ycchenrong.cn/dl/bili.php?id=22138494
 bili_巴啦啦小魔仙,http://diyp.112114.xyz/bili/22138494
 bili_巴啦啦小魔仙,http://jiandjh.51vip.biz:35455/bilibili/22138494?line=first
 bili_巴啦啦小魔仙,http://epg.112114.eu.org/bili/22138494
-bili_巴啦啦小魔仙,http://121.36.35.255:8686/bilibili/22138494?line=first
-bili_巴啦啦小魔仙,http://luotuo.ycchenrong.cn/dl/bili.php?id=22138494
 
 bili_百变小樱(国语),https://cn-hnld-ct-01-18.bilivideo.com/live-bvc/785818/live_258988618_8862202.m3u8
 bili_百变小樱(国语),http://epg.112114.xyz/bili/13407617
+bili_百变小樱(国语),http://121.36.35.255:8686/bilibili/13407617?line=first
 bili_百变小樱(国语),http://159.75.85.63:35455/bilibili/13407617?line=first
+bili_百变小樱(国语),http://luotuo.ycchenrong.cn/dl/bili.php?id=13407617
 bili_百变小樱(国语),http://diyp.112114.xyz/bili/13407617
 bili_百变小樱(国语),http://jiandjh.51vip.biz:35455/bilibili/13407617?line=first
 bili_百变小樱(国语),http://epg.112114.eu.org/bili/13407617
-bili_百变小樱(国语),http://121.36.35.255:8686/bilibili/13407617?line=first
-bili_百变小樱(国语),http://luotuo.ycchenrong.cn/dl/bili.php?id=13407617
 
 bili_百变小樱,https://cn-cq-ct-01-13.bilivideo.com/live-bvc/346505/live_513534_6777982/index.m3u8
 bili_百变小樱,http://epg.112114.xyz/bili/58833
+bili_百变小樱,http://121.36.35.255:8686/bilibili/58833?line=first
 bili_百变小樱,http://159.75.85.63:35455/bilibili/58833?line=first
+bili_百变小樱,http://luotuo.ycchenrong.cn/dl/bili.php?id=58833
 bili_百变小樱,http://diyp.112114.xyz/bili/58833
 bili_百变小樱,http://jiandjh.51vip.biz:35455/bilibili/58833?line=first
 bili_百变小樱,http://epg.112114.eu.org/bili/58833
-bili_百变小樱,http://121.36.35.255:8686/bilibili/58833?line=first
-bili_百变小樱,http://luotuo.ycchenrong.cn/dl/bili.php?id=58833
 
 bili_犬夜叉,https://cn-jsyz-ct-03-46.bilivideo.com/live-bvc/548522/live_7357950_7574215/index.m3u8
 bili_犬夜叉,http://epg.112114.xyz/bili/4519788
+bili_犬夜叉,http://121.36.35.255:8686/bilibili/4519788?line=first
 bili_犬夜叉,http://159.75.85.63:35455/bilibili/4519788?line=first
+bili_犬夜叉,http://luotuo.ycchenrong.cn/dl/bili.php?id=4519788
 bili_犬夜叉,http://diyp.112114.xyz/bili/4519788
 bili_犬夜叉,http://jiandjh.51vip.biz:35455/bilibili/4519788?line=first
 bili_犬夜叉,http://epg.112114.eu.org/bili/4519788
-bili_犬夜叉,http://121.36.35.255:8686/bilibili/4519788?line=first
-bili_犬夜叉,http://luotuo.ycchenrong.cn/dl/bili.php?id=4519788
 
 bili_犬夜叉(国语超清),https://cn-cq-ct-01-15.bilivideo.com/live-bvc/614707/live_117426918_46670190/index.m3u8
 bili_犬夜叉(国语超清),http://epg.112114.xyz/bili/22356720
+bili_犬夜叉(国语超清),http://121.36.35.255:8686/bilibili/22356720?line=first
 bili_犬夜叉(国语超清),http://159.75.85.63:35455/bilibili/22356720?line=first
+bili_犬夜叉(国语超清),http://luotuo.ycchenrong.cn/dl/bili.php?id=22356720
 bili_犬夜叉(国语超清),http://diyp.112114.xyz/bili/22356720
 bili_犬夜叉(国语超清),http://jiandjh.51vip.biz:35455/bilibili/22356720?line=first
 bili_犬夜叉(国语超清),http://epg.112114.eu.org/bili/22356720
-bili_犬夜叉(国语超清),http://121.36.35.255:8686/bilibili/22356720?line=first
-bili_犬夜叉(国语超清),http://luotuo.ycchenrong.cn/dl/bili.php?id=22356720
 
 bili_犬夜叉(国语),https://cn-jsyz-ct-03-34.bilivideo.com/live-bvc/446132/live_4414446_3718430/index.m3u8
 bili_犬夜叉(国语),http://epg.112114.xyz/bili/11224983
+bili_犬夜叉(国语),http://121.36.35.255:8686/bilibili/11224983?line=first
 bili_犬夜叉(国语),http://159.75.85.63:35455/bilibili/11224983?line=first
+bili_犬夜叉(国语),http://luotuo.ycchenrong.cn/dl/bili.php?id=11224983
 bili_犬夜叉(国语),http://diyp.112114.xyz/bili/11224983
 bili_犬夜叉(国语),http://jiandjh.51vip.biz:35455/bilibili/11224983?line=first
 bili_犬夜叉(国语),http://epg.112114.eu.org/bili/11224983
-bili_犬夜叉(国语),http://121.36.35.255:8686/bilibili/11224983?line=first
-bili_犬夜叉(国语),http://luotuo.ycchenrong.cn/dl/bili.php?id=11224983
 
 bili_猫和老鼠,https://hy49x86x255x22xy.mcdn.bilivideo.cn:486/live-bvc/327837/live_2370062_9705826/index.m3u8
 bili_猫和老鼠,https://cn-hbyc-ct-02-24.bilivideo.com/live-bvc/327837/live_2370062_9705826/index.m3u8
 bili_猫和老鼠,http://epg.112114.xyz/bili/1024814
+bili_猫和老鼠,http://121.36.35.255:8686/bilibili/1024814?line=first
 bili_猫和老鼠,http://159.75.85.63:35455/bilibili/1024814?line=first
+bili_猫和老鼠,http://luotuo.ycchenrong.cn/dl/bili.php?id=1024814
 bili_猫和老鼠,http://diyp.112114.xyz/bili/1024814
 bili_猫和老鼠,http://jiandjh.51vip.biz:35455/bilibili/1024814?line=first
 bili_猫和老鼠,http://epg.112114.eu.org/bili/1024814
-bili_猫和老鼠,http://121.36.35.255:8686/bilibili/1024814?line=first
-bili_猫和老鼠,http://luotuo.ycchenrong.cn/dl/bili.php?id=1024814
 
 bili_哆啦A梦,https://cn-hbyc-ct-02-28.bilivideo.com/live-bvc/629171/live_476514679_62120968.m3u8
 bili_哆啦A梦,https://cn-zjjh-ct-04-03.bilivideo.com/live-bvc/985903/live_476514679_62120968/index.m3u8
 bili_哆啦A梦,http://epg.112114.xyz/bili/22724987
+bili_哆啦A梦,http://121.36.35.255:8686/bilibili/22724987?line=first
 bili_哆啦A梦,http://159.75.85.63:35455/bilibili/22724987?line=first
+bili_哆啦A梦,http://luotuo.ycchenrong.cn/dl/bili.php?id=22724987
 bili_哆啦A梦,http://diyp.112114.xyz/bili/22724987
 bili_哆啦A梦,http://jiandjh.51vip.biz:35455/bilibili/22724987?line=first
 bili_哆啦A梦,http://epg.112114.eu.org/bili/22724987
-bili_哆啦A梦,http://121.36.35.255:8686/bilibili/22724987?line=first
-bili_哆啦A梦,http://luotuo.ycchenrong.cn/dl/bili.php?id=22724987
 
 bili_海绵宝宝,https://cn-hnld-ct-01-28.bilivideo.com/live-bvc/568125/live_26844491_67730119/index.m3u8
 bili_海绵宝宝,http://epg.112114.xyz/bili/22535653
+bili_海绵宝宝,http://121.36.35.255:8686/bilibili/22535653?line=first
 bili_海绵宝宝,http://159.75.85.63:35455/bilibili/22535653?line=first
+bili_海绵宝宝,http://luotuo.ycchenrong.cn/dl/bili.php?id=22535653
 bili_海绵宝宝,http://diyp.112114.xyz/bili/22535653
 bili_海绵宝宝,http://jiandjh.51vip.biz:35455/bilibili/22535653?line=first
 bili_海绵宝宝,http://epg.112114.eu.org/bili/22535653
-bili_海绵宝宝,http://121.36.35.255:8686/bilibili/22535653?line=first
-bili_海绵宝宝,http://luotuo.ycchenrong.cn/dl/bili.php?id=22535653
 
 bili_神厨小福贵,https://cn-hnld-ct-01-21.bilivideo.com/live-bvc/341042/live_3493114186565824_11124102.m3u8
 bili_神厨小福贵,http://epg.112114.xyz/bili/27176989
+bili_神厨小福贵,http://121.36.35.255:8686/bilibili/27176989?line=first
 bili_神厨小福贵,http://159.75.85.63:35455/bilibili/27176989?line=first
+bili_神厨小福贵,http://luotuo.ycchenrong.cn/dl/bili.php?id=27176989
 bili_神厨小福贵,http://diyp.112114.xyz/bili/27176989
 bili_神厨小福贵,http://jiandjh.51vip.biz:35455/bilibili/27176989?line=first
 bili_神厨小福贵,http://epg.112114.eu.org/bili/27176989
-bili_神厨小福贵,http://121.36.35.255:8686/bilibili/27176989?line=first
-bili_神厨小福贵,http://luotuo.ycchenrong.cn/dl/bili.php?id=27176989
 
 bili_米老鼠和唐老鸭,https://cn-hnld-ct-01-54.bilivideo.com/live-bvc/181653/live_504203839_41768156/index.m3u8
 bili_米老鼠和唐老鸭,http://epg.112114.xyz/bili/26773355
+bili_米老鼠和唐老鸭,http://121.36.35.255:8686/bilibili/26773355?line=first
 bili_米老鼠和唐老鸭,http://159.75.85.63:35455/bilibili/26773355?line=first
+bili_米老鼠和唐老鸭,http://luotuo.ycchenrong.cn/dl/bili.php?id=26773355
 bili_米老鼠和唐老鸭,http://diyp.112114.xyz/bili/26773355
 bili_米老鼠和唐老鸭,http://jiandjh.51vip.biz:35455/bilibili/26773355?line=first
 bili_米老鼠和唐老鸭,http://epg.112114.eu.org/bili/26773355
-bili_米老鼠和唐老鸭,http://121.36.35.255:8686/bilibili/26773355?line=first
-bili_米老鼠和唐老鸭,http://luotuo.ycchenrong.cn/dl/bili.php?id=26773355
 
 bili_蜡笔小新,https://xy49x86x255x23xy.mcdn.bilivideo.cn:486/live-bvc/934546/live_415611_4082642/index.m3u8
 bili_蜡笔小新,https://cn-zjjh-ct-04-07.bilivideo.com/live-bvc/934546/live_415611_4082642/index.m3u8
 bili_蜡笔小新,http://epg.112114.xyz/bili/10375360
+bili_蜡笔小新,http://121.36.35.255:8686/bilibili/10375360?line=first
 bili_蜡笔小新,http://159.75.85.63:35455/bilibili/10375360?line=first
+bili_蜡笔小新,http://luotuo.ycchenrong.cn/dl/bili.php?id=10375360
 bili_蜡笔小新,http://diyp.112114.xyz/bili/10375360
 bili_蜡笔小新,http://jiandjh.51vip.biz:35455/bilibili/10375360?line=first
 bili_蜡笔小新,http://epg.112114.eu.org/bili/10375360
-bili_蜡笔小新,http://121.36.35.255:8686/bilibili/10375360?line=first
-bili_蜡笔小新,http://luotuo.ycchenrong.cn/dl/bili.php?id=10375360
 
 虎牙_成龙历险记,http://121.36.35.255:8686/huya/11352946
 虎牙_成龙历险记,http://epg.112114.xyz/huya/11352946
@@ -1741,12 +1741,12 @@ bili_蜡笔小新,http://luotuo.ycchenrong.cn/dl/bili.php?id=10375360
 
 bili_奥特曼,https://cn-hbyc-ct-02-28.bilivideo.com/live-bvc/315230/live_23803304_6445235/index.m3u8
 bili_奥特曼,http://epg.112114.xyz/bili/7076493
+bili_奥特曼,http://121.36.35.255:8686/bilibili/7076493?line=first
 bili_奥特曼,http://159.75.85.63:35455/bilibili/7076493?line=first
+bili_奥特曼,http://luotuo.ycchenrong.cn/dl/bili.php?id=7076493
 bili_奥特曼,http://diyp.112114.xyz/bili/7076493
 bili_奥特曼,http://jiandjh.51vip.biz:35455/bilibili/7076493?line=first
 bili_奥特曼,http://epg.112114.eu.org/bili/7076493
-bili_奥特曼,http://121.36.35.255:8686/bilibili/7076493?line=first
-bili_奥特曼,http://luotuo.ycchenrong.cn/dl/bili.php?id=7076493
 
 湖南频道,#genre#
 湖南卫视,http://hms124nc1972679568.live.aikan.miguvideo.com/wh7f454c46tw2215084931_1056528440/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523122750&ContentId=265667721&timezone=UTC&mtv_session=2087d936232d8541f7282fa7c7ec18b4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e498430e148a19d752f5b3f7c8db41b9
@@ -2050,12 +2050,12 @@ IPTV4K超清,http://www.dyc.com.cn:8002/rtp/239.3.1.249:8001
 
 bili_电影轮播,https://cn-zjjh-ct-04-34.bilivideo.com/live-bvc/786350/live_420351661_73320656_1500/index.m3u8
 bili_电影轮播,http://epg.112114.xyz/bili/21448296
+bili_电影轮播,http://121.36.35.255:8686/bilibili/21448296?line=first
 bili_电影轮播,http://159.75.85.63:35455/bilibili/21448296?line=first
+bili_电影轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=21448296
 bili_电影轮播,http://diyp.112114.xyz/bili/21448296
 bili_电影轮播,http://jiandjh.51vip.biz:35455/bilibili/21448296?line=first
 bili_电影轮播,http://epg.112114.eu.org/bili/21448296
-bili_电影轮播,http://121.36.35.255:8686/bilibili/21448296?line=first
-bili_电影轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=21448296
 
 斗鱼_电影轮播1,http://epg.112114.xyz/douyu/85894
 斗鱼_电影轮播1,http://159.75.85.63:35455/douyu/85894
@@ -2244,16 +2244,27 @@ bili_电影轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=21448296
 虎牙_喜剧轮播,http://diyp.112114.xyz/huya/11352883
 虎牙_喜剧轮播,http://live.aptvapp.com/live/huya/11352883
 
-YY_电影轮播,http://data.3g.yy.com/live/hls/1353059120/1353059120
-YY_电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120
-YY_电影轮播,http://dl.zhoujie218.top/dl/yy.php?id=1353059120
-YY_电影轮播,https://www.goodiptv.club/yy/1353059120
-YY_电影轮播,http://maomao.kandiantv.cn.php?id=1353059120
-YY_电影轮播,http://mmitv.top/pltv/yy.php?id=1353059120
-YY_电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1353059120
-YY_电影轮播,http://kkiptv.hk3.20212021.ml/yy.php?id=1353059120
-YY_电影轮播,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353059120
-YY_电影轮播,http://106.53.212.251:80/daili/yy.php?id=1353059120
+YY_电影轮播1,http://data.3g.yy.com/live/hls/1382793140/1382793140
+YY_电影轮播1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382793140
+YY_电影轮播1,http://dl.zhoujie218.top/dl/yy.php?id=1382793140
+YY_电影轮播1,https://www.goodiptv.club/yy/1382793140
+YY_电影轮播1,http://maomao.kandiantv.cn.php?id=1382793140
+YY_电影轮播1,http://mmitv.top/pltv/yy.php?id=1382793140
+YY_电影轮播1,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382793140
+YY_电影轮播1,http://kkiptv.hk3.20212021.ml/yy.php?id=1382793140
+YY_电影轮播1,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382793140
+YY_电影轮播1,http://106.53.212.251:80/daili/yy.php?id=1382793140
+
+YY_电影轮播2,http://data.3g.yy.com/live/hls/1382627144/1382627144
+YY_电影轮播2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382627144
+YY_电影轮播2,http://dl.zhoujie218.top/dl/yy.php?id=1382627144
+YY_电影轮播2,https://www.goodiptv.club/yy/1382627144
+YY_电影轮播2,http://maomao.kandiantv.cn.php?id=1382627144
+YY_电影轮播2,http://mmitv.top/pltv/yy.php?id=1382627144
+YY_电影轮播2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382627144
+YY_电影轮播2,http://kkiptv.hk3.20212021.ml/yy.php?id=1382627144
+YY_电影轮播2,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382627144
+YY_电影轮播2,http://106.53.212.251:80/daili/yy.php?id=1382627144
 
 斗鱼_欧美科幻1,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼_欧美科幻1,http://epg.112114.xyz/douyu/20415
@@ -2368,6 +2379,17 @@ besTV全球大片,https://ca88.cf/api/bestv.php?id=qqdp8m/8000000
 虎牙_周星驰,http://epg.112114.eu.org/huya/11342412
 虎牙_周星驰,http://diyp.112114.xyz/huya/11342412
 虎牙_周星驰,http://live.aptvapp.com/live/huya/11342412
+
+YY_周星驰,http://data.3g.yy.com/live/hls/1382736808/1382736808
+YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736808
+YY_周星驰,http://dl.zhoujie218.top/dl/yy.php?id=1382736808
+YY_周星驰,https://www.goodiptv.club/yy/1382736808
+YY_周星驰,http://maomao.kandiantv.cn.php?id=1382736808
+YY_周星驰,http://mmitv.top/pltv/yy.php?id=1382736808
+YY_周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1382736808
+YY_周星驰,http://kkiptv.hk3.20212021.ml/yy.php?id=1382736808
+YY_周星驰,http://luotuo.ycchenrong.cn/dl/yy.php?id=1382736808
+YY_周星驰,http://106.53.212.251:80/daili/yy.php?id=1382736808
 
 咪咕_吴京,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw2905320336_-460304639/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523123921&ContentId=265219090&timezone=UTC&mtv_session=658c73606b7c67630707b287d49a8d58&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8821b7d3e4c3271a1731276d0b6c4a3b
 咪咕_吴京,http://hms324nc1972679588.live.aikan.miguvideo.com/wh7f454c46tw2163858470_-1385286039/wd_r2/virtuallive/5100180867/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502043758&ContentId=265219090&timezone=UTC&mtv_session=eb339490deac2ea0dbc4988aa85690f7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cd4ad290beeaec01b8424999f6ab44fa
@@ -2511,23 +2533,24 @@ YY_成龙,http://106.53.212.251:80/daili/yy.php?id=1354888751
 虎牙_周润发,http://diyp.112114.xyz/huya/11342387
 虎牙_周润发,http://live.aptvapp.com/live/huya/11342387
 
+
 恐怖电影,#genre#
 
 bili_僵尸鬼片1,http://epg.112114.xyz/bili/193
+bili_僵尸鬼片1,http://121.36.35.255:8686/bilibili/193?line=first
 bili_僵尸鬼片1,http://159.75.85.63:35455/bilibili/193?line=first
+bili_僵尸鬼片1,http://luotuo.ycchenrong.cn/dl/bili.php?id=193
 bili_僵尸鬼片1,http://diyp.112114.xyz/bili/193
 bili_僵尸鬼片1,http://jiandjh.51vip.biz:35455/bilibili/193?line=first
 bili_僵尸鬼片1,http://epg.112114.eu.org/bili/193
-bili_僵尸鬼片1,http://121.36.35.255:8686/bilibili/193?line=first
-bili_僵尸鬼片1,http://luotuo.ycchenrong.cn/dl/bili.php?id=193
 
 bili_僵尸鬼片2,http://epg.112114.xyz/bili/21377115
+bili_僵尸鬼片2,http://121.36.35.255:8686/bilibili/21377115?line=first
 bili_僵尸鬼片2,http://159.75.85.63:35455/bilibili/21377115?line=first
+bili_僵尸鬼片2,http://luotuo.ycchenrong.cn/dl/bili.php?id=21377115
 bili_僵尸鬼片2,http://diyp.112114.xyz/bili/21377115
 bili_僵尸鬼片2,http://jiandjh.51vip.biz:35455/bilibili/21377115?line=first
 bili_僵尸鬼片2,http://epg.112114.eu.org/bili/21377115
-bili_僵尸鬼片2,http://121.36.35.255:8686/bilibili/21377115?line=first
-bili_僵尸鬼片2,http://luotuo.ycchenrong.cn/dl/bili.php?id=21377115
 
 斗鱼_僵尸鬼片1,http://epg.112114.xyz/douyu/218859
 斗鱼_僵尸鬼片1,http://159.75.85.63:35455/douyu/218859
@@ -2584,7 +2607,7 @@ bili_僵尸鬼片2,http://luotuo.ycchenrong.cn/dl/bili.php?id=21377115
 虎牙_僵尸鬼片,http://diyp.112114.xyz/huya/11342421
 虎牙_僵尸鬼片,http://live.aptvapp.com/live/huya/11342421
 
-YY_僵尸鬼片1,http://data.3g.yy.com/live/hls/1351505899/1353685311
+YY_僵尸鬼片1,http://data.3g.yy.com/live/hls/1353685311/1353685311
 YY_僵尸鬼片1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
 YY_僵尸鬼片1,http://dl.zhoujie218.top/dl/yy.php?id=1353685311
 YY_僵尸鬼片1,https://www.goodiptv.club/yy/1353685311
@@ -2595,16 +2618,27 @@ YY_僵尸鬼片1,http://kkiptv.hk3.20212021.ml/yy.php?id=1353685311
 YY_僵尸鬼片1,http://luotuo.ycchenrong.cn/dl/yy.php?id=1353685311
 YY_僵尸鬼片1,http://106.53.212.251:80/daili/yy.php?id=1353685311
 
-YY_僵尸鬼片2,http://data.3g.yy.com/live/hls/1351505899/1351505899
-YY_僵尸鬼片2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-YY_僵尸鬼片2,http://dl.zhoujie218.top/dl/yy.php?id=1351505899
-YY_僵尸鬼片2,https://www.goodiptv.club/yy/1351505899
-YY_僵尸鬼片2,http://maomao.kandiantv.cn.php?id=1351505899
-YY_僵尸鬼片2,http://mmitv.top/pltv/yy.php?id=1351505899
-YY_僵尸鬼片2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
-YY_僵尸鬼片2,http://kkiptv.hk3.20212021.ml/yy.php?id=1351505899
-YY_僵尸鬼片2,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351505899
-YY_僵尸鬼片2,http://106.53.212.251:80/daili/yy.php?id=1351505899
+YY_僵尸鬼片2,http://data.3g.yy.com/live/hls/1455891197/1455891197
+YY_僵尸鬼片2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1455891197
+YY_僵尸鬼片2,http://dl.zhoujie218.top/dl/yy.php?id=1455891197
+YY_僵尸鬼片2,https://www.goodiptv.club/yy/1455891197
+YY_僵尸鬼片2,http://maomao.kandiantv.cn.php?id=1455891197
+YY_僵尸鬼片2,http://mmitv.top/pltv/yy.php?id=1455891197
+YY_僵尸鬼片2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1455891197
+YY_僵尸鬼片2,http://kkiptv.hk3.20212021.ml/yy.php?id=1455891197
+YY_僵尸鬼片2,http://luotuo.ycchenrong.cn/dl/yy.php?id=1455891197
+YY_僵尸鬼片2,http://106.53.212.251:80/daili/yy.php?id=1455891197
+
+YY_僵尸鬼片3,http://data.3g.yy.com/live/hls/1351505899/1351505899
+YY_僵尸鬼片3,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+YY_僵尸鬼片3,http://dl.zhoujie218.top/dl/yy.php?id=1351505899
+YY_僵尸鬼片3,https://www.goodiptv.club/yy/1351505899
+YY_僵尸鬼片3,http://maomao.kandiantv.cn.php?id=1351505899
+YY_僵尸鬼片3,http://mmitv.top/pltv/yy.php?id=1351505899
+YY_僵尸鬼片3,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1351505899
+YY_僵尸鬼片3,http://kkiptv.hk3.20212021.ml/yy.php?id=1351505899
+YY_僵尸鬼片3,http://luotuo.ycchenrong.cn/dl/yy.php?id=1351505899
+YY_僵尸鬼片3,http://106.53.212.251:80/daili/yy.php?id=1351505899
 
 斗鱼_国外鬼片,http://epg.112114.xyz/douyu/96577
 斗鱼_国外鬼片,http://159.75.85.63:35455/douyu/96577
@@ -2828,12 +2862,12 @@ iHOT爱青春,http://39.134.136.150:6610/000000001000/6000000006000100630/index.
 
 bili_西游记,https://cn-hbyc-ct-02-18.bilivideo.com/live-bvc/820633/live_52370715_1734265/index.m3u8
 bili_西游记,http://epg.112114.xyz/bili/1929865
+bili_西游记,http://121.36.35.255:8686/bilibili/1929865?line=first
 bili_西游记,http://159.75.85.63:35455/bilibili/1929865?line=first
+bili_西游记,http://luotuo.ycchenrong.cn/dl/bili.php?id=1929865
 bili_西游记,http://diyp.112114.xyz/bili/1929865
 bili_西游记,http://jiandjh.51vip.biz:35455/bilibili/1929865?line=first
 bili_西游记,http://epg.112114.eu.org/bili/1929865
-bili_西游记,http://121.36.35.255:8686/bilibili/1929865?line=first
-bili_西游记,http://luotuo.ycchenrong.cn/dl/bili.php?id=1929865
 
 斗鱼_西游记续,http://epg.112114.xyz/douyu/3113309
 斗鱼_西游记续,http://159.75.85.63:35455/douyu/3113309
@@ -2893,22 +2927,22 @@ bili_西游记,http://luotuo.ycchenrong.cn/dl/bili.php?id=1929865
 bili_老三国,https://cn-zjjh-ct-04-33.bilivideo.com/live-bvc/373452/live_24106619_9917198/index.m3u8
 bili_老三国,https://c1--cn-gotcha208.bilivideo.com/live-bvc/373452/live_24106619_9917198/index.m3u8
 bili_老三国,http://epg.112114.xyz/bili/202427
+bili_老三国,http://121.36.35.255:8686/bilibili/202427?line=first
 bili_老三国,http://159.75.85.63:35455/bilibili/202427?line=first
+bili_老三国,http://luotuo.ycchenrong.cn/dl/bili.php?id=202427
 bili_老三国,http://diyp.112114.xyz/bili/202427
 bili_老三国,http://jiandjh.51vip.biz:35455/bilibili/202427?line=first
 bili_老三国,http://epg.112114.eu.org/bili/202427
-bili_老三国,http://121.36.35.255:8686/bilibili/202427?line=first
-bili_老三国,http://luotuo.ycchenrong.cn/dl/bili.php?id=202427
 
 bili_新水浒,https://cn-hbyc-ct-02-11.bilivideo.com/live-bvc/278940/live_491238578_38415174/index.m3u8
 bili_新水浒,https://cn-jsyz-ct-03-23.bilivideo.com/live-bvc/206730/live_491238578_38415174/index.m3u8
 bili_新水浒,http://epg.112114.xyz/bili/21747822
+bili_新水浒,http://121.36.35.255:8686/bilibili/21747822?line=first
 bili_新水浒,http://159.75.85.63:35455/bilibili/21747822?line=first
+bili_新水浒,http://luotuo.ycchenrong.cn/dl/bili.php?id=21747822
 bili_新水浒,http://diyp.112114.xyz/bili/21747822
 bili_新水浒,http://jiandjh.51vip.biz:35455/bilibili/21747822?line=first
 bili_新水浒,http://epg.112114.eu.org/bili/21747822
-bili_新水浒,http://121.36.35.255:8686/bilibili/21747822?line=first
-bili_新水浒,http://luotuo.ycchenrong.cn/dl/bili.php?id=21747822
 
 虎牙_新水浒,http://121.36.35.255:8686/huya/11342384
 虎牙_新水浒,http://epg.112114.xyz/huya/11342384
@@ -2929,12 +2963,12 @@ bili_新水浒,http://luotuo.ycchenrong.cn/dl/bili.php?id=21747822
 bili_红楼梦,https://cn-jsyz-ct-03-51.bilivideo.com/live-bvc/936893/live_211993858_7364279/index.m3u8
 bili_红楼梦,https://cn-zjjh-ct-04-10.bilivideo.com/live-bvc/160836/live_211993858_7364279/index.m3u8
 bili_红楼梦,http://epg.112114.xyz/bili/5568482
+bili_红楼梦,http://121.36.35.255:8686/bilibili/5568482?line=first
 bili_红楼梦,http://159.75.85.63:35455/bilibili/5568482?line=first
+bili_红楼梦,http://luotuo.ycchenrong.cn/dl/bili.php?id=5568482
 bili_红楼梦,http://diyp.112114.xyz/bili/5568482
 bili_红楼梦,http://jiandjh.51vip.biz:35455/bilibili/5568482?line=first
 bili_红楼梦,http://epg.112114.eu.org/bili/5568482
-bili_红楼梦,http://121.36.35.255:8686/bilibili/5568482?line=first
-bili_红楼梦,http://luotuo.ycchenrong.cn/dl/bili.php?id=5568482
 
 YY_红楼梦,http://data.3g.yy.com/live/hls/1382745084/1382745084
 YY_红楼梦,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745084
@@ -3121,59 +3155,11 @@ YY_僵尸道长,http://106.53.212.251:80/daili/yy.php?id=1355720895
 bili_陆小凤传奇,https://cn-zjjh-ct-04-05.bilivideo.com/live-bvc/780831/live_666950392_57766735_1500/index.m3u8
 bili_陆小凤传奇,http://epg.112114.xyz/bili/23108922
 bili_陆小凤传奇,http://121.36.35.255:8686/bilibili/23108922?line=first
-bili_陆小凤传奇,http://diyp.112114.xyz/bili/23108922
 bili_陆小凤传奇,http://159.75.85.63:35455/bilibili/23108922?line=first
-bili_陆小凤传奇,http://epg.112114.eu.org/bili/23108922
-bili_陆小凤传奇,http://jiandjh.51vip.biz:35455/bilibili/23108922?line=first
 bili_陆小凤传奇,http://luotuo.ycchenrong.cn/dl/bili.php?id=23108922
-
-虎牙_95版神雕,http://121.36.35.255:8686/huya/23865171
-虎牙_95版神雕,http://epg.112114.xyz/huya/23865171
-虎牙_95版神雕,http://jiandjh.51vip.biz:35455/huya/23865171
-虎牙_95版神雕,http://43.128.40.42:198/虎牙直播/huya.php?id=23865171
-虎牙_95版神雕,http://www.lebaobei.top:35455/huya/23865171
-虎牙_95版神雕,https://www.goodiptv.club/huya/23865171
-虎牙_95版神雕,http://mmitv.top/pltv/huya.php?id=23865171
-虎牙_95版神雕,https://live.goodiptv.club/api/huya.php?id=23865171
-虎牙_95版神雕,http://159.75.85.63:35455/huya/23865171
-虎牙_95版神雕,http://139.99.40.48:35455/huya/23865171
-虎牙_95版神雕,http://huanqiuzhibo.cn/manifest/huya.php?id=23865171
-虎牙_95版神雕,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=23865171
-虎牙_95版神雕,http://epg.112114.eu.org/huya/23865171
-虎牙_95版神雕,http://diyp.112114.xyz/huya/23865171
-虎牙_95版神雕,http://live.aptvapp.com/live/huya/23865171
-
-虎牙_14版神雕侠侣,http://121.36.35.255:8686/huya/11352964
-虎牙_14版神雕侠侣,http://epg.112114.xyz/huya/11352964
-虎牙_14版神雕侠侣,http://jiandjh.51vip.biz:35455/huya/11352964
-虎牙_14版神雕侠侣,http://43.128.40.42:198/虎牙直播/huya.php?id=11352964
-虎牙_14版神雕侠侣,http://www.lebaobei.top:35455/huya/11352964
-虎牙_14版神雕侠侣,https://www.goodiptv.club/huya/11352964
-虎牙_14版神雕侠侣,http://mmitv.top/pltv/huya.php?id=11352964
-虎牙_14版神雕侠侣,https://live.goodiptv.club/api/huya.php?id=11352964
-虎牙_14版神雕侠侣,http://159.75.85.63:35455/huya/11352964
-虎牙_14版神雕侠侣,http://139.99.40.48:35455/huya/11352964
-虎牙_14版神雕侠侣,http://huanqiuzhibo.cn/manifest/huya.php?id=11352964
-虎牙_14版神雕侠侣,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=11352964
-虎牙_14版神雕侠侣,http://epg.112114.eu.org/huya/11352964
-虎牙_14版神雕侠侣,http://diyp.112114.xyz/huya/11352964
-虎牙_14版神雕侠侣,http://live.aptvapp.com/live/huya/11352964
-
-虎牙_02版倚天,http://121.36.35.255:8686/huya/11342403
-虎牙_02版倚天,http://epg.112114.xyz/huya/11342403
-虎牙_02版倚天,http://jiandjh.51vip.biz:35455/huya/11342403
-虎牙_02版倚天,http://43.128.40.42:198/虎牙直播/huya.php?id=11342403
-虎牙_02版倚天,http://www.lebaobei.top:35455/huya/11342403
-虎牙_02版倚天,https://www.goodiptv.club/huya/11342403
-虎牙_02版倚天,http://mmitv.top/pltv/huya.php?id=11342403
-虎牙_02版倚天,https://live.goodiptv.club/api/huya.php?id=11342403
-虎牙_02版倚天,http://159.75.85.63:35455/huya/11342403
-虎牙_02版倚天,http://139.99.40.48:35455/huya/11342403
-虎牙_02版倚天,http://huanqiuzhibo.cn/manifest/huya.php?id=11342403
-虎牙_02版倚天,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=11342403
-虎牙_02版倚天,http://epg.112114.eu.org/huya/11342403
-虎牙_02版倚天,http://diyp.112114.xyz/huya/11342403
-虎牙_02版倚天,http://live.aptvapp.com/live/huya/11342403
+bili_陆小凤传奇,http://diyp.112114.xyz/bili/23108922
+bili_陆小凤传奇,http://jiandjh.51vip.biz:35455/bilibili/23108922?line=first
+bili_陆小凤传奇,http://epg.112114.eu.org/bili/23108922
 
 虎牙_97版天龙,http://121.36.35.255:8686/huya/23903123
 虎牙_97版天龙,http://epg.112114.xyz/huya/23903123
@@ -3222,6 +3208,65 @@ bili_陆小凤传奇,http://luotuo.ycchenrong.cn/dl/bili.php?id=23108922
 虎牙_98版鹿鼎记,http://epg.112114.eu.org/huya/23865080
 虎牙_98版鹿鼎记,http://diyp.112114.xyz/huya/23865080
 虎牙_98版鹿鼎记,http://live.aptvapp.com/live/huya/23865080
+
+YY_83版射雕,http://data.3g.yy.com/live/hls/1354210357/1354210357
+YY_83版射雕,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354210357
+YY_83版射雕,http://dl.zhoujie218.top/dl/yy.php?id=1354210357
+YY_83版射雕,https://www.goodiptv.club/yy/1354210357
+YY_83版射雕,http://maomao.kandiantv.cn.php?id=1354210357
+YY_83版射雕,http://mmitv.top/pltv/yy.php?id=1354210357
+YY_83版射雕,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354210357
+YY_83版射雕,http://kkiptv.hk3.20212021.ml/yy.php?id=1354210357
+YY_83版射雕,http://luotuo.ycchenrong.cn/dl/yy.php?id=1354210357
+YY_83版射雕,http://106.53.212.251:80/daili/yy.php?id=1354210357
+
+虎牙_95版神雕,http://121.36.35.255:8686/huya/23865171
+虎牙_95版神雕,http://epg.112114.xyz/huya/23865171
+虎牙_95版神雕,http://jiandjh.51vip.biz:35455/huya/23865171
+虎牙_95版神雕,http://43.128.40.42:198/虎牙直播/huya.php?id=23865171
+虎牙_95版神雕,http://www.lebaobei.top:35455/huya/23865171
+虎牙_95版神雕,https://www.goodiptv.club/huya/23865171
+虎牙_95版神雕,http://mmitv.top/pltv/huya.php?id=23865171
+虎牙_95版神雕,https://live.goodiptv.club/api/huya.php?id=23865171
+虎牙_95版神雕,http://159.75.85.63:35455/huya/23865171
+虎牙_95版神雕,http://139.99.40.48:35455/huya/23865171
+虎牙_95版神雕,http://huanqiuzhibo.cn/manifest/huya.php?id=23865171
+虎牙_95版神雕,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=23865171
+虎牙_95版神雕,http://epg.112114.eu.org/huya/23865171
+虎牙_95版神雕,http://diyp.112114.xyz/huya/23865171
+虎牙_95版神雕,http://live.aptvapp.com/live/huya/23865171
+
+虎牙_14版神雕侠侣,http://121.36.35.255:8686/huya/11352964
+虎牙_14版神雕侠侣,http://epg.112114.xyz/huya/11352964
+虎牙_14版神雕侠侣,http://jiandjh.51vip.biz:35455/huya/11352964
+虎牙_14版神雕侠侣,http://43.128.40.42:198/虎牙直播/huya.php?id=11352964
+虎牙_14版神雕侠侣,http://www.lebaobei.top:35455/huya/11352964
+虎牙_14版神雕侠侣,https://www.goodiptv.club/huya/11352964
+虎牙_14版神雕侠侣,http://mmitv.top/pltv/huya.php?id=11352964
+虎牙_14版神雕侠侣,https://live.goodiptv.club/api/huya.php?id=11352964
+虎牙_14版神雕侠侣,http://159.75.85.63:35455/huya/11352964
+虎牙_14版神雕侠侣,http://139.99.40.48:35455/huya/11352964
+虎牙_14版神雕侠侣,http://huanqiuzhibo.cn/manifest/huya.php?id=11352964
+虎牙_14版神雕侠侣,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=11352964
+虎牙_14版神雕侠侣,http://epg.112114.eu.org/huya/11352964
+虎牙_14版神雕侠侣,http://diyp.112114.xyz/huya/11352964
+虎牙_14版神雕侠侣,http://live.aptvapp.com/live/huya/11352964
+
+虎牙_02版倚天,http://121.36.35.255:8686/huya/11342403
+虎牙_02版倚天,http://epg.112114.xyz/huya/11342403
+虎牙_02版倚天,http://jiandjh.51vip.biz:35455/huya/11342403
+虎牙_02版倚天,http://43.128.40.42:198/虎牙直播/huya.php?id=11342403
+虎牙_02版倚天,http://www.lebaobei.top:35455/huya/11342403
+虎牙_02版倚天,https://www.goodiptv.club/huya/11342403
+虎牙_02版倚天,http://mmitv.top/pltv/huya.php?id=11342403
+虎牙_02版倚天,https://live.goodiptv.club/api/huya.php?id=11342403
+虎牙_02版倚天,http://159.75.85.63:35455/huya/11342403
+虎牙_02版倚天,http://139.99.40.48:35455/huya/11342403
+虎牙_02版倚天,http://huanqiuzhibo.cn/manifest/huya.php?id=11342403
+虎牙_02版倚天,http://twoww.doudouzi888.com:198/虎牙直播/huya.php?id=11342403
+虎牙_02版倚天,http://epg.112114.eu.org/huya/11342403
+虎牙_02版倚天,http://diyp.112114.xyz/huya/11342403
+虎牙_02版倚天,http://live.aptvapp.com/live/huya/11342403
 
 虎牙_99版雪山飞狐,http://121.36.35.255:8686/huya/23734176
 虎牙_99版雪山飞狐,http://epg.112114.xyz/huya/23734176
@@ -3449,12 +3494,13 @@ YY_大明王朝1566,http://106.53.212.251:80/daili/yy.php?id=1382736879
 
 bili_雍正王朝,https://cn-hbyc-ct-02-28.bilivideo.com/live-bvc/150429/live_2046322894_55611050/index.m3u8
 bili_雍正王朝,http://epg.112114.xyz/bili/26969370
+bili_雍正王朝,http://121.36.35.255:8686/bilibili/26969370?line=first
 bili_雍正王朝,http://159.75.85.63:35455/bilibili/26969370?line=first
+bili_雍正王朝,http://luotuo.ycchenrong.cn/dl/bili.php?id=26969370
 bili_雍正王朝,http://diyp.112114.xyz/bili/26969370
 bili_雍正王朝,http://jiandjh.51vip.biz:35455/bilibili/26969370?line=first
 bili_雍正王朝,http://epg.112114.eu.org/bili/26969370
-bili_雍正王朝,http://121.36.35.255:8686/bilibili/26969370?line=first
-bili_雍正王朝,http://luotuo.ycchenrong.cn/dl/bili.php?id=26969370
+
 
 虎牙_雍正王朝,http://121.36.35.255:8686/huya/11342439
 虎牙_雍正王朝,http://epg.112114.xyz/huya/11342439
@@ -3485,12 +3531,12 @@ YY_宰相刘罗锅,http://106.53.212.251:80/daili/yy.php?id=1382745191
 
 bili_纪晓岚,https://cn-hnld-ct-01-23.bilivideo.com/live-bvc/741214/live_391663120_60721084_bluray/index.m3u8
 bili_纪晓岚,http://epg.112114.xyz/bili/23900931
+bili_纪晓岚,http://121.36.35.255:8686/bilibili/23900931?line=first
 bili_纪晓岚,http://159.75.85.63:35455/bilibili/23900931?line=first
+bili_纪晓岚,http://luotuo.ycchenrong.cn/dl/bili.php?id=23900931
 bili_纪晓岚,http://diyp.112114.xyz/bili/23900931
 bili_纪晓岚,http://jiandjh.51vip.biz:35455/bilibili/23900931?line=first
 bili_纪晓岚,http://epg.112114.eu.org/bili/23900931
-bili_纪晓岚,http://121.36.35.255:8686/bilibili/23900931?line=first
-bili_纪晓岚,http://luotuo.ycchenrong.cn/dl/bili.php?id=23900931
 
 虎牙_纪晓岚,http://121.36.35.255:8686/huya/11342396
 虎牙_纪晓岚,http://epg.112114.xyz/huya/11342396
@@ -3510,12 +3556,12 @@ bili_纪晓岚,http://luotuo.ycchenrong.cn/dl/bili.php?id=23900931
 
 bili_康熙微服私访记,https://cn-hbyc-ct-02-24.bilivideo.com/live-bvc/556794/live_1676689156_77836047/index.m3u8
 bili_康熙微服私访记,http://epg.112114.xyz/bili/25860180
+bili_康熙微服私访记,http://121.36.35.255:8686/bilibili/25860180?line=first
 bili_康熙微服私访记,http://159.75.85.63:35455/bilibili/25860180?line=first
+bili_康熙微服私访记,http://luotuo.ycchenrong.cn/dl/bili.php?id=25860180
 bili_康熙微服私访记,http://diyp.112114.xyz/bili/25860180
 bili_康熙微服私访记,http://jiandjh.51vip.biz:35455/bilibili/25860180?line=first
 bili_康熙微服私访记,http://epg.112114.eu.org/bili/25860180
-bili_康熙微服私访记,http://121.36.35.255:8686/bilibili/25860180?line=first
-bili_康熙微服私访记,http://luotuo.ycchenrong.cn/dl/bili.php?id=25860180
 
 虎牙_康熙微服私访记,http://121.36.35.255:8686/huya/11342418
 虎牙_康熙微服私访记,http://epg.112114.xyz/huya/11342418
@@ -3819,22 +3865,22 @@ StarWorld,http://61.221.81.93:8521/hls/77/80/ch62.m3u8
 bili_LOL赛事1,https://xy123x246x199x2xy.mcdn.bilivideo.cn:486/live-bvc/306339/live_50329118_9516950_bluray/index.m3u8
 bili_LOL赛事1,https://cn-hbyc-ct-02-15.bilivideo.com/live-bvc/306339/live_50329118_9516950_bluray/index.m3u8
 bili_LOL赛事1,http://epg.112114.xyz/bili/6
+bili_LOL赛事1,http://121.36.35.255:8686/bilibili/7734200?line=first
 bili_LOL赛事1,http://159.75.85.63:35455/bilibili/7734200?line=first
+bili_LOL赛事1,http://luotuo.ycchenrong.cn/dl/bili.php?id=6
 bili_LOL赛事1,http://diyp.112114.xyz/bili/6
 bili_LOL赛事1,http://jiandjh.51vip.biz:35455/bilibili/7734200?line=first
 bili_LOL赛事1,http://epg.112114.eu.org/bili/6
-bili_LOL赛事1,http://121.36.35.255:8686/bilibili/7734200?line=first
-bili_LOL赛事1,http://luotuo.ycchenrong.cn/dl/bili.php?id=6
 
 bili_LOL赛事2,https://xy125x75x230x185xy.mcdn.bilivideo.cn:486/live-bvc/756890/live_50329220_7780332_bluray/index.m3u8
 bili_LOL赛事2,https://cn-hbyc-ct-02-18.bilivideo.com/live-bvc/756890/live_50329220_7780332_bluray/index.m3u8
 bili_LOL赛事2,http://epg.112114.xyz/bili/616
+bili_LOL赛事2,http://121.36.35.255:8686/bilibili/8016907?line=first
 bili_LOL赛事2,http://159.75.85.63:35455/bilibili/8016907?line=first
+bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 bili_LOL赛事2,http://diyp.112114.xyz/bili/616
 bili_LOL赛事2,http://jiandjh.51vip.biz:35455/bilibili/8016907?line=first
 bili_LOL赛事2,http://epg.112114.eu.org/bili/616
-bili_LOL赛事2,http://121.36.35.255:8686/bilibili/8016907?line=first
-bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 
 斗鱼_成果,http://huanqiuzhibo.cn/manifest/douyu.php?id=8090190
 斗鱼_成果,http://159.75.85.63:35455/douyu/8090190
@@ -4600,51 +4646,51 @@ bili_LOL赛事2,http://luotuo.ycchenrong.cn/dl/bili.php?id=616
 bili_德云色,https://xy61x160x48x53xy.mcdn.bilivideo.cn:486/live-bvc/717530/live_8739477_3713195_bluray/index.m3u8
 bili_德云色,https://cn-hbyc-ct-02-12.bilivideo.com/live-bvc/717530/live_8739477_3713195_bluray/index.m3u8
 bili_德云色,http://epg.112114.xyz/bili/7777
+bili_德云色,http://121.36.35.255:8686/bilibili/545068?line=first
 bili_德云色,http://159.75.85.63:35455/bilibili/545068?line=first
+bili_德云色,http://luotuo.ycchenrong.cn/dl/bili.php?id=7777
 bili_德云色,http://diyp.112114.xyz/bili/7777
 bili_德云色,http://jiandjh.51vip.biz:35455/bilibili/545068?line=first
 bili_德云色,http://epg.112114.eu.org/bili/7777
-bili_德云色,http://121.36.35.255:8686/bilibili/545068?line=first
-bili_德云色,http://luotuo.ycchenrong.cn/dl/bili.php?id=7777
 
 bili_icon,https://cn-hbyc-ct-02-29.bilivideo.com/live-bvc/715968/live_41109777_21959261_bluray/index.m3u8
 bili_icon,http://epg.112114.xyz/bili/4219
+bili_icon,http://121.36.35.255:8686/bilibili/4219?line=first
 bili_icon,http://159.75.85.63:35455/bilibili/4219?line=first
+bili_icon,http://luotuo.ycchenrong.cn/dl/bili.php?id=4219
 bili_icon,http://diyp.112114.xyz/bili/4219
 bili_icon,http://jiandjh.51vip.biz:35455/bilibili/4219?line=first
 bili_icon,http://epg.112114.eu.org/bili/4219
-bili_icon,http://121.36.35.255:8686/bilibili/4219?line=first
-bili_icon,http://luotuo.ycchenrong.cn/dl/bili.php?id=4219
 
 bili_mage,https://xy60x188x228x226xy.mcdn.bilivideo.cn:486/live-bvc/219156/live_472497932_61249918_bluray/index.m3u8
 bili_mage,https://cn-hbyc-ct-02-13.bilivideo.com/live-bvc/219156/live_472497932_61249918_bluray/index.m3u8
 bili_mage,http://epg.112114.xyz/bili/22508985
+bili_mage,http://121.36.35.255:8686/bilibili/22508985?line=first
 bili_mage,http://159.75.85.63:35455/bilibili/22508985?line=first
+bili_mage,http://luotuo.ycchenrong.cn/dl/bili.php?id=22508985
 bili_mage,http://diyp.112114.xyz/bili/22508985
 bili_mage,http://jiandjh.51vip.biz:35455/bilibili/22508985?line=first
 bili_mage,http://epg.112114.eu.org/bili/22508985
-bili_mage,http://121.36.35.255:8686/bilibili/22508985?line=first
-bili_mage,http://luotuo.ycchenrong.cn/dl/bili.php?id=22508985
 
 bili_赵俊日,https://xy115x223x29x100xy.mcdn.bilivideo.cn:486/live-bvc/292595/live_66556492_85780045_bluray/index.m3u8
 bili_赵俊日,https://cn-hbyc-ct-02-17.bilivideo.com/live-bvc/292595/live_66556492_85780045_bluray/index.m3u8
 bili_赵俊日,http://epg.112114.xyz/bili/22174141
+bili_赵俊日,http://121.36.35.255:8686/bilibili/22174141?line=first
 bili_赵俊日,http://159.75.85.63:35455/bilibili/22174141?line=first
+bili_赵俊日,http://luotuo.ycchenrong.cn/dl/bili.php?id=22174141
 bili_赵俊日,http://diyp.112114.xyz/bili/22174141
 bili_赵俊日,http://jiandjh.51vip.biz:35455/bilibili/22174141?line=first
 bili_赵俊日,http://epg.112114.eu.org/bili/22174141
-bili_赵俊日,http://121.36.35.255:8686/bilibili/22174141?line=first
-bili_赵俊日,http://luotuo.ycchenrong.cn/dl/bili.php?id=22174141
 
 bili_Langx,https://xy49x86x255x39xy.mcdn.bilivideo.cn:486/live-bvc/950479/live_1467384952_88439206_bluray/index.m3u8
 bili_Langx,https://cn-hbyc-ct-02-12.bilivideo.com/live-bvc/950479/live_1467384952_88439206_bluray/index.m3u8
 bili_Langx,http://epg.112114.xyz/bili/24022841
+bili_Langx,http://121.36.35.255:8686/bilibili/24022841?line=first
 bili_Langx,http://159.75.85.63:35455/bilibili/24022841?line=first
+bili_Langx,http://luotuo.ycchenrong.cn/dl/bili.php?id=24022841
 bili_Langx,http://diyp.112114.xyz/bili/24022841
 bili_Langx,http://jiandjh.51vip.biz:35455/bilibili/24022841?line=first
 bili_Langx,http://epg.112114.eu.org/bili/24022841
-bili_Langx,http://121.36.35.255:8686/bilibili/24022841?line=first
-bili_Langx,http://luotuo.ycchenrong.cn/dl/bili.php?id=24022841
 
 YY_24小时音乐,http://data.3g.yy.com/live/hls/54880976/54880976
 YY_24小时音乐,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=54880976
