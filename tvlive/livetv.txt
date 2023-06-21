@@ -1138,18 +1138,7 @@ CCTV5_标清,http://111.20.40.169/PLTV/88888888/224/3221225780/index.m3u8
 
 CCTV5+,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw1317890840_1114738950/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523121253&ContentId=265106763&timezone=UTC&mtv_session=e44cf1f9832e09f24663132b88fe9e93&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ba2d78ec09d852d41a5c8d8a727f269a
 CCTV5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1773110673_-840138635/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502020817&ContentId=265106763&timezone=UTC&mtv_session=33a99760467ab112878258ce3c14bab0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cecd6c66d3c6e359b6df8eb1b12499a0
-CCTV5,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
-CCTV5,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205102.m3u8
-CCTV5+,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
-CCTV5+,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204502.m3u8
-CCTV16,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375002.m3u8
-CCTV16,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375002.m3u8
-CCTV风云足球,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
-CCTV风云足球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514202.m3u8
-CCTV高尔夫网球,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
-CCTV高尔夫网球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512502.m3u8
-CCTV央视台球,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513702.m3u8
-CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513702.m3u8
+
 CCTV5,http://111.20.40.170/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5,http://111.20.40.160/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5+,http://111.20.40.170/PLTV/88888888/224/3221225761/index.m3u8
@@ -1235,6 +1224,19 @@ CCTV央视台球,http://111.20.40.170/PLTV/88888893/224/3221226956/index.m3u8
 CCTV央视台球,http://111.20.40.171/PLTV/88888893/224/3221226956/index.m3u8
 CCTV央视台球,http://111.20.40.172/PLTV/88888893/224/3221226956/index.m3u8
 CCTV央视台球,http://111.20.40.173/PLTV/88888893/224/3221226956/index.m3u8
+
+CCTV5,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205102.m3u8
+CCTV5,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205102.m3u8
+CCTV5+,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204502.m3u8
+CCTV5+,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204502.m3u8
+CCTV16,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012375002.m3u8
+CCTV16,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375002.m3u8
+CCTV风云足球,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514202.m3u8
+CCTV风云足球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514202.m3u8
+CCTV高尔夫网球,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
+CCTV高尔夫网球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012512502.m3u8
+CCTV央视台球,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513702.m3u8
+CCTV央视台球,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513702.m3u8
 
 咪咕24小时体育台,http://39.136.173.106/hlsztemgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=
 咪咕体育,http://39.134.136.150:6610/200000001898/460000089800010148/1.m3u8?IAS=
@@ -1331,8 +1333,6 @@ ELEVEN体育2,rtmp://9wv7.mine.nu/sat/tv741
 纪录频道,#genre#
 CCTV9,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw1509691303_-384653509/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523121605&ContentId=265667202&timezone=UTC&mtv_session=f64213a1f06fb0fc4c3998f10e6743ff&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4f966c2139d46ba6be1d1f3321c0eef7
 CCTV9,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw2048313249_840024249/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502021253&ContentId=265667202&timezone=UTC&mtv_session=d9b144bf24524a53c9915c5cdbdb9c8d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a3c56dd004e852f911c523a5bee1f926
-CCTV9,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
-CCTV9,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499402.m3u8
 CCTV9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8
 CCTV9,http://cyz32.livehbindex.hbcatv.cn/live/50000020edf54f6c92778d0ccdfcca30.m3u8?bitrate=2300&pt=5
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
@@ -1345,9 +1345,8 @@ CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9,https://ca88.cf/api/bestv.php?id=cctv9hd8m/8000000
 CCTV9,http://iptv.kjrzxhb.top:2086/udp/239.11.0.111:5140
 CCTV9,http://iptv.kjrzxhb.top/rtp/239.11.0.111:5140
-
-CCTV9,http://120.84.96.82:808/hls/9/index.m3u8
-CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+CCTV9,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499402.m3u8
+CCTV9,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499402.m3u8
 
 金鹰纪实,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 金鹰纪实,http://111.20.40.170/PLTV/88888893/224/3221226351/index.m3u8
@@ -1411,10 +1410,11 @@ CCTV9,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
 北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
 北京纪实,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226656/1.m3u8
 
-CGTN纪录,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2010155402.m3u8
-CGTN纪录,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155402.m3u8
+CGTN纪录,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240366_1/encoder/0/playlist.m3u8?CONTENTID=00000110240366_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN纪录,http://iptv.kjrzxhb.top:2086/udp/239.11.0.138:5140
 CGTN纪录,http://iptv.kjrzxhb.top/rtp/239.11.0.138:5140
+CGTN纪录,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2010155402.m3u8
+CGTN纪录,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155402.m3u8
 
 求索纪录,http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8
 求索纪录,http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
@@ -1483,8 +1483,6 @@ iHOT爱美食,http://39.134.136.150:6610/000000001000/6000000006000120630/index.
 
 CCTV14,http://hms244nc1972679580.live.aikan.miguvideo.com/wh7f454c46tw1822568701_-926829483/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523122118&ContentId=265667325&timezone=UTC&mtv_session=c9a3eb0cc7416569afbde726d7feca2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8fb5b945a0bb2c2d152687d6342e215d
 CCTV14,http://hms244nc1972679580.live.aikan.miguvideo.com/wh7f454c46tw1718496920_1022128452/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502043033&ContentId=265667325&timezone=UTC&mtv_session=49878ecde8394ad73ce56a79b6be3fc9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f3ce6dd433a96b4a79f7a41e18afee25
-CCTV14,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204402.m3u8
-CCTV14,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204402.m3u8
 CCTV14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
 CCTV14,http://cyz32.livehbindex.hbcatv.cn/live/8a22035194884b1eb5515aac434c313c.m3u8?bitrate=2300&pt=5
 CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
@@ -1494,6 +1492,8 @@ CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV14,https://ca88.cf/api/bestv.php?id=cctvsehd8m/8000000
 CCTV14,http://iptv.kjrzxhb.top:2086/udp/239.11.0.114:5140
 CCTV14,http://iptv.kjrzxhb.top/rtp/239.11.0.114:5140
+CCTV14,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204402.m3u8
+CCTV14,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204402.m3u8
 
 黑莓动画,http://39.134.136.200:6610/200000001898/460000089800010002/1.m3u8?IAS=
 黑莓动画,http://39.134.136.150:6610/200000001898/460000089800010002/1.m3u8?IAS=
@@ -1761,8 +1761,6 @@ bili_奥特曼,http://epg.112114.eu.org/bili/7076493
 湖南频道,#genre#
 湖南卫视,http://hms124nc1972679568.live.aikan.miguvideo.com/wh7f454c46tw2215084931_1056528440/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523122750&ContentId=265667721&timezone=UTC&mtv_session=2087d936232d8541f7282fa7c7ec18b4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e498430e148a19d752f5b3f7c8db41b9
 湖南卫视,http://hms124nc1972679569.live.aikan.miguvideo.com/wh7f454c46tw3832555800_-16032643/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230501100027&ContentId=265667721&timezone=UTC&mtv_session=c4f6173213e8fabc5668f75320db88e6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0bf9d1915638a347c8285fc80e67a299
-湖南卫视,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296202.m3u8
-湖南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296202.m3u8
 湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
 湖南卫视,https://node1.olelive.com:6443/live/HNHD/hls.m3u8
@@ -1774,6 +1772,8 @@ bili_奥特曼,http://epg.112114.eu.org/bili/7076493
 湖南卫视,http://iptv.kjrzxhb.top/rtp/239.11.0.119:5140
 湖南卫视,http://223.151.51.27:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://live.ldntv.cn/hnws/hd/live.m3u8
+湖南卫视,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296202.m3u8
+湖南卫视,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000296202.m3u8
 湖南卫视,http://39.145.32.173/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/index.m3u8
 湖南电影,http://39.145.32.173/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel43029/index.m3u8
 湖南电影,http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1885,8 +1885,6 @@ CCTV6_标清,http://111.20.40.163/PLTV/88888888/224/3221225779/index.m3u8
 CCTV6_标清,http://111.20.40.164/PLTV/88888888/224/3221225779/index.m3u8
 CCTV6_标清,http://111.20.40.165/PLTV/88888888/224/3221225779/index.m3u8
 
-CCTV6,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203302.m3u8
-CCTV6,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203302.m3u8
 CCTV6,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
 CCTV6,http://111.20.40.173/PLTV/88888893/224/3221226393/index.m3u8
 CCTV6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
@@ -1901,6 +1899,8 @@ CCTV6,http://iptv.kjrzxhb.top:2086/udp/239.11.0.102:5140
 CCTV6,http://iptv.kjrzxhb.top/rtp/239.11.0.102:5140
 CCTV6,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
 CCTV6,http://111.20.40.172/PLTV/88888893/224/3221226393/index.m3u8
+CCTV6,http://58.205.220.58:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000203302.m3u8
+CCTV6,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203302.m3u8
 
 1905电影,http://107.151.203.111:2209/dl/19052305.php
 1905电影,http://awei.beimua.com/1905.php
@@ -2062,15 +2062,6 @@ IPTV4K超清,http://www.dyc.com.cn:8002/rtp/239.3.1.249:8001
 
 轮播电影,#genre#
 
-bili_电影轮播,https://cn-zjjh-ct-04-34.bilivideo.com/live-bvc/786350/live_420351661_73320656_1500/index.m3u8
-bili_电影轮播,http://epg.112114.xyz/bili/21448296
-bili_电影轮播,http://121.36.35.255:8686/bilibili/21448296?line=first
-bili_电影轮播,http://159.75.85.63:35455/bilibili/21448296?line=first
-bili_电影轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=21448296
-bili_电影轮播,http://diyp.112114.xyz/bili/21448296
-bili_电影轮播,http://jiandjh.51vip.biz:35455/bilibili/21448296?line=first
-bili_电影轮播,http://epg.112114.eu.org/bili/21448296
-
 斗鱼_电影轮播1,http://epg.112114.xyz/douyu/85894
 斗鱼_电影轮播1,http://159.75.85.63:35455/douyu/85894
 斗鱼_电影轮播1,https://www.goodiptv.club/douyu/85894
@@ -2161,6 +2152,15 @@ bili_电影轮播,http://epg.112114.eu.org/bili/21448296
 斗鱼_粤语电影3,http://diyp.112114.xyz/douyu/1226741
 斗鱼_粤语电影3,http://maomao.kandiantv.cn/douyu1.php?id=1226741
 斗鱼_粤语电影3,http://live.aptvapp.com/live/douyu/1226741
+
+bili_电影轮播,https://cn-zjjh-ct-04-34.bilivideo.com/live-bvc/786350/live_420351661_73320656_1500/index.m3u8
+bili_电影轮播,http://epg.112114.xyz/bili/21448296
+bili_电影轮播,http://121.36.35.255:8686/bilibili/21448296?line=first
+bili_电影轮播,http://159.75.85.63:35455/bilibili/21448296?line=first
+bili_电影轮播,http://luotuo.ycchenrong.cn/dl/bili.php?id=21448296
+bili_电影轮播,http://diyp.112114.xyz/bili/21448296
+bili_电影轮播,http://jiandjh.51vip.biz:35455/bilibili/21448296?line=first
+bili_电影轮播,http://epg.112114.eu.org/bili/21448296
 
 虎牙_放映厅,http://121.36.35.255:8686/huya/11602077
 虎牙_放映厅,http://www.lebaobei.top:35455/huya/11602077
@@ -2550,22 +2550,6 @@ YY_成龙,http://106.53.212.251:80/daili/yy.php?id=1354888751
 
 恐怖电影,#genre#
 
-bili_僵尸鬼片1,http://epg.112114.xyz/bili/193
-bili_僵尸鬼片1,http://121.36.35.255:8686/bilibili/193?line=first
-bili_僵尸鬼片1,http://159.75.85.63:35455/bilibili/193?line=first
-bili_僵尸鬼片1,http://luotuo.ycchenrong.cn/dl/bili.php?id=193
-bili_僵尸鬼片1,http://diyp.112114.xyz/bili/193
-bili_僵尸鬼片1,http://jiandjh.51vip.biz:35455/bilibili/193?line=first
-bili_僵尸鬼片1,http://epg.112114.eu.org/bili/193
-
-bili_僵尸鬼片2,http://epg.112114.xyz/bili/21377115
-bili_僵尸鬼片2,http://121.36.35.255:8686/bilibili/21377115?line=first
-bili_僵尸鬼片2,http://159.75.85.63:35455/bilibili/21377115?line=first
-bili_僵尸鬼片2,http://luotuo.ycchenrong.cn/dl/bili.php?id=21377115
-bili_僵尸鬼片2,http://diyp.112114.xyz/bili/21377115
-bili_僵尸鬼片2,http://jiandjh.51vip.biz:35455/bilibili/21377115?line=first
-bili_僵尸鬼片2,http://epg.112114.eu.org/bili/21377115
-
 斗鱼_僵尸鬼片1,http://epg.112114.xyz/douyu/218859
 斗鱼_僵尸鬼片1,http://159.75.85.63:35455/douyu/218859
 斗鱼_僵尸鬼片1,https://www.goodiptv.club/douyu/218859
@@ -2620,6 +2604,22 @@ bili_僵尸鬼片2,http://epg.112114.eu.org/bili/21377115
 虎牙_僵尸鬼片,http://epg.112114.eu.org/huya/11342421
 虎牙_僵尸鬼片,http://diyp.112114.xyz/huya/11342421
 虎牙_僵尸鬼片,http://live.aptvapp.com/live/huya/11342421
+
+bili_僵尸鬼片1,http://epg.112114.xyz/bili/193
+bili_僵尸鬼片1,http://121.36.35.255:8686/bilibili/193?line=first
+bili_僵尸鬼片1,http://159.75.85.63:35455/bilibili/193?line=first
+bili_僵尸鬼片1,http://luotuo.ycchenrong.cn/dl/bili.php?id=193
+bili_僵尸鬼片1,http://diyp.112114.xyz/bili/193
+bili_僵尸鬼片1,http://jiandjh.51vip.biz:35455/bilibili/193?line=first
+bili_僵尸鬼片1,http://epg.112114.eu.org/bili/193
+
+bili_僵尸鬼片2,http://epg.112114.xyz/bili/21377115
+bili_僵尸鬼片2,http://121.36.35.255:8686/bilibili/21377115?line=first
+bili_僵尸鬼片2,http://159.75.85.63:35455/bilibili/21377115?line=first
+bili_僵尸鬼片2,http://luotuo.ycchenrong.cn/dl/bili.php?id=21377115
+bili_僵尸鬼片2,http://diyp.112114.xyz/bili/21377115
+bili_僵尸鬼片2,http://jiandjh.51vip.biz:35455/bilibili/21377115?line=first
+bili_僵尸鬼片2,http://epg.112114.eu.org/bili/21377115
 
 YY_僵尸鬼片1,http://data.3g.yy.com/live/hls/1353685311/1353685311
 YY_僵尸鬼片1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
