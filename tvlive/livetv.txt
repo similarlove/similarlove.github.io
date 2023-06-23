@@ -146,6 +146,7 @@ CCTV4欧洲,http://39.136.173.106/hlsmgsplive.miguvideo.com:8088/migu/kailu/2020
 
 
 CCTV1,http://39.134.61.218/PLTV/88888888/224/3221227090/index.m3u8
+CCTV1,http://39.134.61.218/PLTV/88888888/224/3221227005/index.m3u8
 CCTV2,http://39.134.61.218/PLTV/88888888/224/3221226843/index.m3u8
 CCTV2,http://39.134.61.218/PLTV/88888888/224/3221226929/index.m3u8
 CCTV3,http://39.134.61.218/PLTV/88888888/224/3221226889/index.m3u8
@@ -1595,9 +1596,17 @@ iHOT爱美食,http://39.134.136.150:6610/000000001000/6000000006000120630/index.
 
 少儿动画,#genre#
 
-熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u8
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao01_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao02_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao03_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao04_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao05_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao06_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao07_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao08_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao09_2/index.m3u8
+熊猫频道,https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao10_2/index.m3u8
 
 CCTV14,http://hms244nc1972679580.live.aikan.miguvideo.com/wh7f454c46tw1822568701_-926829483/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523122118&ContentId=265667325&timezone=UTC&mtv_session=c9a3eb0cc7416569afbde726d7feca2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8fb5b945a0bb2c2d152687d6342e215d
 CCTV14,http://hms244nc1972679580.live.aikan.miguvideo.com/wh7f454c46tw1718496920_1022128452/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502043033&ContentId=265667325&timezone=UTC&mtv_session=49878ecde8394ad73ce56a79b6be3fc9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f3ce6dd433a96b4a79f7a41e18afee25
