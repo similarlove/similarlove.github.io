@@ -1218,6 +1218,12 @@ CCTV5+,http://111.20.40.164/PLTV/88888888/224/3221225761/index.m3u8
 CCTV16,http://111.20.40.169/PLTV/88888893/224/3221226921/index.m3u8
 CCTV16,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 
+CCTV5,http://39.134.61.218/PLTV/88888888/224/3221226900/index.m3u8
+CCTV5,http://39.134.61.218/PLTV/88888888/224/3221226944/index.m3u8
+CCTV5+,http://39.134.61.218/PLTV/88888888/224/3221227092/index.m3u8
+CCTV5+,http://39.134.61.218/PLTV/88888888/224/3221226912/index.m3u8
+CCTV16,http://39.134.61.218/PLTV/88888888/224/3221226910/index.m3u8
+
 CCTV5+,http://cyz32.livehbindex.hbcatv.cn/live/50000020484943edba96ac9f93f858ce.m3u8?bitrate=2300&pt=5
 CCTV5,http://cm.wshls.homecdn.com/live/11eec.m3u8?wsSession=7d72b982e38bf8b5dfd76655-168524062966970&wsIPSercert=ef62dba21687dc99c80453eaf37d6e64&wsMonitor=0
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -1249,12 +1255,6 @@ CCTV16,http://iptv.kjrzxhb.top:2086/udp/239.11.0.67:5140
 CCTV5,http://iptv.kjrzxhb.top/rtp/239.11.0.100:5140
 CCTV5+,http://iptv.kjrzxhb.top/rtp/239.11.0.241:5140
 CCTV16,http://iptv.kjrzxhb.top/rtp/239.11.0.67:5140
-
-CCTV5,http://39.134.61.218/PLTV/88888888/224/3221226900/index.m3u8
-CCTV5,http://39.134.61.218/PLTV/88888888/224/3221226944/index.m3u8
-CCTV5+,http://39.134.61.218/PLTV/88888888/224/3221227092/index.m3u8
-CCTV5+,http://39.134.61.218/PLTV/88888888/224/3221226912/index.m3u8
-CCTV16,http://39.134.61.218/PLTV/88888888/224/3221226910/index.m3u8
 
 CCTV5,http://111.20.40.162/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5,http://111.20.40.163/PLTV/88888893/224/3221226395/index.m3u8
@@ -1426,6 +1426,9 @@ ELEVEN体育2,rtmp://9wv7.mine.nu/sat/tv741
 
 CCTV9,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw2048313249_840024249/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=110.185.94.2&timestamp=20230502021253&ContentId=265667202&timezone=UTC&mtv_session=d9b144bf24524a53c9915c5cdbdb9c8d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a3c56dd004e852f911c523a5bee1f926
 CCTV9,http://hms444nc1972679600.live.aikan.miguvideo.com/wh7f454c46tw1509691303_-384653509/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.138.167.153&timestamp=20230523121605&ContentId=265667202&timezone=UTC&mtv_session=f64213a1f06fb0fc4c3998f10e6743ff&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4f966c2139d46ba6be1d1f3321c0eef7
+
+CCTV9,http://39.134.61.218/PLTV/88888888/224/3221226976/index.m3u8
+CCTV9,http://39.134.61.218/PLTV/88888888/224/3221226849/index.m3u8
 
 CCTV9,http://cyz32.livehbindex.hbcatv.cn/live/50000020edf54f6c92778d0ccdfcca30.m3u8?bitrate=2300&pt=5
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
